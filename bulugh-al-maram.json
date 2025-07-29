@@ -112,6 +112,7 @@
                 "english": "english translation",
                 "urdu": "urdu tarjama"
               },
+
               "narrators": [
                 {
                   "arabic": "Rawi 1",
@@ -123,6 +124,7 @@
                   "english": "Narrator two"
                 }
               ],
+              "ytLink": "https://www.youtube.com/embed/iMAbIh-4X1s?si=X5fyJav4HT9zSBGc",
               "references": [
                 {
                   "arabic": "ek",
@@ -137,10 +139,12 @@
                   "english": "muslim"
                 }
               ],
+            
               "summary": {
                 "urdu": "hadees urdu khulasa",
                 "english": "hadith english summary"
               },
+
               "explanation": [
                   {
                     "sectionTitle": {

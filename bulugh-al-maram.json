@@ -16,7 +16,295 @@
 
       "chapters": [
         {
-          "name": { "arabic": "", "english": "" }
+          "id": 1,
+          "name": {
+            "arabic": "باب أوقات الصلاة",
+            "english": "The Times Of Salat",
+            "urdu": "نماز کے اوقات"
+          },
+          "chapterSlug": "bab-ul-aukat",
+          "summary": {
+            "urdu": [
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa"
+            ],
+            "english": [
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary"
+            ]
+          },
+          "description": {
+            "urdu": "bab urdu tafseel",
+            "english": "chapter english description"
+          },
+          "hadiths": [
+            {
+              "id": 1,
+              "name": {
+                "arabic": "عَنْ أَبِي هُرَيْرَةَ - رضى الله عنه - قَالَ: قَالَ رَسُولُ اَللَّهِ - صلى الله عليه وسلم -فِي اَلْبَحْرِ: { هُوَ اَلطُّهُورُ مَاؤُهُ, اَلْحِلُّ مَيْتَتُهُ } أَخْرَجَهُ اَلْأَرْبَعَةُ, وَابْنُ أَبِي شَيْبَةَ وَاللَّفْظُ لَهُ, وَصَحَّحَهُ اِبْنُ خُزَيْمَةَ وَاَلتِّرْمِذِيُّ  .",
+                "english": "Narrated Abu Hurairah (RA): The Messenger of Allah (ﷺ) said about the sea: 'Its water is purifying and its dead (animals) are lawful (to eat).' Reported by the four, and Ibn Abi Shaybah. The wording is his. Ibn Khuzaymah and al-Tirmidhi declared it authentic.",
+                "urdu": "سیدنا ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے سمندر کے بارے میں فرمایا: \"اس کا پانی پاک ہے اور اس کا مردار حلال ہے۔\" اس حدیث کو چاروں (اصحاب سنن)، ابن ابی شیبہ نے روایت کیا ہے اور الفاظ اسی کے ہیں، اور ابن خزیمہ و ترمذی نے اسے صحیح قرار دیا ہے۔"
+              },
+              "narrators": [
+                {
+                  "arabic": "أبو هُرَيْرَةَ",
+                  "english": "Abu Hurairah",
+                  "narratorSlug": "abu-huraira"
+                }
+              ],
+              "ytLink": "https://www.youtube.com/embed/iMAbIh-4X1s?si=X5fyJav4HT9zSBGc",
+              "references": [
+                {
+                  "arabic": "أبو داود (83)",
+                  "english": "Abu Dawud (83)"
+                },
+                {
+                  "arabic": "النسائي (1 /50 و 176 و 707)",
+                  "english": "Al-Nasa’i (1/50, 176, 707)"
+                },
+                {
+                  "arabic": "الترمذي (69)",
+                  "english": "Al-Tirmidhi (69)"
+                },
+                {
+                  "arabic": "ابن ماجه (386)",
+                  "english": "Ibn Majah (386)"
+                },
+                {
+                  "arabic": "ابن أبي شيبة (131)",
+                  "english": "Ibn Abi Shaybah (131)"
+                },
+                {
+                  "arabic": "ابن خزيمة (111)",
+                  "english": "Ibn Khuzaymah (111)"
+                }
+              ],
+              "summary": {
+                "urdu": "یہ حدیث سمندر کے پانی کے پاک ہونے اور اس کے مردار (مثلاً مچھلی) کے حلال ہونے کو بیان کرتی ہے۔",
+                "english": "This Hadith establishes that sea water is pure and its dead animals (like fish) are permissible to eat."
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": "کتاب الصلاة (نماز کی کتاب) کا تعارف",
+                    "english": "Introduction to Kitab ul Salat"
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "اصطلاحات کی وضاحت",
+                          "english": "Summary of Phrases"
+                        },
+                        "content": {
+                          "urdu": [
+                            "کتاب: مختلف نمازوں کے مسائل جیسے فرض، نفل، کسوف، خسوف، بارش کی نماز وغیرہ",
+                            "باب: کسی خاص مسئلے پر فوکس کرتا ہے",
+                            "فصل: متعلقہ مسائل پر مشتمل سیکشن"
+                          ],
+                          "english": [
+                            "Kitab: Covers various issues like obligatory, optional, eclipse, rain prayers, etc.",
+                            "Bab: Focuses on a specific issue",
+                            "Fasl: A section consisting of related matters"
+                          ]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "نماز کی اہمیت",
+                          "english": "Importance of Prayer"
+                        },
+                        "content": {
+                          "urdu": [
+                            "کلمہ شہادت کے بعد اسلام کا سب سے افضل رکن",
+                            "اللہ کی طرف سے براہِ راست مقرر کی گئی",
+                            "سات آسمانوں سے بالا تر مقرر کی گئی",
+                            "شروع میں پچاس نمازیں، بعد میں پانچ",
+                            "نماز ترک کرنا کفر کی طرف لے جا سکتا ہے"
+                          ],
+                          "english": [
+                            "The most important pillar of Islam after the testimony of faith",
+                            "Appointed directly by Allah without any intermediary",
+                            "Established above the seven heavens",
+                            "Initially fifty prayers, reduced to five",
+                            "Abandoning prayer may lead to disbelief"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "نماز کے اوقات (باب المواقیت)",
+                    "english": "Timings of Prayers (Bab al-Mawaqeet)"
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "وقت کی اہمیت",
+                          "english": "Importance of Time"
+                        },
+                        "content": {
+                          "urdu": [
+                            "نماز مقررہ وقت پر ادا کرنا فرض ہے",
+                            "قرآن میں اوقات عمومی، حدیث میں تفصیل موجود ہے"
+                          ],
+                          "english": [
+                            "It is obligatory to offer prayer at its appointed time",
+                            "The Quran gives general timings; Hadith explains them in detail"
+                          ]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "نمازوں کے اوقات",
+                          "english": "Prayer Timings"
+                        },
+                        "content": {
+                          "urdu": [
+                            "ظہر: سورج کے ڈھلنے کے بعد شروع ہوتی ہے، جب سایہ برابر ہو جائے تو ختم",
+                            "عصر: سایہ برابر ہو تو شروع، سورج کے زرد ہونے تک جاری",
+                            "مغرب: غروب آفتاب کے بعد شروع، مغربی سرخی ختم ہونے تک جاری",
+                            "عشاء: مغربی سرخی ختم ہونے پر شروع، آدھی رات تک پڑھ سکتے ہیں",
+                            "فجر: سحرِ حقیقی پر شروع، طلوعِ آفتاب سے پہلے ختم"
+                          ],
+                          "english": [
+                            "Dhuhr: Starts after the sun declines, ends when the shadow equals length",
+                            "Asr: Starts when shadow equals height, ends before sun turns yellow",
+                            "Maghrib: Begins after sunset, ends when red twilight disappears",
+                            "Isha: Starts after red twilight, valid until midnight",
+                            "Fajr: Starts at true dawn, ends before sunrise"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "نبی ﷺ کی نماز کے طریقے",
+                    "english": "The Prophet's ﷺ Prayer Method"
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "ٹائمنگ کی ترجیحات",
+                          "english": "Timing Preferences"
+                        },
+                        "content": {
+                          "urdu": [
+                            "عصر جلدی ادا کی جاتی تاکہ لوگ روشنی میں واپس جا سکیں",
+                            "عائشہ رضی اللہ عنہا تاخیر کو افضل سمجھتی تھیں مگر جماعت کو مدنظر رکھتی تھیں",
+                            "فجر اندھیرے میں ادا کی جاتی اور 60 سے 100 آیات تلاوت کی جاتیں"
+                          ],
+                          "english": [
+                            "Asr was offered early so people could return in daylight",
+                            "Aisha (RA) preferred delaying but considered the congregation",
+                            "Fajr was prayed in darkness, with 60–100 verses recited"
+                          ]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "اضافی ہدایات",
+                          "english": "Additional Guidelines"
+                        },
+                        "content": {
+                          "urdu": [
+                            "عشاء سے پہلے سونا ناپسندیدہ تھا",
+                            "عشاء کے بعد فضول بات چیت ناپسند تھی",
+                            "جماعت کی سہولت کے مطابق اوقات میں نرمی کی جاتی تھی"
+                          ],
+                          "english": [
+                            "Sleeping before Isha was disliked",
+                            "Idle talk after Isha was discouraged",
+                            "Prayer timings were adjusted for the congregation’s ease"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "کرنے کے کام",
+                    "english": "Action Points"
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "عملی اقدامات",
+                          "english": "Practical Steps"
+                        },
+                        "content": {
+                          "urdu": [
+                            "نماز عصر جلدی ادا کریں، سایہ دوگنا ہونے کا انتظار نہ کریں",
+                            "فجر کی نماز جیسے ہی روشنی ظاہر ہو ادا کریں",
+                            "عشاء کے وقت جماعت کی سہولت کو مدنظر رکھیں",
+                            "نماز میں بلاوجہ تاخیر سے بچیں، صرف عشاء مؤخر کی جا سکتی ہے",
+                            "نبی ﷺ کی سنت کو اپنائیں، بعد کی رائے پر نہ چلیں"
+                          ],
+                          "english": [
+                            "Pray Asr early; do not wait for double shadow",
+                            "Offer Fajr as soon as dawn appears",
+                            "Consider the congregation when setting Isha time",
+                            "Avoid unnecessary delay in prayers except for Isha",
+                            "Follow the Sunnah of the Prophet ﷺ, not later opinions"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "الطَّهُورُ",
+                  "english": "purifying",
+                  "urdu": "پاک کرنے والا"
+                },
+                {
+                  "arabic": "الْحِلُّ",
+                  "english": "lawful",
+                  "urdu": "حلال"
+                },
+                {
+                  "arabic": "مَيْتَتُهُ",
+                  "english": "its dead (creatures)",
+                  "urdu": "اس کا مردار"
+                },
+                {
+                  "arabic": "مَاؤُهُ",
+                  "english": "its water",
+                  "urdu": "اس کا پانی"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -108,245 +396,250 @@
             {
               "id": 1,
               "name": {
-                "arabic": "arbi hadees",
-                "english": "english translation",
-                "urdu": "urdu tarjama"
+                "arabic": "عَنْ أَبِي هُرَيْرَةَ - رضى الله عنه - قَالَ: قَالَ رَسُولُ اَللَّهِ - صلى الله عليه وسلم -فِي اَلْبَحْرِ: { هُوَ اَلطُّهُورُ مَاؤُهُ, اَلْحِلُّ مَيْتَتُهُ } أَخْرَجَهُ اَلْأَرْبَعَةُ, وَابْنُ أَبِي شَيْبَةَ وَاللَّفْظُ لَهُ, وَصَحَّحَهُ اِبْنُ خُزَيْمَةَ وَاَلتِّرْمِذِيُّ  .",
+                "english": "Narrated Abu Hurairah (RA): The Messenger of Allah (ﷺ) said about the sea: 'Its water is purifying and its dead (animals) are lawful (to eat).' Reported by the four, and Ibn Abi Shaybah. The wording is his. Ibn Khuzaymah and al-Tirmidhi declared it authentic.",
+                "urdu": "سیدنا ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے سمندر کے بارے میں فرمایا: \"اس کا پانی پاک ہے اور اس کا مردار حلال ہے۔\" اس حدیث کو چاروں (اصحاب سنن)، ابن ابی شیبہ نے روایت کیا ہے اور الفاظ اسی کے ہیں، اور ابن خزیمہ و ترمذی نے اسے صحیح قرار دیا ہے۔"
               },
-
               "narrators": [
                 {
-                  "arabic": "Rawi 1",
-                  "english": "Narrator one",
+                  "arabic": "أبو هُرَيْرَةَ",
+                  "english": "Abu Hurairah",
                   "narratorSlug": "abu-huraira"
-                },
-                {
-                  "arabic": "Rawi 2",
-                  "english": "Narrator two"
                 }
               ],
               "ytLink": "https://www.youtube.com/embed/iMAbIh-4X1s?si=X5fyJav4HT9zSBGc",
               "references": [
                 {
-                  "arabic": "ek",
-                  "english": "sahih-bukhri"
+                  "arabic": "أبو داود (83)",
+                  "english": "Abu Dawud (83)"
                 },
                 {
-                  "arabic": "do",
-                  "english": "tirmidi"
+                  "arabic": "النسائي (1 /50 و 176 و 707)",
+                  "english": "Al-Nasa’i (1/50, 176, 707)"
                 },
                 {
-                  "arabic": "teen",
-                  "english": "muslim"
+                  "arabic": "الترمذي (69)",
+                  "english": "Al-Tirmidhi (69)"
+                },
+                {
+                  "arabic": "ابن ماجه (386)",
+                  "english": "Ibn Majah (386)"
+                },
+                {
+                  "arabic": "ابن أبي شيبة (131)",
+                  "english": "Ibn Abi Shaybah (131)"
+                },
+                {
+                  "arabic": "ابن خزيمة (111)",
+                  "english": "Ibn Khuzaymah (111)"
                 }
               ],
-            
               "summary": {
-                "urdu": "hadees urdu khulasa",
-                "english": "hadith english summary"
+                "urdu": "یہ حدیث سمندر کے پانی کے پاک ہونے اور اس کے مردار (مثلاً مچھلی) کے حلال ہونے کو بیان کرتی ہے۔",
+                "english": "This Hadith establishes that sea water is pure and its dead animals (like fish) are permissible to eat."
               },
-
               "explanation": [
-                  {
-                    "sectionTitle": {
-                      "urdu": "کتاب الصلاة (نماز کی کتاب) کا تعارف",
-                      "english": "Introduction to Kitab ul Salat"
-                    },
-                    "sectionData": {
-                      "points": [
-                        {
-                          "title": {
-                            "urdu": "اصطلاحات کی وضاحت",
-                            "english": "Summary of Phrases"
-                          },
-                          "content": {
-                            "urdu": [
-                              "کتاب: مختلف نمازوں کے مسائل جیسے فرض، نفل، کسوف، خسوف، بارش کی نماز وغیرہ",
-                              "باب: کسی خاص مسئلے پر فوکس کرتا ہے",
-                              "فصل: متعلقہ مسائل پر مشتمل سیکشن"
-                            ],
-                            "english": [
-                              "Kitab: Covers various issues like obligatory, optional, eclipse, rain prayers, etc.",
-                              "Bab: Focuses on a specific issue",
-                              "Fasl: A section consisting of related matters"
-                            ]
-                          }
-                        },
-                        {
-                          "title": {
-                            "urdu": "نماز کی اہمیت",
-                            "english": "Importance of Prayer"
-                          },
-                          "content": {
-                            "urdu": [
-                              "کلمہ شہادت کے بعد اسلام کا سب سے افضل رکن",
-                              "اللہ کی طرف سے براہِ راست مقرر کی گئی",
-                              "سات آسمانوں سے بالا تر مقرر کی گئی",
-                              "شروع میں پچاس نمازیں، بعد میں پانچ",
-                              "نماز ترک کرنا کفر کی طرف لے جا سکتا ہے"
-                            ],
-                            "english": [
-                              "The most important pillar of Islam after the testimony of faith",
-                              "Appointed directly by Allah without any intermediary",
-                              "Established above the seven heavens",
-                              "Initially fifty prayers, reduced to five",
-                              "Abandoning prayer may lead to disbelief"
-                            ]
-                          }
-                        }
-                      ]
-                    }
+                {
+                  "sectionTitle": {
+                    "urdu": "کتاب الصلاة (نماز کی کتاب) کا تعارف",
+                    "english": "Introduction to Kitab ul Salat"
                   },
-                  {
-                    "sectionTitle": {
-                      "urdu": "نماز کے اوقات (باب المواقیت)",
-                      "english": "Timings of Prayers (Bab al-Mawaqeet)"
-                    },
-                    "sectionData": {
-                      "points": [
-                        {
-                          "title": {
-                            "urdu": "وقت کی اہمیت",
-                            "english": "Importance of Time"
-                          },
-                          "content": {
-                            "urdu": [
-                              "نماز مقررہ وقت پر ادا کرنا فرض ہے",
-                              "قرآن میں اوقات عمومی، حدیث میں تفصیل موجود ہے"
-                            ],
-                            "english": [
-                              "It is obligatory to offer prayer at its appointed time",
-                              "The Quran gives general timings; Hadith explains them in detail"
-                            ]
-                          }
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "اصطلاحات کی وضاحت",
+                          "english": "Summary of Phrases"
                         },
-                        {
-                          "title": {
-                            "urdu": "نمازوں کے اوقات",
-                            "english": "Prayer Timings"
-                          },
-                          "content": {
-                            "urdu": [
-                              "ظہر: سورج کے ڈھلنے کے بعد شروع ہوتی ہے، جب سایہ برابر ہو جائے تو ختم",
-                              "عصر: سایہ برابر ہو تو شروع، سورج کے زرد ہونے تک جاری",
-                              "مغرب: غروب آفتاب کے بعد شروع، مغربی سرخی ختم ہونے تک جاری",
-                              "عشاء: مغربی سرخی ختم ہونے پر شروع، آدھی رات تک پڑھ سکتے ہیں",
-                              "فجر: سحرِ حقیقی پر شروع، طلوعِ آفتاب سے پہلے ختم"
-                            ],
-                            "english": [
-                              "Dhuhr: Starts after the sun declines, ends when the shadow equals length",
-                              "Asr: Starts when shadow equals height, ends before sun turns yellow",
-                              "Maghrib: Begins after sunset, ends when red twilight disappears",
-                              "Isha: Starts after red twilight, valid until midnight",
-                              "Fajr: Starts at true dawn, ends before sunrise"
-                            ]
-                          }
+                        "content": {
+                          "urdu": [
+                            "کتاب: مختلف نمازوں کے مسائل جیسے فرض، نفل، کسوف، خسوف، بارش کی نماز وغیرہ",
+                            "باب: کسی خاص مسئلے پر فوکس کرتا ہے",
+                            "فصل: متعلقہ مسائل پر مشتمل سیکشن"
+                          ],
+                          "english": [
+                            "Kitab: Covers various issues like obligatory, optional, eclipse, rain prayers, etc.",
+                            "Bab: Focuses on a specific issue",
+                            "Fasl: A section consisting of related matters"
+                          ]
                         }
-                      ]
-                    }
-                  },
-                  {
-                    "sectionTitle": {
-                      "urdu": "نبی ﷺ کی نماز کے طریقے",
-                      "english": "The Prophet's ﷺ Prayer Method"
-                    },
-                    "sectionData": {
-                      "points": [
-                        {
-                          "title": {
-                            "urdu": "ٹائمنگ کی ترجیحات",
-                            "english": "Timing Preferences"
-                          },
-                          "content": {
-                            "urdu": [
-                              "عصر جلدی ادا کی جاتی تاکہ لوگ روشنی میں واپس جا سکیں",
-                              "عائشہ رضی اللہ عنہا تاخیر کو افضل سمجھتی تھیں مگر جماعت کو مدنظر رکھتی تھیں",
-                              "فجر اندھیرے میں ادا کی جاتی اور 60 سے 100 آیات تلاوت کی جاتیں"
-                            ],
-                            "english": [
-                              "Asr was offered early so people could return in daylight",
-                              "Aisha (RA) preferred delaying but considered the congregation",
-                              "Fajr was prayed in darkness, with 60–100 verses recited"
-                            ]
-                          }
+                      },
+                      {
+                        "title": {
+                          "urdu": "نماز کی اہمیت",
+                          "english": "Importance of Prayer"
                         },
-                        {
-                          "title": {
-                            "urdu": "اضافی ہدایات",
-                            "english": "Additional Guidelines"
-                          },
-                          "content": {
-                            "urdu": [
-                              "عشاء سے پہلے سونا ناپسندیدہ تھا",
-                              "عشاء کے بعد فضول بات چیت ناپسند تھی",
-                              "جماعت کی سہولت کے مطابق اوقات میں نرمی کی جاتی تھی"
-                            ],
-                            "english": [
-                              "Sleeping before Isha was disliked",
-                              "Idle talk after Isha was discouraged",
-                              "Prayer timings were adjusted for the congregation’s ease"
-                            ]
-                          }
+                        "content": {
+                          "urdu": [
+                            "کلمہ شہادت کے بعد اسلام کا سب سے افضل رکن",
+                            "اللہ کی طرف سے براہِ راست مقرر کی گئی",
+                            "سات آسمانوں سے بالا تر مقرر کی گئی",
+                            "شروع میں پچاس نمازیں، بعد میں پانچ",
+                            "نماز ترک کرنا کفر کی طرف لے جا سکتا ہے"
+                          ],
+                          "english": [
+                            "The most important pillar of Islam after the testimony of faith",
+                            "Appointed directly by Allah without any intermediary",
+                            "Established above the seven heavens",
+                            "Initially fifty prayers, reduced to five",
+                            "Abandoning prayer may lead to disbelief"
+                          ]
                         }
-                      ]
-                    }
-                  },
-                  {
-                    "sectionTitle": {
-                      "urdu": "کرنے کے کام",
-                      "english": "Action Points"
-                    },
-                    "sectionData": {
-                      "points": [
-                        {
-                          "title": {
-                            "urdu": "عملی اقدامات",
-                            "english": "Practical Steps"
-                          },
-                          "content": {
-                            "urdu": [
-                              "نماز عصر جلدی ادا کریں، سایہ دوگنا ہونے کا انتظار نہ کریں",
-                              "فجر کی نماز جیسے ہی روشنی ظاہر ہو ادا کریں",
-                              "عشاء کے وقت جماعت کی سہولت کو مدنظر رکھیں",
-                              "نماز میں بلاوجہ تاخیر سے بچیں، صرف عشاء مؤخر کی جا سکتی ہے",
-                              "نبی ﷺ کی سنت کو اپنائیں، بعد کی رائے پر نہ چلیں"
-                            ],
-                            "english": [
-                              "Pray Asr early; do not wait for double shadow",
-                              "Offer Fajr as soon as dawn appears",
-                              "Consider the congregation when setting Isha time",
-                              "Avoid unnecessary delay in prayers except for Isha",
-                              "Follow the Sunnah of the Prophet ﷺ, not later opinions"
-                            ]
-                          }
-                        }
-                      ]
-                    }
+                      }
+                    ]
                   }
-                ],
-
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "نماز کے اوقات (باب المواقیت)",
+                    "english": "Timings of Prayers (Bab al-Mawaqeet)"
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "وقت کی اہمیت",
+                          "english": "Importance of Time"
+                        },
+                        "content": {
+                          "urdu": [
+                            "نماز مقررہ وقت پر ادا کرنا فرض ہے",
+                            "قرآن میں اوقات عمومی، حدیث میں تفصیل موجود ہے"
+                          ],
+                          "english": [
+                            "It is obligatory to offer prayer at its appointed time",
+                            "The Quran gives general timings; Hadith explains them in detail"
+                          ]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "نمازوں کے اوقات",
+                          "english": "Prayer Timings"
+                        },
+                        "content": {
+                          "urdu": [
+                            "ظہر: سورج کے ڈھلنے کے بعد شروع ہوتی ہے، جب سایہ برابر ہو جائے تو ختم",
+                            "عصر: سایہ برابر ہو تو شروع، سورج کے زرد ہونے تک جاری",
+                            "مغرب: غروب آفتاب کے بعد شروع، مغربی سرخی ختم ہونے تک جاری",
+                            "عشاء: مغربی سرخی ختم ہونے پر شروع، آدھی رات تک پڑھ سکتے ہیں",
+                            "فجر: سحرِ حقیقی پر شروع، طلوعِ آفتاب سے پہلے ختم"
+                          ],
+                          "english": [
+                            "Dhuhr: Starts after the sun declines, ends when the shadow equals length",
+                            "Asr: Starts when shadow equals height, ends before sun turns yellow",
+                            "Maghrib: Begins after sunset, ends when red twilight disappears",
+                            "Isha: Starts after red twilight, valid until midnight",
+                            "Fajr: Starts at true dawn, ends before sunrise"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "نبی ﷺ کی نماز کے طریقے",
+                    "english": "The Prophet's ﷺ Prayer Method"
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "ٹائمنگ کی ترجیحات",
+                          "english": "Timing Preferences"
+                        },
+                        "content": {
+                          "urdu": [
+                            "عصر جلدی ادا کی جاتی تاکہ لوگ روشنی میں واپس جا سکیں",
+                            "عائشہ رضی اللہ عنہا تاخیر کو افضل سمجھتی تھیں مگر جماعت کو مدنظر رکھتی تھیں",
+                            "فجر اندھیرے میں ادا کی جاتی اور 60 سے 100 آیات تلاوت کی جاتیں"
+                          ],
+                          "english": [
+                            "Asr was offered early so people could return in daylight",
+                            "Aisha (RA) preferred delaying but considered the congregation",
+                            "Fajr was prayed in darkness, with 60–100 verses recited"
+                          ]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "اضافی ہدایات",
+                          "english": "Additional Guidelines"
+                        },
+                        "content": {
+                          "urdu": [
+                            "عشاء سے پہلے سونا ناپسندیدہ تھا",
+                            "عشاء کے بعد فضول بات چیت ناپسند تھی",
+                            "جماعت کی سہولت کے مطابق اوقات میں نرمی کی جاتی تھی"
+                          ],
+                          "english": [
+                            "Sleeping before Isha was disliked",
+                            "Idle talk after Isha was discouraged",
+                            "Prayer timings were adjusted for the congregation’s ease"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "کرنے کے کام",
+                    "english": "Action Points"
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "عملی اقدامات",
+                          "english": "Practical Steps"
+                        },
+                        "content": {
+                          "urdu": [
+                            "نماز عصر جلدی ادا کریں، سایہ دوگنا ہونے کا انتظار نہ کریں",
+                            "فجر کی نماز جیسے ہی روشنی ظاہر ہو ادا کریں",
+                            "عشاء کے وقت جماعت کی سہولت کو مدنظر رکھیں",
+                            "نماز میں بلاوجہ تاخیر سے بچیں، صرف عشاء مؤخر کی جا سکتی ہے",
+                            "نبی ﷺ کی سنت کو اپنائیں، بعد کی رائے پر نہ چلیں"
+                          ],
+                          "english": [
+                            "Pray Asr early; do not wait for double shadow",
+                            "Offer Fajr as soon as dawn appears",
+                            "Consider the congregation when setting Isha time",
+                            "Avoid unnecessary delay in prayers except for Isha",
+                            "Follow the Sunnah of the Prophet ﷺ, not later opinions"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
               "importantWords": [
                 {
-                  "arabic": "lafz arbi",
-                  "english": "lafz translation",
-                  "urdu": "lafz tarjama"
+                  "arabic": "الطَّهُورُ",
+                  "english": "purifying",
+                  "urdu": "پاک کرنے والا"
                 },
                 {
-                  "arabic": "lafz arbi",
-                  "english": "lafz translation",
-                  "urdu": "lafz tarjama"
+                  "arabic": "الْحِلُّ",
+                  "english": "lawful",
+                  "urdu": "حلال"
                 },
                 {
-                  "arabic": "lafz arbi",
-                  "english": "lafz translation",
-                  "urdu": "lafz tarjama"
+                  "arabic": "مَيْتَتُهُ",
+                  "english": "its dead (creatures)",
+                  "urdu": "اس کا مردار"
                 },
                 {
-                  "arabic": "lafz arbi",
-                  "english": "lafz translation",
-                  "urdu": "lafz tarjama"
+                  "arabic": "مَاؤُهُ",
+                  "english": "its water",
+                  "urdu": "اس کا پانی"
                 }
               ]
             },
+
             {
               "id": 2,
               "name": {

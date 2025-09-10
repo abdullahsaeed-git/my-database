@@ -59,6 +59,7 @@
           },
           "hadiths": [
             {
+              "hadithNo": 1,
               "id": 1,
               "name": {
                 "arabic": "عَنْ أَبِي هُرَيْرَةَ - رضى الله عنه - قَالَ: قَالَ رَسُولُ اَللَّهِ - صلى الله عليه وسلم -فِي اَلْبَحْرِ: { هُوَ اَلطُّهُورُ مَاؤُهُ, اَلْحِلُّ مَيْتَتُهُ } أَخْرَجَهُ اَلْأَرْبَعَةُ, وَابْنُ أَبِي شَيْبَةَ وَاللَّفْظُ لَهُ, وَصَحَّحَهُ اِبْنُ خُزَيْمَةَ وَاَلتِّرْمِذِيُّ  .",
@@ -73,6 +74,10 @@
                 }
               ],
               "ytLink": "https://www.youtube.com/embed/iMAbIh-4X1s?si=X5fyJav4HT9zSBGc",
+              "grade": {
+                "arabic":" ضعيف",
+                "english": "Weak"
+              },
               "references": [
                 {
                   "arabic": "أبو داود (83)",
@@ -275,6 +280,3987 @@
                             "Avoid unnecessary delay in prayers except for Isha",
                             "Follow the Sunnah of the Prophet ﷺ, not later opinions"
                           ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "الطَّهُورُ",
+                  "english": "purifying",
+                  "urdu": "پاک کرنے والا"
+                },
+                {
+                  "arabic": "الْحِلُّ",
+                  "english": "lawful",
+                  "urdu": "حلال"
+                },
+                {
+                  "arabic": "مَيْتَتُهُ",
+                  "english": "its dead (creatures)",
+                  "urdu": "اس کا مردار"
+                },
+                {
+                  "arabic": "مَاؤُهُ",
+                  "english": "its water",
+                  "urdu": "اس کا پانی"
+                }
+              ]
+            },
+            {
+              "hadithNo": 2,
+              "id": 2,
+              "name": {
+                "arabic": "وَعَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ - رضى الله عنه - قَالَ: قَالَ رَسُولُ اَللَّهِ - صلى الله عليه وسلم - { إِنَّ اَلْمَاءَ طَهُورٌ لَا يُنَجِّسُهُ شَيْءٌ } أَخْرَجَهُ اَلثَّلَاثَةُ وَصَحَّحَهُ أَحْمَدُ .",
+                "english": "Narrated Abu Saeed Al-Khudri (RA): The Messenger of Allah (ﷺ) said: 'Water is pure and nothing makes it impure.' Reported by the three and authenticated by Ahmad.",
+                "urdu": "ابو سعید خدری رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”پانی پاک ہے اور اسے کوئی چیز ناپاک نہیں کرتی۔“ اس حدیث کو تین اصحاب سنن نے روایت کیا ہے اور احمد نے اسے صحیح قرار دیا ہے۔"
+              },
+              "narrators": [
+                {
+                  "arabic": "أبو سَعِيدٍ الْخُدْرِيِّ",
+                  "english": "Abu Saeed Khudri",
+                  "narratorSlug": "abu-saeed-khudri"
+                }
+              ],
+              "ytLink": "",
+              "grade": {
+                "arabic": " ضعيف",
+                "english": "Weak"
+              },
+              "references": [
+                {
+                  "arabic": "أبو داود (66)",
+                  "english": "Abu Dawud (66)"
+                },
+                {
+                  "arabic": "النسائي (174)",
+                  "english": "Al-Nasa’i (174)"
+                },
+                {
+                  "arabic": "الترمذي (66)",
+                  "english": "Al-Tirmidhi (66)"
+                }
+              ],
+              "summary": {
+                "urdu": "یہ حدیث بتاتی ہے کہ پانی اپنی اصل حالت میں پاک ہے، اور عام طور پر ناپاک چیزیں اسے ناپاک نہیں کرتیں۔",
+                "english": "This Hadith teaches that water is inherently pure and does not become impure by anything unless its color, taste, or smell changes."
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": "پانی کی طہارت",
+                    "english": "Purity of Water"
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "پانی پاک کیوں ہے؟",
+                          "english": "Why is water pure?"
+                        },
+                        "content": {
+                          "urdu": [
+                            "اللہ نے پانی کو پاکیزگی کا ذریعہ بنایا ہے۔",
+                            "پانی کی طبعی صفات (رنگ، بو، ذائقہ) تبدیل نہ ہوں تو وہ پاک رہتا ہے۔",
+                            "پانی وضو، غسل اور صفائی کے لیے بنیادی وسیلہ ہے۔"
+                          ],
+                          "english": [
+                            "Allah has made water the source of purity.",
+                            "If its natural characteristics (color, smell, taste) are not changed, it remains pure.",
+                            "Water is the primary means for wudu, ghusl, and cleaning."
+                          ]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "فقہی نکتہ",
+                          "english": "Fiqh Perspective"
+                        },
+                        "content": {
+                          "urdu": [
+                            "علماء کا اتفاق ہے کہ بہتا پانی آسانی سے ناپاک نہیں ہوتا۔",
+                            "چھوٹے مقدار میں پانی اگر نجاست پڑے اور صفات تبدیل ہوں تو ناپاک ہو سکتا ہے۔",
+                            "اصل اصول یہی ہے: 'پانی پاک ہے، جب تک صفات نہ بدلیں۔'"
+                          ],
+                          "english": [
+                            "Scholars agree that running water is not easily contaminated.",
+                            "Small amounts of water may become impure if physical characteristics change.",
+                            "The basic principle is: 'Water is pure unless its qualities change.'"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "عملی رہنمائی",
+                    "english": "Practical Guidance"
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "کیا کرنا چاہیے؟",
+                          "english": "What should be done?"
+                        },
+                        "content": {
+                          "urdu": [
+                            "پانی کے رنگ، بو یا ذائقہ پر نظر رکھیں۔",
+                            "اگر پانی کی کوئی صفت نجاست کی وجہ سے بدلے تو استعمال سے گریز کریں۔",
+                            "شک کی صورت میں غالب گمان پر عمل کریں۔"
+                          ],
+                          "english": [
+                            "Observe color, smell, and taste of water.",
+                            "Avoid water if any property changes due to impurity.",
+                            "In doubt, follow what is more likely (ghalib zann)."
+                          ]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "مسائل",
+                          "english": "Issues Discussed"
+                        },
+                        "content": {
+                          "urdu": [
+                            "کیا گندے پانی میں وضو جائز ہے؟",
+                            "کیا بارش کا پانی پاک ہے؟",
+                            "کیا نالی کے قریب پانی پاک رہتا ہے؟",
+                            "گندے ماحول میں ذخیرہ شدہ پانی کا حکم؟",
+                            "وضو کے بعد بچے ہوئے پانی کا کیا حکم؟"
+                          ],
+                          "english": [
+                            "Is wudu allowed with dirty-looking water?",
+                            "Is rainwater considered pure?",
+                            "Is water near a drain still pure?",
+                            "Ruling on stored water in dirty surroundings?",
+                            "What is the ruling of leftover water after wudu?"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "الْمَاءَ",
+                  "english": "water",
+                  "urdu": "پانی"
+                },
+                {
+                  "arabic": "طَهُورٌ",
+                  "english": "pure/purifying",
+                  "urdu": "پاکیزہ / پاک کرنے والا"
+                },
+                {
+                  "arabic": "يُنَجِّسُهُ",
+                  "english": "make it impure",
+                  "urdu": "اسے ناپاک کرتا ہے"
+                },
+                {
+                  "arabic": "شَيْءٌ",
+                  "english": "anything",
+                  "urdu": "کوئی چیز"
+                },
+                {
+                  "arabic": "نَجَاسَة",
+                  "english": "impurity",
+                  "urdu": "نجاست"
+                },
+                {
+                  "arabic": "رَائِحَة",
+                  "english": "smell",
+                  "urdu": "بو"
+                },
+                {
+                  "arabic": "طَعْم",
+                  "english": "taste",
+                  "urdu": "ذائقہ"
+                },
+                {
+                  "arabic": "لَوْن",
+                  "english": "color",
+                  "urdu": "رنگ"
+                }
+              ]
+            },
+            {
+              "hadithNo": 3,
+              "id": 3,
+              "name": {
+                "arabic": "وَعَنْ أَبِي أُمَامَةَ اَلْبَاهِلِيِّ - رضى الله عنه - قَالَ: قَالَ رَسُولُ - صلى الله عليه وسلم -{ إِنَّ اَلْمَاءَ لَا يُنَجِّسُهُ شَيْءٌ, إِلَّا مَا غَلَبَ عَلَى رِيحِهِ وَطَعْمِهِ, وَلَوْنِهِ } أَخْرَجَهُ اِبْنُ مَاجَهْ  وَضَعَّفَهُ أَبُو حَاتِمٍ  .",
+                "english": "",
+                "urdu": "ابو امامہ باہلی رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: {بے شک پانی کسی چیز سے ناپاک نہیں ہوتا، سوائے اس کے جو اس کی خوشبو پر غالب ہو۔ اور اس کا ذائقہ، اور اس کا رنگ۔ اسے ابن ماجہ 1 نے روایت کیا ہے اور ابو حاتم 2 نے اسے ضعیف قرار دیا ہے۔"
+              },
+              "narrators": [
+                {
+                  "arabic": "ابو أُمَامَةَ اَلْبَاهِلِيِّ",
+                  "english": "Abu Umama Bahili",
+                  "narratorSlug": "abu-umama-bahili"
+                }
+              ],
+              "ytLink": "",
+              "grade": {
+                "arabic": " ضعيف",
+                "english": "Weak"
+              },
+              "references": [
+                {
+                  "arabic": " ابن ماجه (521)",
+                  "english": " Ibn Majah (521) "
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "الطَّهُورُ",
+                  "english": "purifying",
+                  "urdu": "پاک کرنے والا"
+                },
+                {
+                  "arabic": "الْحِلُّ",
+                  "english": "lawful",
+                  "urdu": "حلال"
+                },
+                {
+                  "arabic": "مَيْتَتُهُ",
+                  "english": "its dead (creatures)",
+                  "urdu": "اس کا مردار"
+                },
+                {
+                  "arabic": "مَاؤُهُ",
+                  "english": "its water",
+                  "urdu": "اس کا پانی"
+                }
+              ]
+            },
+            {
+              "hadithNo": 4,
+              "id": 4,
+              "name": {
+                "arabic": "وَلِلْبَيْهَقِيِّ: { اَلْمَاءُ طَاهِرٌ إِلَّا إِنْ تَغَيَّرَ رِيحُهُ, أَوْ طَعْمُهُ, أَوْ لَوْنُهُ; بِنَجَاسَةٍ تَحْدُثُ فِيهِ }  .",
+                "english": "",
+                "urdu": "بیہقی کے مطابق:پانی اس وقت تک پاک ہے جب تک کہ اس کی بو، ذائقہ یا رنگ تبدیل نہ ہو، اس میں نجاست پائی جاتی ہے۔"
+              },
+              "narrators": [
+               {
+                 "arabic": "ابو أُمَامَةَ اَلْبَاهِلِيِّ",
+                 "english": "Abu Umama Bahili",
+                 "narratorSlug": "abu-umama-bahili"
+               }
+              ],
+              "ytLink": "",
+              "grade": {
+                "arabic": "ضعيف"
+              },
+              "references": [
+                {
+                  "arabic": " البيهقي في 'الكبرى' (159-260)",
+                  "english": " ref "
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "الطَّهُورُ",
+                  "english": "purifying",
+                  "urdu": "پاک کرنے والا"
+                },
+                {
+                  "arabic": "الْحِلُّ",
+                  "english": "lawful",
+                  "urdu": "حلال"
+                },
+                {
+                  "arabic": "مَيْتَتُهُ",
+                  "english": "its dead (creatures)",
+                  "urdu": "اس کا مردار"
+                },
+                {
+                  "arabic": "مَاؤُهُ",
+                  "english": "its water",
+                  "urdu": "اس کا پانی"
+                }
+              ]
+            },
+            {
+              "hadithNo": 5,
+              "id": 5,
+              "name": {
+                "arabic": "وَعَنْ عَبْدِ اَللَّهِ بْنِ عُمَرَ رَضِيَ اَللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اَللَّهِ صَلَّى عَلَيْهِ وَسَلَّمَ: { إِذَا كَانَ اَلْمَاءَ قُلَّتَيْنِ لَمْ يَحْمِلْ اَلْخَبَثَ } وَفِي لَفْظٍ: { لَمْ يَنْجُسْ } أَخْرَجَهُ اَلْأَرْبَعَةُ, وَصَحَّحَهُ اِبْنُ خُزَيْمَةَ. وَابْنُ حِبَّانَ  .",
+                "english": "",
+                "urdu": "عبداللہ بن عمر رضی اللہ عنہما سے مروی ہے کہ اللہ تعالیٰ ان دونوں سے راضی ہے، انہوں نے کہا: رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: {اگر پانی دو قطرے ہو تو اس میں شرارت نہیں رہے گی} اور الفاظ میں: چاروں نے روایت کی ہے، اور ابن خزیمہ نے اسے مستند کیا ہے۔ اور ابن حبان 1۔"
+              },
+              "narrators": [
+                {
+                  "arabic": "sahabi",
+                  "english": "companion",
+                  "narratorSlug": "sahabi-name"
+                }
+              ],
+              "ytLink": "",
+              "references": [
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "الطَّهُورُ",
+                  "english": "purifying",
+                  "urdu": "پاک کرنے والا"
+                },
+                {
+                  "arabic": "الْحِلُّ",
+                  "english": "lawful",
+                  "urdu": "حلال"
+                },
+                {
+                  "arabic": "مَيْتَتُهُ",
+                  "english": "its dead (creatures)",
+                  "urdu": "اس کا مردار"
+                },
+                {
+                  "arabic": "مَاؤُهُ",
+                  "english": "its water",
+                  "urdu": "اس کا پانی"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "sahabi",
+                  "english": "companion",
+                  "narratorSlug": "sahabi-name"
+                }
+              ],
+              "ytLink": "",
+              "references": [
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "الطَّهُورُ",
+                  "english": "purifying",
+                  "urdu": "پاک کرنے والا"
+                },
+                {
+                  "arabic": "الْحِلُّ",
+                  "english": "lawful",
+                  "urdu": "حلال"
+                },
+                {
+                  "arabic": "مَيْتَتُهُ",
+                  "english": "its dead (creatures)",
+                  "urdu": "اس کا مردار"
+                },
+                {
+                  "arabic": "مَاؤُهُ",
+                  "english": "its water",
+                  "urdu": "اس کا پانی"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "sahabi",
+                  "english": "companion",
+                  "narratorSlug": "sahabi-name"
+                }
+              ],
+              "ytLink": "",
+              "references": [
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "الطَّهُورُ",
+                  "english": "purifying",
+                  "urdu": "پاک کرنے والا"
+                },
+                {
+                  "arabic": "الْحِلُّ",
+                  "english": "lawful",
+                  "urdu": "حلال"
+                },
+                {
+                  "arabic": "مَيْتَتُهُ",
+                  "english": "its dead (creatures)",
+                  "urdu": "اس کا مردار"
+                },
+                {
+                  "arabic": "مَاؤُهُ",
+                  "english": "its water",
+                  "urdu": "اس کا پانی"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "sahabi",
+                  "english": "companion",
+                  "narratorSlug": "sahabi-name"
+                }
+              ],
+              "ytLink": "",
+              "references": [
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "الطَّهُورُ",
+                  "english": "purifying",
+                  "urdu": "پاک کرنے والا"
+                },
+                {
+                  "arabic": "الْحِلُّ",
+                  "english": "lawful",
+                  "urdu": "حلال"
+                },
+                {
+                  "arabic": "مَيْتَتُهُ",
+                  "english": "its dead (creatures)",
+                  "urdu": "اس کا مردار"
+                },
+                {
+                  "arabic": "مَاؤُهُ",
+                  "english": "its water",
+                  "urdu": "اس کا پانی"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "sahabi",
+                  "english": "companion",
+                  "narratorSlug": "sahabi-name"
+                }
+              ],
+              "ytLink": "",
+              "references": [
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "الطَّهُورُ",
+                  "english": "purifying",
+                  "urdu": "پاک کرنے والا"
+                },
+                {
+                  "arabic": "الْحِلُّ",
+                  "english": "lawful",
+                  "urdu": "حلال"
+                },
+                {
+                  "arabic": "مَيْتَتُهُ",
+                  "english": "its dead (creatures)",
+                  "urdu": "اس کا مردار"
+                },
+                {
+                  "arabic": "مَاؤُهُ",
+                  "english": "its water",
+                  "urdu": "اس کا پانی"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "sahabi",
+                  "english": "companion",
+                  "narratorSlug": "sahabi-name"
+                }
+              ],
+              "ytLink": "",
+              "references": [
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "الطَّهُورُ",
+                  "english": "purifying",
+                  "urdu": "پاک کرنے والا"
+                },
+                {
+                  "arabic": "الْحِلُّ",
+                  "english": "lawful",
+                  "urdu": "حلال"
+                },
+                {
+                  "arabic": "مَيْتَتُهُ",
+                  "english": "its dead (creatures)",
+                  "urdu": "اس کا مردار"
+                },
+                {
+                  "arabic": "مَاؤُهُ",
+                  "english": "its water",
+                  "urdu": "اس کا پانی"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "sahabi",
+                  "english": "companion",
+                  "narratorSlug": "sahabi-name"
+                }
+              ],
+              "ytLink": "",
+              "references": [
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "الطَّهُورُ",
+                  "english": "purifying",
+                  "urdu": "پاک کرنے والا"
+                },
+                {
+                  "arabic": "الْحِلُّ",
+                  "english": "lawful",
+                  "urdu": "حلال"
+                },
+                {
+                  "arabic": "مَيْتَتُهُ",
+                  "english": "its dead (creatures)",
+                  "urdu": "اس کا مردار"
+                },
+                {
+                  "arabic": "مَاؤُهُ",
+                  "english": "its water",
+                  "urdu": "اس کا پانی"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "sahabi",
+                  "english": "companion",
+                  "narratorSlug": "sahabi-name"
+                }
+              ],
+              "ytLink": "",
+              "references": [
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "الطَّهُورُ",
+                  "english": "purifying",
+                  "urdu": "پاک کرنے والا"
+                },
+                {
+                  "arabic": "الْحِلُّ",
+                  "english": "lawful",
+                  "urdu": "حلال"
+                },
+                {
+                  "arabic": "مَيْتَتُهُ",
+                  "english": "its dead (creatures)",
+                  "urdu": "اس کا مردار"
+                },
+                {
+                  "arabic": "مَاؤُهُ",
+                  "english": "its water",
+                  "urdu": "اس کا پانی"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "sahabi",
+                  "english": "companion",
+                  "narratorSlug": "sahabi-name"
+                }
+              ],
+              "ytLink": "",
+              "references": [
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "الطَّهُورُ",
+                  "english": "purifying",
+                  "urdu": "پاک کرنے والا"
+                },
+                {
+                  "arabic": "الْحِلُّ",
+                  "english": "lawful",
+                  "urdu": "حلال"
+                },
+                {
+                  "arabic": "مَيْتَتُهُ",
+                  "english": "its dead (creatures)",
+                  "urdu": "اس کا مردار"
+                },
+                {
+                  "arabic": "مَاؤُهُ",
+                  "english": "its water",
+                  "urdu": "اس کا پانی"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "sahabi",
+                  "english": "companion",
+                  "narratorSlug": "sahabi-name"
+                }
+              ],
+              "ytLink": "",
+              "references": [
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "الطَّهُورُ",
+                  "english": "purifying",
+                  "urdu": "پاک کرنے والا"
+                },
+                {
+                  "arabic": "الْحِلُّ",
+                  "english": "lawful",
+                  "urdu": "حلال"
+                },
+                {
+                  "arabic": "مَيْتَتُهُ",
+                  "english": "its dead (creatures)",
+                  "urdu": "اس کا مردار"
+                },
+                {
+                  "arabic": "مَاؤُهُ",
+                  "english": "its water",
+                  "urdu": "اس کا پانی"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "sahabi",
+                  "english": "companion",
+                  "narratorSlug": "sahabi-name"
+                }
+              ],
+              "ytLink": "",
+              "references": [
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "الطَّهُورُ",
+                  "english": "purifying",
+                  "urdu": "پاک کرنے والا"
+                },
+                {
+                  "arabic": "الْحِلُّ",
+                  "english": "lawful",
+                  "urdu": "حلال"
+                },
+                {
+                  "arabic": "مَيْتَتُهُ",
+                  "english": "its dead (creatures)",
+                  "urdu": "اس کا مردار"
+                },
+                {
+                  "arabic": "مَاؤُهُ",
+                  "english": "its water",
+                  "urdu": "اس کا پانی"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "sahabi",
+                  "english": "companion",
+                  "narratorSlug": "sahabi-name"
+                }
+              ],
+              "ytLink": "",
+              "references": [
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "الطَّهُورُ",
+                  "english": "purifying",
+                  "urdu": "پاک کرنے والا"
+                },
+                {
+                  "arabic": "الْحِلُّ",
+                  "english": "lawful",
+                  "urdu": "حلال"
+                },
+                {
+                  "arabic": "مَيْتَتُهُ",
+                  "english": "its dead (creatures)",
+                  "urdu": "اس کا مردار"
+                },
+                {
+                  "arabic": "مَاؤُهُ",
+                  "english": "its water",
+                  "urdu": "اس کا پانی"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "sahabi",
+                  "english": "companion",
+                  "narratorSlug": "sahabi-name"
+                }
+              ],
+              "ytLink": "",
+              "references": [
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "الطَّهُورُ",
+                  "english": "purifying",
+                  "urdu": "پاک کرنے والا"
+                },
+                {
+                  "arabic": "الْحِلُّ",
+                  "english": "lawful",
+                  "urdu": "حلال"
+                },
+                {
+                  "arabic": "مَيْتَتُهُ",
+                  "english": "its dead (creatures)",
+                  "urdu": "اس کا مردار"
+                },
+                {
+                  "arabic": "مَاؤُهُ",
+                  "english": "its water",
+                  "urdu": "اس کا پانی"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "sahabi",
+                  "english": "companion",
+                  "narratorSlug": "sahabi-name"
+                }
+              ],
+              "ytLink": "",
+              "references": [
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "الطَّهُورُ",
+                  "english": "purifying",
+                  "urdu": "پاک کرنے والا"
+                },
+                {
+                  "arabic": "الْحِلُّ",
+                  "english": "lawful",
+                  "urdu": "حلال"
+                },
+                {
+                  "arabic": "مَيْتَتُهُ",
+                  "english": "its dead (creatures)",
+                  "urdu": "اس کا مردار"
+                },
+                {
+                  "arabic": "مَاؤُهُ",
+                  "english": "its water",
+                  "urdu": "اس کا پانی"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "sahabi",
+                  "english": "companion",
+                  "narratorSlug": "sahabi-name"
+                }
+              ],
+              "ytLink": "",
+              "references": [
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "الطَّهُورُ",
+                  "english": "purifying",
+                  "urdu": "پاک کرنے والا"
+                },
+                {
+                  "arabic": "الْحِلُّ",
+                  "english": "lawful",
+                  "urdu": "حلال"
+                },
+                {
+                  "arabic": "مَيْتَتُهُ",
+                  "english": "its dead (creatures)",
+                  "urdu": "اس کا مردار"
+                },
+                {
+                  "arabic": "مَاؤُهُ",
+                  "english": "its water",
+                  "urdu": "اس کا پانی"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "sahabi",
+                  "english": "companion",
+                  "narratorSlug": "sahabi-name"
+                }
+              ],
+              "ytLink": "",
+              "references": [
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                },
+                {
+                  "arabic": " ref",
+                  "english": " ref "
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": " ",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " "],
+                          "english": [" ", " ", " "]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": [" ", " ", " ", " ", " "],
+                          "english": [" ", " ", " ", " ", " ", " ", " "]
                         }
                       }
                     ]

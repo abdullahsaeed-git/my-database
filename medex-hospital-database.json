@@ -1,0 +1,443 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "username": "bilal-shakir-1",
+      "password": "123",
+      "cnic": "123457890001",
+      "role": "admin"
+    },
+    {
+      "userId": 2,
+      "username": "hassan-mushtaq-2",
+      "password": "123",
+      "cnic": "123457890002",
+      "role": "doctor"
+    },
+    {
+      "userId": 3,
+      "username": "adnan-salman-3",
+      "password": "123",
+      "cnic": "1234567890003",
+      "role": "patient"
+    },
+    {
+      "userId": 4,
+      "username": "muhammad-ali-4",
+      "password": "123",
+      "cnic": "1234567890004",
+      "role": "patient"
+    },
+
+    {
+      "userId": 5,
+      "username": "sara-khan-5",
+      "password": "123",
+      "cnic": "1234567890005",
+      "role": "admin"
+    },
+    {
+      "userId": 6,
+      "username": "ahmad-raza-6",
+      "password": "123",
+      "cnic": "1234567890006",
+      "role": "admin"
+    },
+
+    {
+      "userId": 7,
+      "username": "farah-noor-7",
+      "password": "123",
+      "cnic": "1234567890007",
+      "role": "doctor"
+    },
+    {
+      "userId": 8,
+      "username": "kamran-ali-8",
+      "password": "123",
+      "cnic": "1234567890008",
+      "role": "doctor"
+    },
+    {
+      "userId": 9,
+      "username": "iqra-fatima-9",
+      "password": "123",
+      "cnic": "1234567890009",
+      "role": "doctor"
+    },
+    {
+      "userId": 10,
+      "username": "usman-akbar-10",
+      "password": "123",
+      "cnic": "1234567890010",
+      "role": "doctor"
+    },
+    {
+      "userId": 11,
+      "username": "ayesha-bibi-11",
+      "password": "123",
+      "cnic": "1234567890011",
+      "role": "doctor"
+    },
+    {
+      "userId": 12,
+      "username": "junaid-hassan-12",
+      "password": "123",
+      "cnic": "1234567890012",
+      "role": "doctor"
+    },
+
+    {
+      "userId": 13,
+      "username": "hira-naz-13",
+      "password": "123",
+      "cnic": "1234567890013",
+      "role": "patient"
+    },
+    {
+      "userId": 14,
+      "username": "saad-ashraf-14",
+      "password": "123",
+      "cnic": "1234567890014",
+      "role": "patient"
+    },
+    {
+      "userId": 15,
+      "username": "amna-iqbal-15",
+      "password": "123",
+      "cnic": "1234567890015",
+      "role": "patient"
+    },
+    {
+      "userId": 16,
+      "username": "zain-abid-16",
+      "password": "123",
+      "cnic": "1234567890016",
+      "role": "patient"
+    },
+    {
+      "userId": 17,
+      "username": "fatima-ali-17",
+      "password": "123",
+      "cnic": "1234567890017",
+      "role": "patient"
+    },
+    {
+      "userId": 18,
+      "username": "hamza-shahid-18",
+      "password": "123",
+      "cnic": "1234567890018",
+      "role": "patient"
+    },
+    {
+      "userId": 19,
+      "username": "maria-zafar-19",
+      "password": "123",
+      "cnic": "1234567890019",
+      "role": "patient"
+    },
+    {
+      "userId": 20,
+      "username": "ali-abbas-20",
+      "password": "123",
+      "cnic": "1234567890020",
+      "role": "patient"
+    },
+    {
+      "userId": 21,
+      "username": "noor-hassan-21",
+      "password": "123",
+      "cnic": "1234567890021",
+      "role": "patient"
+    },
+    {
+      "userId": 22,
+      "username": "talha-umer-22",
+      "password": "123",
+      "cnic": "1234567890022",
+      "role": "patient"
+    }
+  ],
+
+  "doctors": [
+    {
+      "doctorId": 1,
+      "userId": 2,
+      "name": "Hassan Mushtaq",
+      "gender": "Male",
+      "age": 24,
+      "speciality": "ENT",
+      "contact": "03028603127",
+      "address": "House 123, Street 4, Anwar Colony, Goll Chowk, Taxila, Rawalpindi",
+      "availability": [
+        {
+          "date": "2025-09-12",
+          "slots": ["10:00 AM", "11:30 AM", "2:00 PM"]
+        },
+        {
+          "date": "2025-09-15",
+          "slots": [] 
+        },
+        {
+          "date": "2025-09-18",
+          "slots": ["9:00 AM", "11:00 AM", "1:00 PM", "3:00 PM"]
+        }
+      ]
+    },
+    {
+      "doctorId": 2,
+      "userId": 7,
+      "name": "Farah Noor",
+      "gender": "Female",
+      "age": 32,
+      "speciality": "Cardiology",
+      "contact": "03012345678",
+      "address": "Model Town, Lahore",
+      "availability":[
+        {
+          "date": "2025-09-14",
+          "slots": ["9:00 AM", "10:00 AM", "11:30 AM"]
+        },
+        {
+          "date": "2025-09-16",
+          "slots": ["2:00 PM"] 
+        },
+        {
+          "date": "2025-09-20",
+          "slots": ["9:00 AM", "11:00 AM", "1:00 PM", "3:00 PM", "5:00 PM"]
+        }
+      ]
+    },
+    {
+      "doctorId": 3,
+      "userId": 8,
+      "name": "Kamran Ali",
+      "gender": "Male",
+      "age": 40,
+      "speciality": "Neurology",
+      "contact": "03019876543",
+      "address": "F-8, Islamabad",
+      "availability": [
+        {
+          "date": "2025-09-13",
+          "slots": ["10:00 AM"] 
+        },
+        {
+          "date": "2025-09-15",
+          "slots": ["9:00 AM", "11:00 AM", "1:00 PM"]
+        },
+        {
+          "date": "2025-09-17",
+          "slots": [] 
+        }
+      ]
+    },
+    {
+      "doctorId": 4,
+      "userId": 9,
+      "name": "Iqra Fatima",
+      "gender": "Female",
+      "age": 29,
+      "speciality": "Dermatology",
+      "contact": "03123456789",
+      "address": "DHA Phase 5, Karachi",
+      "availability": [
+        {
+          "date": "2025-09-13",
+          "slots": ["9:00 AM", "11:00 AM"]
+        },
+        {
+          "date": "2025-09-16",
+          "slots": ["1:00 PM", "2:00 PM", "3:30 PM"]
+        },
+        {
+          "date": "2025-09-19",
+          "slots": ["8:30 AM", "10:00 AM", "11:30 AM", "1:00 PM"]
+        }
+      ]
+    },
+    {
+      "doctorId": 5,
+      "userId": 10,
+      "name": "Usman Akbar",
+      "gender": "Male",
+      "age": 37,
+      "speciality": "Orthopedics",
+      "contact": "03334445555",
+      "address": "Satellite Town, Rawalpindi",
+      "availability": [
+        {
+          "date": "2025-09-12",
+          "slots": [] 
+        },
+        {
+          "date": "2025-09-14",
+          "slots": ["10:00 AM", "12:00 PM", "2:00 PM", "4:00 PM"]
+        },
+        {
+          "date": "2025-09-17",
+          "slots": ["9:00 AM"] 
+        }
+      ]
+    },
+    {
+      "doctorId": 6,
+      "userId": 11,
+      "name": "Ayesha Bibi",
+      "gender": "Female",
+      "age": 34,
+      "speciality": "Gynecology",
+      "contact": "03445556677",
+      "address": "Johar Town, Lahore",
+      "availability": [
+        {
+          "date": "2025-09-15",
+          "slots": ["10:00 AM", "11:00 AM", "12:30 PM"]
+        },
+        {
+          "date": "2025-09-18",
+          "slots": ["9:00 AM", "11:00 AM"]
+        },
+        {
+          "date": "2025-09-20",
+          "slots": [] 
+        }
+      ]
+    },
+    {
+      "doctorId": 7,
+      "userId": 12,
+      "name": "Junaid Hassan",
+      "gender": "Male",
+      "age": 42,
+      "speciality": "General Physician",
+      "contact": "03005554444",
+      "address": "North Nazimabad, Karachi",
+      "availability": [
+        {
+          "date": "2025-09-13",
+          "slots": ["8:30 AM", "9:30 AM", "10:30 AM", "11:30 AM"]
+        },
+        {
+          "date": "2025-09-16",
+          "slots": ["2:00 PM", "3:30 PM"]
+        },
+        {
+          "date": "2025-09-19",
+          "slots": ["9:00 AM", "11:00 AM", "1:00 PM", "3:00 PM", "5:00 PM"]
+        }
+      ]
+    }
+  ],
+
+  "patients": [
+    {
+      "patientId": 1,
+      "userId": 3,
+      "name": "Adnan Salman",
+      "gender": "Male",
+      "age": 13,
+      "contact": "03028603127",
+      "address": "House 567, Street 10, Noman Colony, Basti Chowk, Okara"
+    },
+    {
+      "patientId": 2,
+      "userId": 4,
+      "name": "Muhammad Ali",
+      "gender": "Male",
+      "age": 21,
+      "contact": "03012344321",
+      "address": "Shamsabad, Rawalpindi"
+    },
+    {
+      "patientId": 3,
+      "userId": 13,
+      "name": "Hira Naz",
+      "gender": "Female",
+      "age": 25,
+      "contact": "03211223344",
+      "address": "Township, Lahore"
+    },
+    {
+      "patientId": 4,
+      "userId": 14,
+      "name": "Saad Ashraf",
+      "gender": "Male",
+      "age": 30,
+      "contact": "03119998877",
+      "address": "Faisalabad City Center"
+    },
+    {
+      "patientId": 5,
+      "userId": 15,
+      "name": "Amna Iqbal",
+      "gender": "Female",
+      "age": 19,
+      "contact": "03445551212",
+      "address": "PECHS, Karachi"
+    },
+    {
+      "patientId": 6,
+      "userId": 16,
+      "name": "Zain Abid",
+      "gender": "Male",
+      "age": 28,
+      "contact": "03007778888",
+      "address": "Garden Town, Lahore"
+    },
+    {
+      "patientId": 7,
+      "userId": 17,
+      "name": "Fatima Ali",
+      "gender": "Female",
+      "age": 22,
+      "contact": "03019993322",
+      "address": "Cantt, Peshawar"
+    },
+    {
+      "patientId": 8,
+      "userId": 18,
+      "name": "Hamza Shahid",
+      "gender": "Male",
+      "age": 27,
+      "contact": "03332221100",
+      "address": "Saddar, Multan"
+    },
+    {
+      "patientId": 9,
+      "userId": 19,
+      "name": "Maria Zafar",
+      "gender": "Female",
+      "age": 35,
+      "contact": "03221113344",
+      "address": "DHA Phase 2, Islamabad"
+    },
+    {
+      "patientId": 10,
+      "userId": 20,
+      "name": "Ali Abbas",
+      "gender": "Male",
+      "age": 45,
+      "contact": "03441112233",
+      "address": "Model Town, Gujranwala"
+    },
+    {
+      "patientId": 11,
+      "userId": 21,
+      "name": "Noor Hassan",
+      "gender": "Female",
+      "age": 16,
+      "contact": "03023334444",
+      "address": "Shahdara, Lahore"
+    },
+    {
+      "patientId": 12,
+      "userId": 22,
+      "name": "Talha Umer",
+      "gender": "Male",
+      "age": 33,
+      "contact": "03124445566",
+      "address": "Gulshan-e-Iqbal, Karachi"
+    }
+  ]
+}

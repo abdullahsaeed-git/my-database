@@ -75,7 +75,7 @@
               ],
               "ytLink": "https://www.youtube.com/embed/iMAbIh-4X1s?si=X5fyJav4HT9zSBGc",
               "grade": {
-                "arabic":" ضعيف",
+                "arabic": " ضعيف",
                 "english": "Weak"
               },
               "references": [
@@ -702,11 +702,11 @@
                 "urdu": "بیہقی کے مطابق:پانی اس وقت تک پاک ہے جب تک کہ اس کی بو، ذائقہ یا رنگ تبدیل نہ ہو، اس میں نجاست پائی جاتی ہے۔"
               },
               "narrators": [
-               {
-                 "arabic": "ابو أُمَامَةَ اَلْبَاهِلِيِّ",
-                 "english": "Abu Umama Bahili",
-                 "narratorSlug": "abu-umama-bahili"
-               }
+                {
+                  "arabic": "ابو أُمَامَةَ اَلْبَاهِلِيِّ",
+                  "english": "Abu Umama Bahili",
+                  "narratorSlug": "abu-umama-bahili"
+                }
               ],
               "ytLink": "",
               "grade": {
@@ -9823,7 +9823,1301 @@
         "english": "Kitab ul siyam",
         "arabic": "كتاب الصيام (الصيام)"
       },
-      "bookSlug": "kitab-ul-siyam"
+      "bookSlug": "kitab-ul-siyam",
+      "description": {
+        "english": "'Kitab al-Salat' in Bulugh al-Maram is a compilation of Hadiths related to prayer (Salat). It covers topics such as ablution, call to prayer, prayer timings, congregational prayer, and Sunnah acts. Imam Ibn Hajar al-Asqalani selected authentic narrations and arranged them in a legal framework. This book is highly valuable for students of Fiqh and Hadith due to its clarity and authenticity.",
+        "urdu": "کتاب الصلاۃ بلوغ المرام کی وہ کتاب ہے جس میں نماز سے متعلق احادیث کو جمع کیا گیا ہے۔ یہ کتاب وضو، اذان، نماز کے اوقات، جماعت، اور سنتوں کے مسائل کو جامع انداز میں پیش کرتی ہے۔ امام ابن حجر عسقلانی نے صحیح احادیث کا انتخاب کر کے فقہی ترتیب سے پیش کیا ہے۔ یہ کتاب فقہ اور حدیث کے طالب علموں کے لیے انتہائی مفید اور معتبر ماخذ ہے۔"
+      },
+
+      "chapters": [
+        {
+          "id": 1,
+          "name": {
+            "arabic": "أحاديث في الصيام",
+            "english": "",
+            "urdu": ""
+          },
+          "chapterSlug": "bab-ul-saum-o-ramazan-wal-hikmah",
+          "summary": {
+            "urdu": ["bab urdu khulasa"],
+            "english": ["chapter english summary"]
+          },
+          "description": {
+            "urdu": "bab urdu tafseel",
+            "english": "chapter english description"
+          },
+          "hadiths": [
+            {
+              "hadithNo": 527,
+              "ourHadithNo": 643,
+              "id": 1,
+              "name": {
+                "arabic": "عَنْ أَبِي هُرَيْرَةَ - رضى الله عنه - قَالَ: قَالَ رَسُولُ اَللَّهِ - صلى الله عليه وسلم -{ لَا تَقَدَّمُوا رَمَضَانَ بِصَوْمِ يَوْمٍ وَلَا يَوْمَيْنِ, إِلَّا رَجُلٌ كَانَ يَصُومُ صَوْمًا, فَلْيَصُمْهُ } مُتَّفَقٌ عَلَيْهِ",
+
+                "english": "",
+
+                "urdu": "ابوہریرہ رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: {رمضان سے پہلے ایک یا دو دن کے روزے نہ رکھو، سوائے اس آدمی کے جو ایک روزہ رکھے، تو وہ روزہ رکھے۔} متفق علیہ۔"
+              },
+              "narrators": [
+                {
+                  "arabic": "أبو هُرَيْرَةَ",
+                  "english": "Abu Hurairah",
+                  "narratorSlug": "abu-huraira"
+                }
+              ],
+              "ytLink": "https://www.youtube.com/embed/iMAbIh-4X1s?si=X5fyJav4HT9zSBGc",
+              "grade": {
+                "arabic": " ضعيف",
+                "english": "Weak"
+              },
+              "references": [
+                {
+                  "arabic": "صحيح. رواه البخاري ( 1914 )",
+                  "english": ""
+                },
+                {
+                  "arabic": "ومسلم ( 1082 )",
+                  "english": ""
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                }
+              ]
+            },
+            {
+              "hadithNo": 528,
+              "ourHadithNo": 644,
+              "id": 2,
+
+              "name": {
+                "arabic": "وَعَنْ عَمَّارِ بْنِ يَاسِرٍ - رضى الله عنه - قَالَ: { مَنْ صَامَ اَلْيَوْمَ اَلَّذِي يُشَكُّ فِيهِ فَقَدْ عَصَى أَبَا اَلْقَاسِمِ - صلى الله عليه وسلم -} وَذَكَرَهُ اَلْبُخَارِيُّ تَعْلِيقًا, وَوَصَلَهُ اَلْخَمْسَةُ, وَصَحَّحَهُ اِبْنُ خُزَيْمَةَ, وَابْنُ حِبَّانَ 1 .",
+
+                "english": "",
+
+                "urdu": "",
+                "takhreej": {
+                  "arabic": " صحيح. علقه البخاري ( 4 / 119 / فتح )، ووصله أبو داود ( 2334 )، والنسائي ( 4 / 153 )، والترمذي ( 686 )، وابن ماجه ( 1645 )، وابن خزيمة ( 1914 )، وابن حبان ( 3577 ) من طريق صلة بن زفر قال: كنا عند عمار فأتي بشاة مصلية، فقال: كلوا، فتنحى بعض القوم؛ فقال: إني صائم. فقال عمار: فذكره. وقال الترمذي: ' حسن صحيح '. قلت: والحديث لم أجده في ' المسند ''.",
+                  "urdu": " ",
+                  "english": " "
+                }
+              },
+              "narrators": [
+                {
+                  "arabic": "",
+                  "english": "",
+                  "narratorSlug": ""
+                }
+              ],
+              "ytLink": "",
+              "grade": {
+                "arabic": " ",
+                "english": ""
+              },
+              "references": [
+                {
+                  "arabic": "أبو داود ( 2334 )",
+                  "english": ""
+                },
+                {
+                  "arabic": "البخاري ( 4 / 119 / فتح )",
+                  "english": ""
+                },
+                {
+                  "arabic": "والنسائي ( 4 / 153 )",
+                  "english": ""
+                },
+                {
+                  "arabic": "والترمذي ( 686 )",
+                  "english": ""
+                },
+                {
+                  "arabic": "وابن ماجه ( 1645 )",
+                  "english": ""
+                },
+                {
+                  "arabic": "وابن خزيمة ( 1914 )",
+                  "english": ""
+                },
+                {
+                  "arabic": "وابن حبان ( 3577 )",
+                  "english": ""
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                }
+              ]
+            },
+            {
+              "hadithNo": 529,
+              "ourHadithNo": 645,
+              "id": 3,
+
+              "name": {
+                "arabic": "وَعَنِ اِبْنِ عُمَرَ رَضِيَ اَللَّهُ عَنْهُمَا [ قَالَ ]: سَمِعْتُ رَسُولَ اَللَّهِ - صلى الله عليه وسلم -يَقُولُ: { إِذَا رَأَيْتُمُوهُ فَصُومُوا, وَإِذَا رَأَيْتُمُوهُ فَأَفْطِرُوا, فَإِنْ غُمَّ عَلَيْكُمْ فَاقْدُرُوا لَهُ } مُتَّفَقٌ عَلَيْهِ.  وَلِمُسْلِمٍ: { فَإِنْ أُغْمِيَ عَلَيْكُمْ فَاقْدُرُوا [ لَهُ ]. ثَلَاثِينَ }. وَلِلْبُخَارِيِّ: {فَأَكْمِلُوا اَلْعِدَّةَ ثَلَاثِينَ} وَلَهُ فِي حَدِيثِ أَبِي هُرَيْرَةَ - رضى الله عنه - { فَأَكْمِلُوا عِدَّةَ شَعْبَانَ ثَلَاثِينَ }  ",
+
+                "english": "",
+
+                "urdu": "ابن عمر رضی اللہ عنہما سے روایت ہے کہ اللہ تعالیٰ ان دونوں سے راضی ہے، انہوں نے کہا: میں نے رسول اللہ صلی اللہ علیہ وسلم کو یہ فرماتے ہوئے سنا: { اگر تم اسے دیکھو تو روزہ رکھو اور اگر تم اسے دیکھو تو روزہ رکھو۔ پس افطار کرو اور اگر ابر آلود ہو تو اس کے لیے تیاری کرو۔} متفق علیہ۔ اور مسلم کے مطابق: {لیکن اگر تم پر ابر آلود ہو تو [اس کے] لیے تیاری کرو۔ تیس}۔ اور بخاری کے مطابق: {پھر شعبان کے دنوں کی تعداد تیس پوری کرو} اور ابوہریرہ رضی اللہ عنہ کی حدیث کے مطابق - {پھر شعبان کی تعداد تیس پوری کرو}",
+                "takhreej": {
+                  "arabic": "1 - صحيح. رواه البخاري ( 1900 )، ومسلم ( 1080 ) ( 8 ). ساقطة من الأصلين، واستدركها من الصحيح، وهي كذلك موجودة في المطبوع، وفي الشرح. صحيح. رواه مسلم ( 1080 ) ( 4 ). صحيح. رواه البخاري ( 1907 ).",
+                  "english": "",
+                  "urdu": ""
+                }
+              },
+              "narrators": [
+                {
+                  "arabic": "",
+                  "english": "",
+                  "narratorSlug": ""
+                }
+              ],
+              "ytLink": "",
+              "grade": {
+                "arabic": " ",
+                "english": ""
+              },
+              "references": [
+                {
+                  "arabic": "البخاري ( 1907, 1909 , 1900 )",
+                  "english": ""
+                },
+                {
+                  "arabic": "ومسلم (- 8 - 4  1080 ) ).",
+                  "english": ""
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                }
+              ]
+            },
+            {
+              "hadithNo": 530,
+              "ourHadithNo": 647,
+              "id": 4,
+
+              "name": {
+                "arabic": "وَعَنِ اِبْنِ عُمَرَ رَضِيَ اَللَّهُ عَنْهُمَا قَالَ: { تَرَاءَى اَلنَّاسُ اَلْهِلَالَ, فَأَخْبَرْتُ رَسُولَ اَللَّهِ - صلى الله عليه وسلم -أَنِّي رَأَيْتُهُ, فَصَامَ, وَأَمَرَ اَلنَّاسَ بِصِيَامِهِ } رَوَاهُ أَبُو دَاوُدَ, وَصَحَّحَهُ اِبْنُ حِبَّانَ, وَالْحَاكِمُ 1",
+
+                "english": "",
+
+                "urdu": "",
+                "takhreej": {
+                  "arabic": "صحيح. رواه أبو داود ( 2342 )، وابن حبان ( 3438 )، والحاكم ( 1 / 423 ).",
+                  "english": "",
+                  "urdu": ""
+                }
+              },
+              "narrators": [
+                {
+                  "arabic": "",
+                  "english": "",
+                  "narratorSlug": ""
+                }
+              ],
+              "ytLink": "",
+              "grade": {
+                "arabic": " ",
+                "english": ""
+              },
+              "references": [
+                {
+                  "arabic": " أبو داود ( 2342 )",
+                  "english": ""
+                },
+                {
+                  "arabic": " وابن حبان ( 3438 )",
+                  "english": ""
+                },
+                {
+                  "arabic": "والحاكم ( 1 / 423 )",
+                  "english": ""
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                }
+              ]
+            },
+            {
+              "hadithNo": 531,
+              "ourHadithNo": 648,
+              "id": 5,
+
+              "name": {
+                "arabic": "وَعَنِ اِبْنِ عَبَّاسٍ رَضِيَ اَللَّهُ عَنْهُمَا أَنَّ أَعْرَابِيًّا جَاءَ إِلَى اَلنَّبِيِّ - صلى الله عليه وسلم -فَقَالَ: { إِنِّي رَأَيْتُ اَلْهِلَالَ, فَقَالَ: ' أَتَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اَللَّهُ? ' قَالَ: نَعَمْ. قَالَ: ' أَتَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اَللَّهِ? ' قَالَ: نَعَمْ. قَالَ: ' فَأَذِّنْ فِي اَلنَّاسِ يَا بِلَالُ أَنْ يَصُومُوا غَدًا' } رَوَاهُ اَلْخَمْسَةُ, وَصَحَّحَهُ اِبْنُ خُزَيْمَةَ, وَابْنُ حِبَّانَ 1 وَرَجَّحَ النَّسَائِيُّ إِرْسَالَهُ",
+
+                "english": "",
+
+                "urdu": "",
+                "takhreej": {
+                  "arabic": "ضعيف. رواه أبو داود ( 2340 )، والنسائي ( 4 / 132 )، والترمذي ( 691 )، وابن ماجه ( 1652 )، وابن خزيمة ( 1923 )، وابن حبان ( 870 / موارد ) من طريق سماك بن حرب، عن عكرمة، عن ابن عباس. وسماك مضطرب في روايته عن عكرمة، وقد اختلف عليه فيه، فمرة موصولا، ومرة مرسلا. قلت: والحديث لم أجده في ' المسند '. ' تنبيه ' هذا الحديث والذي قبله حجة لبعض المذاهب -كالمذهب الحنبلي مثلا- في إثبات دخول الشهر بشاهد واحد، وليس لهم حجة في ذلك، ولقد بينت ذلك في كتاب ' الإلمام بآداب وأحكام الصيام ' ص ( 15 - 16 ) الطبعة الأولى.2  - نقله الزيلعي في ' نصب الراية ' ( 2 / 443 )، وهو قول الترمذي أيضا في ' سننه '.",
+                  "english": "",
+                  "urdu": ""
+                }
+              },
+              "narrators": [
+                {
+                  "arabic": "",
+                  "english": "",
+                  "narratorSlug": ""
+                }
+              ],
+              "ytLink": "",
+              "grade": {
+                "arabic": " ",
+                "english": ""
+              },
+              "references": [
+                {
+                  "arabic": " أبو داود ( 2340 )",
+                  "english": ""
+                },
+                {
+                  "arabic": "والنسائي ( 4 / 132 )",
+                  "english": ""
+                },
+                {
+                  "arabic": "وابن ماجه ( 1652 )",
+                  "english": ""
+                },
+                {
+                  "arabic": "وابن خزيمة ( 1923 )",
+                  "english": ""
+                },
+                {
+                  "arabic": "وابن حبان ( 870 ",
+                  "english": ""
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                }
+              ]
+            },
+            {
+              "hadithNo": 532,
+              "ourHadithNo": 649,
+              "id": 5,
+
+              "name": {
+                "arabic": "وَعَنْ حَفْصَةَ أُمِّ اَلْمُؤْمِنِينَ رَضِيَ اَللَّهُ عَنْهَا, عَنِ اَلنَّبِيِّ - صلى الله عليه وسلم -قَالَ: { مَنْ لَمْ يُبَيِّتِ اَلصِّيَامَ قَبْلَ اَلْفَجْرِ فَلَا صِيَامَ لَهُ } رَوَاهُ اَلْخَمْسَةُ, وَمَالَ النَّسَائِيُّ وَاَلتِّرْمِذِيُّ إِلَى تَرْجِيحِ وَقْفِهِ, وَصَحَّحَهُ مَرْفُوعًا اِبْنُ خُزَيْمَةَ وَابْنُ حِبَّانَ 1 . وَلِلدَّارَقُطْنِيِّ: { لَا صِيَامَ لِمَنْ لَمْ يَفْرِضْهُ مِنَ اَللَّيْلِ } ",
+
+                "english": "",
+
+                "urdu": "",
+                "takhreej": {
+                  "arabic": "صحيح. رواه أبو داود ( 2454 )، والنسائي ( 4 / 196 )، والترمذي ( 730 )، وابن ماجه ( 1700 )، وأحمد ( 6 / 287 )، وابن خزيمة ( 1933 )، واللفظ للنسائي، وعن الباقين -عدا ابن ماجه- ' يجمع ' بدل '' يبيت ' وهي أيضا رواية للنسائي. وأما ابن ماجه فلفظه كلفظ الدارقطني الآتي، وفي ' الأصل ' ذكر ما يقوي رفعه، وأيضا ذكر ما صححه مرفوعا.2 - صحيح. رواه الدارقطني ( 2 / 172 )، وهو لفظ ابن ماجه أيضا كما سبق.",
+                  "english": "",
+                  "urdu": ""
+                }
+              },
+              "narrators": [
+                {
+                  "arabic": "",
+                  "english": "",
+                  "narratorSlug": ""
+                }
+              ],
+              "ytLink": "",
+              "grade": {
+                "arabic": " ",
+                "english": ""
+              },
+              "references": [
+                {
+                  "arabic": "أبو داود ( 2454 )‏",
+                  "english": ""
+                },
+                {
+                  "arabic": "والنسائي ( 4 / 196 )‏",
+                  "english": ""
+                },
+                {
+                  "arabic": "والترمذي ( 730 )",
+                  "english": ""
+                },
+                {
+                  "arabic": "وابن ماجه ( 1700 )",
+                  "english": ""
+                },
+                {
+                  "arabic": "وأحمد ( 6 / 287 )‏",
+                  "english": ""
+                },
+                {
+                  "arabic": "وابن خزيمة ( 1933 )",
+                  "english": ""
+                },
+                {
+                  "arabic": "رواه الدارقطني ( 2 / 172 )‏",
+                  "english": ""
+                }
+              ],
+              "summary": {
+                "urdu": "",
+                "english": ""
+              },
+              "explanation": [
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "sectionTitle": {
+                    "urdu": "",
+                    "english": ""
+                  },
+                  "sectionData": {
+                    "points": [
+                      {
+                        "title": {
+                          "urdu": "",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      },
+                      {
+                        "title": {
+                          "urdu": " ",
+                          "english": ""
+                        },
+                        "content": {
+                          "urdu": ["", "", ""],
+                          "english": ["", "", ""]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "importantWords": [
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                },
+                {
+                  "arabic": "",
+                  "english": "",
+                  "urdu": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 6,

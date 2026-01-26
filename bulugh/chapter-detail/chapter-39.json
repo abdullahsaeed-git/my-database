@@ -2,12 +2,42 @@
   "chapId": 39,
   "bookId": 6,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "احرام باندھنے کے بعد تلبیہ (لبیک) پکارنے کا آغاز مسجد (میقات) کے قریب سے کرنا سنت ہے۔",
+      "جبرائیل علیہ السلام کے حکم کے مطابق مردوں کو تلبیہ پکارتے ہوئے اپنی آوازیں بلند کرنی چاہئیں۔",
+      "احرام کے لیے غسل کرنا اور سلے ہوئے کپڑے اتار کر سادہ چادریں پہننا مسنون طریقہ ہے۔",
+      "حالتِ احرام میں قمیص، پگڑی، شلوار، ٹوپی اور موزے پہننا منع ہے؛ جوتے نہ ہونے پر ٹخنوں سے کٹے ہوئے موزے پہنے جا سکتے ہیں۔",
+      "احرام باندھنے سے پہلے بدن پر خوشبو لگانا جائز ہے، اور احرام کھولنے کے بعد طوافِ زیارت سے پہلے دوبارہ خوشبو لگانا سنت ہے۔",
+      "محرم (حالتِ احرام میں موجود شخص) کے لیے نکاح کرنا، نکاح کروانا یا منگنی کا پیغام بھیجنا شرعاً ممنوع ہے۔",
+      "احرام کی حالت میں خود شکار کرنا یا کسی کو شکار کی طرف اشارہ کر کے مدد کرنا منع ہے، البتہ غیر محرم کا کیا ہوا شکار کھایا جا سکتا ہے۔",
+      "اگر کوئی غیر محرم خاص طور پر محرم کے لیے شکار کرے تو اس کا کھانا محرم کے لیے جائز نہیں ہے۔",
+      "پانچ موذی جانور (کوا، چیل، بچھو، چوہا اور کاٹ کھانے والا کتا) ایسے ہیں جنہیں حرم کے اندر بھی مارا جا سکتا ہے۔",
+      "حالتِ احرام میں ضرورت پڑنے پر پچھنے لگوانا (حجامہ کروانا) جائز ہے اور اس سے احرام پر فرق نہیں پڑتا۔",
+      "احرام میں رہتے ہوئے کسی مجبوری (جیسے جوئیں یا تکلیف) کی وجہ سے ممنوعہ فعل کرنے پر فدیہ (روزہ، صدقہ یا قربانی) لازم آتا ہے۔",
+      "مکہ مکرمہ ایک دائمی حرم ہے جہاں کا شکار بھگانا، درخت کاٹنا اور گری ہوئی چیز اٹھانا (بغیر اعلان کے) ممنوع ہے۔",
+      "مدینہ منورہ کو بھی نبی ﷺ نے مکہ کی طرح حرم قرار دیا ہے اور اس کے پیمانوں (صاع و مد) میں برکت کی دعا فرمائی ہے۔",
+      "مدینہ کا حرم کوہِ عیر سے کوہِ ثور کے درمیانی علاقے پر محیط ہے جس کی پامالی جائز نہیں ہے۔"
+    ],
+    "english": [
+      "It is sunnah to begin the Talbiyah (shouting Labbayk) immediately from the vicinity of the Miqat mosque after entering Ihram.",
+      "Following Jibril's instruction, men are encouraged to raise their voices loudly when reciting the Talbiyah.",
+      "Taking a ritual bath (Ghusl) and removing stitched clothing in favor of unstitched sheets is the prescribed method for Ihram.",
+      "While in Ihram, wearing shirts, turbans, trousers, hooded cloaks, or leather socks is forbidden; cut socks are allowed only if sandals are unavailable.",
+      "Applying perfume to the body is permissible before entering Ihram and recommended after the first stage of exiting Ihram (Tahallul).",
+      "A person in the state of Ihram is prohibited from marrying, conducting a marriage for others, or making a marriage proposal.",
+      "Hunting or assisting in a hunt through gestures is forbidden for a pilgrim, though eating game caught independently by a non-pilgrim is allowed.",
+      "If a non-Muhrim specifically hunts an animal as a gift for someone in Ihram, the Muhrim is prohibited from accepting or eating it.",
+      "Five harmful animals (crow, kite, scorpion, mouse, and rabid dog) are exempted from the sanctuary rules and may be killed even within the Haram.",
+      "It is permissible for a Muhrim to undergo cupping (Hijamah) if medically necessary, as it does not violate the state of Ihram.",
+      "Violating Ihram restrictions due to severe discomfort (like lice or illness) necessitates an expiation (Fidyah) of fasting, feeding, or sacrifice.",
+      "Makkah is a permanent sanctuary where chasing game, cutting trees, or picking up lost items without public announcement is strictly prohibited.",
+      "The Prophet (ﷺ) declared Madinah a sanctuary similar to Makkah and invoked double the blessings upon its economic measures (Sa' and Mudd).",
+      "The boundaries of the Madinah sanctuary extend between the mountains of 'Ayr and Thawr, carrying a distinct sanctity."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب احرام کے لباس، تلبیہ کے آداب، محرم کے لیے جائز و ناجائز امور اور مکہ و مدینہ کے حرم کے تقدس و حدود کی وضاحت کرتا ہے۔",
+    "english": "This chapter details the dress code for Ihram, etiquette of Talbiyah, permissible and prohibited acts for pilgrims, and the sanctity of the Makkan and Madinan sanctuaries."
   },
   "hadithRange": {
     "from": 593,

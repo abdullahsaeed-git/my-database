@@ -1,69 +1,68 @@
 {
-    "bookId": 10,
-    "summary": {
-        "english": [], 
-        "urdu": []
-    },
-    "description": {
-        "urdu": " ",
-        "english" : " "
-    }, 
-    "hadithRange": {
-"from": 1034,
-"to": 1079
-    },
-    "chapters": [
-        {
-            "id": 84,
-            "chapNo": 1,
-            "name": {
-                "arabic": " باب حد الزاني",
-                "english": " ",
-                "urdu": " زانی کی حد کا بیان"
-            }
-        },
-
-        
-        {
-            "id": 85,
-            "chapNo": 2,
-            "name": {
-                "arabic": "باب حد القذف ",
-                "english": " ",
-                "urdu": " باب حد القذف"
-            }
-        },
-
-        {
-            "id": 86,
-            "chapNo": 3,
-            "name": {
-                "arabic": " باب حد السرقة",
-                "english": " ",
-                "urdu": "باب حد السرقة "
-            }
-        },
-
-        {
-            "id": 87,
-            "chapNo": 4,
-            "name": {
-                "arabic": " باب حد الشارب وبيان المسكر",
-                "english": " ",
-                "urdu": "شراب پینے والے کی حد اور نشہ آور چیزوں کا بیان "
-            }
-        },
-
-        {
-            "id": 88,
-            "chapNo": 5,
-            "name": {
-                "arabic": " باب التعزير وحكم الصائل",
-                "english": " ",
-                "urdu": "تعزیر اور حملہ آور (ڈاکو) کا حکم "
-            }
-        }
-
-
+  "bookId": 10,
+  "summary": {
+    "english": [
+      "Kitab al-Hudud details the prescribed punishments in Islamic law for specific crimes.",
+      "It covers the legal definitions and requirements for implementing penalties for offenses such as adultery, theft, and intoxication."
+    ],
+    "urdu": [
+      "کتاب الحدود میں ان شرعی سزاؤں کا ذکر ہے جو مخصوص جرائم کے لیے اللہ کی طرف سے مقرر کی گئی ہیں۔",
+      "اس میں زنا، چوری، اور نشہ آوری جیسے جرائم کی قانونی تعریف اور ان پر سزا کے نفاذ کی شرائط بیان کی گئی ہیں۔"
     ]
+  },
+  "description": {
+    "urdu": "کتاب الحدود میں زنا، قذف (تہمت تراشی)، چوری، اور شراب نوشی کی سزاؤں کے علاوہ تعزیرات اور حملہ آور کے خلاف دفاع سے متعلق احادیث کو جمع کیا گیا ہے۔",
+    "english": "Kitab al-Hudud contains Hadiths regarding the prescribed penalties for adultery, slander, theft, and drinking intoxicants, as well as discretionary punishments (Ta'zir) and the rulings on self-defense against attackers."
+  },
+  "hadithRange": {
+    "from": 1034,
+    "to": 1079
+  },
+  "chapters": [
+    {
+      "id": 84,
+      "chapNo": 1,
+      "name": {
+        "arabic": " باب حد الزاني",
+        "english": "Chapter of the Prescribed Punishment for Adultery",
+        "urdu": " زانی کی حد کا بیان"
+      }
+    },
+    {
+      "id": 85,
+      "chapNo": 2,
+      "name": {
+        "arabic": "باب حد القذف ",
+        "english": "Chapter of the Prescribed Punishment for Slander",
+        "urdu": " تہمت تراشی کی حد کا بیان"
+      }
+    },
+    {
+      "id": 86,
+      "chapNo": 3,
+      "name": {
+        "arabic": " باب حد السرقة",
+        "english": "Chapter of the Prescribed Punishment for Theft",
+        "urdu": "چوری کی حد کا بیان "
+      }
+    },
+    {
+      "id": 87,
+      "chapNo": 4,
+      "name": {
+        "arabic": " باب حد الشارب وبيان المسكر",
+        "english": "Chapter of the Prescribed Punishment for the Drinker and Intoxicants",
+        "urdu": "شراب پینے والے کی حد اور نشہ آور چیزوں کا بیان "
+      }
+    },
+    {
+      "id": 88,
+      "chapNo": 5,
+      "name": {
+        "arabic": " باب التعزير وحكم الصائل",
+        "english": "Chapter of Discretionary Punishment and the Ruling on the Attacker",
+        "urdu": "تعزیر اور حملہ آور (ڈاکو) کا حکم "
+      }
+    }
+  ]
 }

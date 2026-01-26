@@ -2,12 +2,24 @@
   "chapId": 95,
   "bookId": 12,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "عقیقہ بچے کی پیدائش پر اللہ کا شکر ادا کرنے کے لیے ایک مسنون عمل ہے؛ ہر بچہ اپنے عقیقے کے عوض گروی ہوتا ہے۔",
+      "عقیقہ کرنے کا سب سے بہترین وقت پیدائش کا ساتواں دن ہے؛ اسی روز بچے کا نام رکھا جائے اور سر کے بال منڈوائے جائیں۔",
+      "لڑکے کی طرف سے دو بکریاں (یا مینڈھے) اور لڑکی کی طرف سے ایک بکری ذبح کرنا سنت ہے۔",
+      "نبی ﷺ نے اپنے نواسوں، سیدنا حسنؓ اور سیدنا حسینؓ کی طرف سے ایک ایک مینڈھے کا عقیقہ بھی فرمایا ہے، جو اس کی گنجائش کو ظاہر کرتا ہے۔",
+      "عقیقے کے جانور کے لیے بھی وہی شرائط ہیں جو قربانی کے جانور کے لیے ہیں، یعنی وہ عیوب سے پاک اور صحت مند ہو۔"
+    ],
+    "english": [
+      "Aqiqa is a Sunnah act of sacrifice to express gratitude to Allah for the birth of a child; every newborn is considered 'pawned' until it is performed.",
+      "The most recommended time for Aqiqa is the seventh day after birth, on which the child should also be named and have their head shaved.",
+      "The Prophetic tradition suggests sacrificing two comparable sheep for a baby boy and one sheep for a baby girl.",
+      "The Prophet (ﷺ) offered one ram each for his grandsons, Al-Hasan (RA) and Al-Husain (RA), demonstrating the validity of a single sacrifice when needed.",
+      "The criteria for selecting an Aqiqa animal are the same as those for Udhiyah (sacrifice), meaning it must be healthy and free from visible defects."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب عقیقہ کی شرعی اہمیت، لڑکے اور لڑکی کے لیے جانوروں کی تعداد، اور پیدائش کے ساتویں دن کے مسنون افعال کو بیان کرتا ہے۔",
+    "english": "This chapter details the Sharia significance of Aqiqa, the specific number of animals for boys and girls, and the Sunnah acts to be performed on the seventh day after birth."
   },
   "hadithRange": {
     "from": 1168,

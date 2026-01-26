@@ -2,12 +2,50 @@
   "chapId": 40,
   "bookId": 6,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "حالتِ نفاس میں موجود خاتون بھی غسل کر کے اور احتیاطی تدابیر اختیار کر کے احرام باندھ سکتی ہے۔",
+      "تلبیہ (لبیک) پکارنے کے بعد اللہ کی رضا، جنت کی طلب اور جہنم سے پناہ کی دعا مانگنا مستحب ہے۔",
+      "منیٰ، عرفات اور مزدلفہ کے تمام میدان وقوف اور قربانی کے لیے جائز ہیں، کسی ایک جگہ کی تخصیص نہیں۔",
+      "مکہ میں بالائی حصے سے داخل ہونا اور زیریں حصے سے نکلنا سنتِ نبوی سے ثابت ہے۔",
+      "مکہ میں داخلے سے پہلے مقامِ ذی طویٰ پر رات گزارنا اور غسل کرنا مستحب عمل ہے۔",
+      "حجرِ اسود کو بوسہ دینا، اس پر سجدہ کرنا یا چھڑی سے چھو کر اسے چومنا سنت ہے۔",
+      "طوافِ قدوم کے پہلے تین چکروں میں رمل (تیز چال) کرنا اور باقی چار میں معمول کے مطابق چلنا مسنون ہے۔",
+      "طواف کے دوران صرف رکنِ یمانی اور حجرِ اسود کا استلام (چھونا) ثابت ہے۔",
+      "مردوں کے لیے طواف کے دوران 'اضطباع' (دایاں کندھا کھلا رکھنا) مسنون طریقہ ہے۔",
+      "حج کے سفر میں تلبیہ اور تکبیر بلند آواز سے پکارنے پر کوئی ممانعت نہیں ہے۔",
+      "کمزور افراد، بچوں اور خواتین کو مزدلفہ سے رات ہی کے وقت منیٰ روانہ ہونے کی رخصت ہے۔",
+      "جمرہ عقبہ کو کنکریاں مارنے کا مسنون وقت طلوعِ آفتاب کے بعد ہے، مگر معذوروں کے لیے گنجائش ہے۔",
+      "حج کے ارکان (رمی، قربانی، حلق اور طواف) کی ترتیب آگے پیچھے ہو جائے تو کوئی حرج نہیں۔",
+      "مردوں کے لیے سر منڈوانا (حلق) بال کتروانے سے زیادہ فضیلت رکھتا ہے، جبکہ خواتین صرف بال کتروائیں گی۔",
+      "رمی اور حلق (یا قصر) کے بعد احرام کی تمام پابندیاں ختم ہو جاتی ہیں، سوائے ازدواجی تعلقات کے۔",
+      "حجاج کی خدمت (جیسے پانی پلانا یا چرواہے) پر مامور افراد کو منیٰ سے باہر رات گزارنے کی اجازت ہے۔",
+      "مکہ سے واپسی پر آخری عمل طوافِ وداع ہونا چاہیے، جس سے حائضہ خواتین کو استثنیٰ حاصل ہے۔",
+      "مسجدِ نبوی میں ایک نماز کا ثواب ہزار گنا اور مسجدِ حرام میں ایک لاکھ گنا زیادہ ہے۔"
+    ],
+    "english": [
+      "A woman in post-natal bleeding can enter Ihram after taking a bath and taking necessary precautions.",
+      "After reciting the Talbiyah, it is recommended to supplicate for Allah's pleasure, Paradise, and protection from Hell.",
+      "The entirety of Mina, Arafat, and Muzdalifah are valid for standing and sacrifice; specific spots are not mandatory.",
+      "Entering Makkah from the upper side and departing from the lower side is a recorded practice of the Prophet (ﷺ).",
+      "It is recommended to spend the night at Dhu Tuwa and take a bath before entering Makkah for pilgrimage.",
+      "Kissing the Black Stone, prostrating upon it, or touching it with a staff and kissing the staff are all Sunnah acts.",
+      "Performing Ramal (brisk walking) is prescribed for the first three circuits of the initial Tawaf, followed by normal walking.",
+      "Touching (Istilam) is only established for the Black Stone and the Yemeni Corner during Tawaf.",
+      "Men should practice Idtiba' (exposing the right shoulder) during the Tawaf of arrival.",
+      "Reciting Talbiyah and Takbir audibly during the Hajj journey is encouraged and practiced by the Sahaba.",
+      "Concessions are granted for the weak, children, and women to leave Muzdalifah for Mina during the night.",
+      "The primary time for stoning the Jamrah is after sunrise, though early stoning is permitted for those with excuses.",
+      "Flexibility is provided regarding the sequence of stoning, sacrificing, shaving, and Tawaf on the 10th of Dhul-Hijjah.",
+      "Shaving the head (Halq) is superior to cutting (Qasr) for men, while women are only required to trim their hair.",
+      "After stoning and shaving, all Ihram restrictions are lifted except for marital relations until the final Tawaf.",
+      "Exemptions from staying overnight in Mina are granted to those serving pilgrims or tending to livestock.",
+      "The Farewell Tawaf (Tawaf al-Wada) is the final obligatory act before leaving Makkah, except for menstruating women.",
+      "Prayer in the Prophet's Mosque is 1,000 times more virtuous, and in Masjid al-Haram, it is 100,000 times more rewardable."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب مکہ میں داخلے کے آداب، طواف و سعی کے طریقے، منیٰ و مزدلفہ کے قیام، رمی کے احکامات اور طوافِ وداع کی تفصیل بیان کرتا ہے۔",
+    "english": "This chapter outlines the etiquette of entering Makkah, the method of Tawaf and Sa'i, the stay at Mina and Muzdalifah, the rules for stoning, and the farewell pilgrimage rites."
   },
   "hadithRange": {
     "from": 607,

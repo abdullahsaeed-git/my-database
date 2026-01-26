@@ -2,12 +2,28 @@
   "chapId": 98,
   "bookId": 14,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "بہترین گواہ وہ ہے جو حق کی خاطر گواہی طلب کیے جانے سے پہلے ہی خود پیش کر دے، تاکہ کسی کا حق ضائع نہ ہو۔",
+      "جھوٹی گواہی (شہادت الزور) دینا اسلام میں سب سے بڑے کبیرہ گناہوں میں سے ایک ہے۔",
+      "گواہی صرف اس بات کی دی جائے جو سورج کی طرح واضح اور یقینی ہو؛ شک و شبہ کی بنیاد پر گواہی دینا جائز نہیں۔",
+      "خائن (بددیانت) مرد و عورت، کینہ پرور شخص، اور زیرِ کفالت خادم کی اپنے مالکان کے حق میں گواہی قابلِ قبول نہیں۔",
+      "مالی معاملات کے فیصلوں میں اگر دو گواہ نہ ہوں، تو رسول اللہ ﷺ نے ایک گواہ اور مدعی کی قسم کی بنیاد پر بھی فیصلہ فرمایا ہے۔",
+      "وحی کا سلسلہ منقطع ہو چکا ہے، اب عدالتی فیصلے صرف ظاہری ثبوتوں اور گواہیوں کی بنیاد پر کیے جائیں گے، باطنی نیتوں کا حال اللہ کے سپرد ہے۔",
+      "آخری زمانے میں ایسے لوگ پیدا ہوں گے جو گواہی دینے میں جلد بازی کریں گے، امانتوں میں خیانت کریں گے اور ان میں عیش و عشرت کی وجہ سے موٹاپا نمایاں ہوگا۔"
+    ],
+    "english": [
+      "The best witness is the one who steps forward to provide testimony even before being asked, ensuring that justice is served and rights are protected.",
+      "Giving false testimony (Shahadat al-Zur) is classified in Islam as one of the most serious major sins.",
+      "Testimony must only be given for matters that are as clear and certain as the sun; providing evidence based on conjecture or doubt is prohibited.",
+      "The testimony of a treacherous person (male or female), someone harboring a grudge, or a dependent servant in favor of their master is legally inadmissible.",
+      "In financial disputes, if two witnesses are unavailable, the Prophet (ﷺ) allowed a judgment to be passed based on one witness and the claimant's oath.",
+      "Since Divine Revelation has ceased, legal judgments must now be based solely on apparent evidence and testimony, leaving the matter of internal intentions to Allah.",
+      "Prophetic warnings highlight a future generation that will bear witness carelessly, commit breaches of trust, and display physical signs of luxury and excess."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب گواہی کی اہمیت، سچے گواہ کی فضیلت، جھوٹی گواہی کی ممانعت، اور ان افراد کی فہرست بیان کرتا ہے جن کی گواہی عدالت میں قبول نہیں کی جاتی۔",
+    "english": "This chapter details the importance of legal testimony, the excellence of truthful witnesses, the prohibition of perjury, and the criteria for the admissibility of witnesses in a court of law."
   },
   "hadithRange": {
     "from": 1201,

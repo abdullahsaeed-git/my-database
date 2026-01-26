@@ -2,12 +2,26 @@
   "chapId": 45,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "بیعِ عرایا میں رخصت دی گئی ہے کہ ضرورت مند گھرانے درخت پر لگی تازہ کھجوروں کا تخمینہ لگا کر انہیں خشک کھجوروں کے عوض خرید سکتے ہیں۔",
+      "عرایا کی یہ رخصت پانچ وسق یا اس سے کم مقدار تک محدود ہے تاکہ غریبوں کی ضرورت پوری ہو اور سود کا شبہ نہ رہے۔",
+      "پھلوں کو اس وقت تک فروخت کرنا منع ہے جب تک ان کے پکنے کی علامات (سرخی یا زردی) ظاہر نہ ہو جائیں اور بیماری کا خطرہ ٹل نہ جائے۔",
+      "انگور کو سیاہ (پکا ہوا) ہونے سے پہلے اور غلے کو سخت و مضبوط ہونے سے پہلے بیچنا شرعاً ممنوع ہے۔",
+      "اگر پھل فروخت کرنے کے بعد اور اتارنے سے پہلے کوئی ناگہانی قدرتی آفت (جائحہ) فصل تباہ کر دے، تو بیچنے والے کے لیے قیمت وصول کرنا جائز نہیں ہے۔",
+      "پھلوں والی کھجور کے درختوں کی خرید و فروخت میں اگر پیوند کاری ہو چکی ہو، تو پھل بیچنے والے کا حق ہے، الا یہ کہ خریدار پہلے شرط طے کر لے۔"
+    ],
+    "english": [
+      "A concession (Aranya) is granted for families to exchange estimated fresh dates still on the tree for dried dates for immediate consumption.",
+      "The allowance for Aranya is limited to a maximum of five 'Wasaqs' to balance necessity with the avoidance of usurious uncertainty.",
+      "It is strictly forbidden to sell fruits until they show clear signs of ripening (turning red or yellow) and are safe from common agricultural blights.",
+      "Grapes should not be sold until they turn black (ripe), and grain should not be traded until it has reached full hardness and maturity.",
+      "If a natural disaster (Jaih) destroys a crop after the sale but before the harvest, the seller is not entitled to the price and must remit the payment.",
+      "In the sale of date palms, if pollination has already occurred, the existing fruit belongs to the seller unless a specific contractual condition states otherwise."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب بیعِ عرایا کی خصوصی رخصت، پھلوں اور غلے کے پکنے سے پہلے ان کی فروخت کی ممانعت، اور فصلوں پر آنے والی آفات کے مالی احکامات بیان کرتا ہے۔",
+    "english": "This chapter explains the specific concession of 'Araya', the prohibition of selling unripened fruits and grains, and the legal consequences of natural disasters affecting sold crops."
   },
   "hadithRange": {
     "from": 712,

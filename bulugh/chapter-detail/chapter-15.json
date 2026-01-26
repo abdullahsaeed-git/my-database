@@ -2,12 +2,32 @@
   "chapId": 15,
   "bookId": 2,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "نماز میں پہلو یا کولہوں پر ہاتھ رکھ کر کھڑا ہونا ممنوع ہے کیونکہ یہ یہودیوں کا طریقہ ہے۔",
+      "اگر کھانا سامنے آ جائے تو پہلے کھانا کھا لینا چاہیے تاکہ نماز میں دل لگی رہے۔",
+      "دورانِ سجدہ زمین سے کنکریاں ہٹانے سے گریز کریں، بہت ضرورت ہو تو صرف ایک بار ایسا کریں۔",
+      "نماز میں ادھر ادھر دیکھنا شیطان کی طرف سے بندے کی نماز میں کی جانے والی چوری ہے۔",
+      "نماز اللہ سے سرگوشی ہے، اس لیے سامنے یا دائیں جانب تھوکنے سے پرہیز کریں۔",
+      "نمازی کے سامنے ایسی تصاویر یا نقش و نگار والا کپڑا نہیں ہونا چاہیے جو توجہ بٹانے کا باعث بنے۔",
+      "نماز میں نظریں آسمان کی طرف اٹھانا سخت گناہ ہے جو بینائی چھن جانے کا سبب بن سکتا ہے۔",
+      "شدید بھوک یا قضائے حاجت کے غلبے کی حالت میں نماز ادا کرنا مکروہ ہے۔",
+      "جمائی کو شیطان کی طرف سے سمجھا گیا ہے، اس لیے اسے حتیٰ الوسع دبانے کی کوشش کرنی چاہیے۔"
+    ],
+    "english": [
+      "Placing hands on the hips or sides during prayer is forbidden as it resembles non-Islamic practices.",
+      "Priority should be given to eating if dinner is served, ensuring a focused heart during worship.",
+      "Avoid smoothing pebbles at the prostration spot; if necessary, do it only once to maintain focus.",
+      "Looking around during Salah is a distraction by Satan that snatches away the reward of the servant.",
+      "Spitting in front or to the right is prohibited as prayer is a private conversation with Allah.",
+      "Remove any patterned or pictured curtains that might divert the mind from the concentration of prayer.",
+      "Gazing toward the sky while praying is strictly forbidden and carries a warning of losing eyesight.",
+      "Praying while hungry or while resisting the urge to relieve oneself is discouraged for proper devotion.",
+      "Yawning should be suppressed as much as possible as it is considered a distraction from Satan."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب نماز کے دوران خشوع و خضوع برقرار رکھنے اور ان افعال سے بچنے کے بارے میں ہے جو توجہ بٹانے کا باعث بنتے ہیں۔",
+    "english": "This chapter details actions that disrupt concentration in prayer and provides guidance on maintaining proper focus and humility during Salah."
   },
   "hadithRange": {
     "from": 187,

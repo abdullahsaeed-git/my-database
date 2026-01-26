@@ -2,12 +2,22 @@
   "chapId": 55,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "مضاربت (سرمایہ کاری)، ادھار تجارت اور گھریلو ضرورت کے لیے اناج کی ملاوٹ میں برکت رکھی گئی ہے۔",
+      "سرمایہ کار (رب المال) اپنے مال کی حفاظت کے لیے کاروبار کرنے والے (مضارب) پر جائز حفاظتی شرائط عائد کر سکتا ہے۔",
+      "اگر مضارب (کاروبار کرنے والا) سرمایہ کار کی طے کردہ حفاظتی شرائط کی خلاف ورزی کرے، تو وہ نقصان کی صورت میں مال کا ضامن ہوگا۔",
+      "صحابہ کرام کے دور میں مضاربت کا طریقہ رائج تھا جہاں ایک فریق سرمایہ فراہم کرتا اور دوسرا محنت، اور منافع دونوں میں طے شدہ شرح سے تقسیم ہوتا تھا۔"
+    ],
+    "english": [
+      "Blessing is found in Mudarabah (profit-sharing partnerships), deferred payment sales, and mixing grains for personal household consumption.",
+      "An investor (Rabb-ul-Mal) has the right to impose reasonable safety conditions on the manager (Mudarib) to protect the capital.",
+      "If the manager violates the specific safety stipulations set by the investor, they become personally liable for any resulting loss of capital.",
+      "Mudarabah was a practiced norm among the Companions, where one provided capital and the other labor, with profits divided according to a mutual agreement."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب مضاربت (Muqaradah) کے بنیادی اصولوں، سرمایہ کار کی شرائط اور نفع و نقصان کی ذمہ داریوں کی وضاحت کرتا ہے۔",
+    "english": "This chapter outlines the fundamental principles of Mudarabah (profit-sharing investment), the investor's stipulations, and the liability for gains and losses."
   },
   "hadithRange": {
     "from": 765,

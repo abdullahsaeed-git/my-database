@@ -2,12 +2,40 @@
   "chapId": 44,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "سود لینے والے، دینے والے، لکھنے والے اور گواہان سب پر اللہ کی لعنت ہے اور وہ گناہ میں برابر ہیں۔",
+      "سود کے تہتر ابواب ہیں، جن میں سے کم تر گناہ ماں سے نکاح کے برابر ہے، اور سب سے بڑا سود کسی مسلمان کی آبرو ریزی ہے۔",
+      "سونا سونے کے بدلے اور چاندی چاندی کے بدلے صرف برابر وزن اور نقد کی صورت میں بیچے جا سکتے ہیں، کمی بیشی سود ہے۔",
+      "گندم، جو، کھجور اور نمک کا تبادلہ بھی اسی جنس سے کرتے وقت برابری اور نقد ادائیگی لازمی ہے۔",
+      "گھٹیا مال دے کر عمدہ مال زیادہ مقدار میں لینا منع ہے؛ صحیح طریقہ یہ ہے کہ گھٹیا مال بیچ کر رقم حاصل کی جائے اور پھر اس رقم سے عمدہ مال خریدا جائے۔",
+      "نامعلوم مقدار کے ڈھیر کا تبادلہ معلوم مقدار کے اناج سے کرنا منع ہے۔",
+      "سونے کے جڑے ہوئے زیور کو تب تک فروخت نہ کریں جب تک سونا اور نگینے الگ الگ کر کے سونے کا وزن معلوم نہ کر لیا جائے۔",
+      "ایک جانور کا دوسرے جانور سے ادھار پر تبادلہ کرنا منع ہے۔",
+      "سودی تجارت (عینہ)، جہاد کو چھوڑنا اور صرف دنیاوی زراعت میں مگن ہونا ذلت کا باعث ہے۔",
+      "کسی جائز کام کی سفارش کے بدلے میں تحفہ لینا سود کی ایک بڑی قسم ہے۔",
+      "رشوت دینے والے اور لینے والے دونوں پر اللہ کے رسول ﷺ کی لعنت ہے۔",
+      "ادھار کے بدلے ادھار (قرض کے بدلے قرض) کی تجارت کرنا شرعاً ممنوع ہے۔",
+      "تازہ پھلوں کا خشک پھلوں کے ساتھ تبادلہ وزن کی کمی بیشی کے خدشے کی بنا پر منع ہے۔"
+    ],
+    "english": [
+      "Allah's Messenger (ﷺ) cursed the receiver, the payer, the scribe, and the witnesses of usury (Riba), declaring them equal in sin.",
+      "Usury has seventy-three levels; the least is equivalent to incest with one's mother, and the worst is violating a Muslim's honor.",
+      "Exchange of gold for gold or silver for silver must be in equal weight and hand-to-hand; any excess is Riba.",
+      "Commodities like wheat, barley, dates, and salt must be exchanged like-for-like and on the spot when trading within the same genus.",
+      "Trading a larger quantity of low-quality goods for a smaller quantity of high-quality goods is prohibited; items should be sold for currency first to facilitate a fair purchase.",
+      "It is forbidden to trade an unmeasured heap of food for a specified measurement of the same food.",
+      "Jewelry containing gold and stones must be separated before sale to ensure the gold is traded for its exact weight equivalent.",
+      "Trading one animal for another on credit is prohibited to avoid uncertainty and usury-like conditions.",
+      "Engaging in 'Inah (deceptive usurious sales) and abandoning Jihad leads to a state of communal humiliation.",
+      "Accepting a gift in return for an intercession (recommendation) is categorized as a serious form of usury.",
+      "Both the giver and the receiver of a bribe are cursed by the Messenger of Allah (ﷺ).",
+      "Selling a debt for a debt (credit for credit) is strictly prohibited in Islamic finance.",
+      "Exchanging fresh fruit (like dates) for dry ones is forbidden because the weight changes upon drying, leading to inequality."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب سود (ربا) کی حرمت، اس کی مختلف اقسام، ہم جنس اشیاء کے تبادلے کے قوانین اور تجارت میں چھپے ہوئے سودی عناصر کی وضاحت کرتا ہے۔",
+    "english": "This chapter explains the prohibition of usury (Riba), its various types, the rules for exchanging similar commodities, and identifying usurious elements in trade."
   },
   "hadithRange": {
     "from": 695,

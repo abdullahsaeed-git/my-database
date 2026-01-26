@@ -2,12 +2,28 @@
   "chapId": 101,
   "bookId": 15,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "مدبر وہ غلام ہے جسے مالک اپنی موت کے بعد آزاد کرنے کی وصیت کرے؛ اگر مالک شدید مقروض ہو یا محتاج ہو جائے، تو اس غلام کو فروخت کر کے قرض ادا کرنا جائز ہے۔",
+      "مکاتب وہ غلام ہے جو اپنے مالک سے ایک معینہ رقم کے بدلے آزادی کا معاہدہ کرے؛ وہ اس وقت تک قانونی طور پر غلام ہی رہتا ہے جب تک کہ معاہدے کی آخری رقم (ایک درہم بھی) ادا نہ کر دے۔",
+      "اگر کسی خاتون کا مکاتب غلام اپنی آزادی کی رقم ادا کرنے کی استطاعت حاصل کر لے، تو اس عورت پر لازم ہے کہ وہ اس سے پردہ (حجاب) کرے کیونکہ وہ آزادی کے قریب ہے۔",
+      "ام الولد وہ لونڈی ہے جس کے ہاں اس کے مالک کا بچہ پیدا ہو؛ ایسی لونڈی مالک کی وفات کے بعد خود بخود آزاد ہو جاتی ہے۔",
+      "مکاتب غلام اگر کسی جرم یا حادثے کا شکار ہو جائے، تو اس کی دیت (خون بہا) کا حساب اس کی ادا کردہ رقم (آزاد حصہ) اور بقایا رقم (غلام حصہ) کے تناسب سے لگایا جائے گا۔",
+      "مکاتب غلاموں کو ان کی آزادی کی رقم جمع کرنے میں مالی مدد دینا ایک عظیم نیکی ہے، جس کا اجر قیامت کے دن اللہ کے عرش کا سایہ ہے۔",
+      "نبی کریم ﷺ کی سادگی اور زہد کا یہ عالم تھا کہ وفات کے وقت آپ ﷺ نے کوئی مال و دولت یا غلام و لونڈی وراثت میں نہیں چھوڑی، سوائے اپنی سواری، اسلحہ اور صدقہ کی ہوئی زمین کے۔"
+    ],
+    "english": [
+      "A 'Mudabbar' is a slave promised freedom after the master's death; however, if the master falls into severe debt or poverty, it is legally permissible to sell the slave to settle liabilities.",
+      "A 'Mukatab' is a slave who enters a contractual agreement to buy their freedom; they retain the legal status of a slave until the very last unit of the agreed currency is paid.",
+      "If a woman's Mukatab slave acquires enough wealth to fulfill his freedom contract, she must begin observing Hijab (veil) before him, as he is effectively transitioning to a free man.",
+      "An 'Umm al-Walad' is a female slave who bears her master's child; such a woman automatically becomes free upon the death of her master.",
+      "Legal compensation (Diyah) for a Mukatab is proportionate: the portion of the debt already paid is compensated at the rate of a free person, while the remaining portion is compensated at the rate of a slave.",
+      "Providing financial assistance to Mukatab slaves to help them secure their freedom is a highly rewarded act, earning the shade of Allah's throne on the Day of Resurrection.",
+      "The Prophet (ﷺ) exemplified ultimate detachment from worldly wealth, leaving behind no money, slaves, or assets at the time of his death, except for his mule, weapons, and land dedicated to charity."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب غلاموں کی مخصوص اقسام (مدبر، مکاتب، ام ولد) کے قانونی حقوق، ان کی آزادی کے ضوابط اور ان کی مالی مدد کی فضیلت بیان کرتا ہے۔",
+    "english": "This chapter details the legal rights of specific categories of slaves (Mudabbar, Mukatab, Umm al-Walad), regulations for their emancipation, and the virtues of assisting them in gaining freedom."
   },
   "hadithRange": {
     "from": 1229,

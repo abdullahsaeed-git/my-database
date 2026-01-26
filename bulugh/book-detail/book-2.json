@@ -1,12 +1,18 @@
 {
-  "bookId": 1,
+  "bookId": 2,
   "summary": {
-    "english": [],
-    "urdu": []
+    "english": [
+      "Bulugh al-Maram is a collection of hadith specifically related to Islamic jurisprudence (Fiqh).",
+      "This section focuses on the Book of Prayer (Kitab as-Salat), covering its timings, conditions, and various types of prayers."
+    ],
+    "urdu": [
+      "بلوغ المرام احادیث کا ایک مجموعہ ہے جو خاص طور پر اسلامی فقہ سے متعلق ہے۔",
+      "یہ حصہ 'کتاب الصلاۃ' (نماز کے بیان) پر مشتمل ہے، جس میں نماز کے اوقات، شرائط اور نماز کی مختلف اقسام کا ذکر ہے۔"
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "بلوغ المرام من ادلة الاحكام حافظ ابن حجر عسقلانی کی مایہ ناز تصنیف ہے جو احکام الحدیث پر مبنی ہے۔ اس میں نماز کے تمام اہم مسائل اور ابواب کو احادیث کی روشنی میں جمع کیا گیا ہے۔",
+    "english": "Bulugh al-Maram min Adillat al-Ahkam is a classical collection of Hadith by Hafiz Ibn Hajar al-Asqalani focusing on legal rulings. This section details the rulings and etiquettes of Prayer (Salat)."
   },
   "hadithRange": {
     "from": 129,
@@ -18,167 +24,151 @@
       "chapNo": 1,
       "name": {
         "arabic": "باب المواقيت ",
-        "english": " ",
+        "english": "Chapter of Prayer Times",
         "urdu": "اوقات نماز کا بیان "
       }
     },
-
     {
       "id": 12,
       "chapNo": 2,
       "name": {
         "arabic": "باب الأذان ",
-        "english": " ",
+        "english": "Chapter of the Adhan (Call to Prayer)",
         "urdu": "اذان کا بیان "
       }
     },
-
     {
       "id": 13,
       "chapNo": 3,
       "name": {
         "arabic": "باب شــروط الصلاة ",
-        "english": " ",
+        "english": "Chapter of the Conditions of Prayer",
         "urdu": " شرائط نماز کا بیان"
       }
     },
-
     {
       "id": 14,
       "chapNo": 4,
       "name": {
         "arabic": "باب ســترة المصــلي ",
-        "english": " ",
+        "english": "Chapter of the Sutra (Screen) for the Praying Person",
         "urdu": "نمازی کے سترے کا بیان "
       }
     },
-
     {
       "id": 15,
       "chapNo": 5,
       "name": {
         "arabic": "باب الحث على الخشوع في الصلاة ",
-        "english": " ",
+        "english": "Chapter of Encouraging Humility in Prayer",
         "urdu": "نماز میں خشوع و خضوع کی ترغیب کا بیان "
       }
     },
-
     {
       "id": 16,
       "chapNo": 6,
       "name": {
         "arabic": " باب المساجد",
-        "english": " ",
+        "english": "Chapter of the Mosques",
         "urdu": "مساجد کا بیان "
       }
     },
-
     {
       "id": 17,
       "chapNo": 7,
       "name": {
         "arabic": "باب صفة الصلاة ",
-        "english": " ",
+        "english": "Chapter of the Description of Prayer",
         "urdu": " نماز کی صفت کا بیان"
       }
     },
-
     {
       "id": 18,
       "chapNo": 8,
       "name": {
         "arabic": "باب سجود السهو وغيره ",
-        "english": " ",
+        "english": "Chapter of Prostration of Forgetfulness",
         "urdu": " سجود سہو وغیرہ کا بیان"
       }
     },
-
     {
       "id": 19,
       "chapNo": 9,
       "name": {
         "arabic": "باب صلاة التطوع ",
-        "english": " ",
+        "english": "Chapter of Voluntary (Nawafil) Prayer",
         "urdu": "نفل نماز کا بیان "
       }
     },
-
     {
       "id": 20,
       "chapNo": 10,
       "name": {
         "arabic": "باب صلاة الجماعة والإمامة ",
-        "english": " ",
+        "english": "Chapter of Congregational Prayer and Leadership (Imamah)",
         "urdu": "نماز باجماعت اور امامت کے مسائل کا بیان "
       }
     },
-
     {
       "id": 21,
       "chapNo": 11,
       "name": {
         "arabic": "باب صلاة المسافر والمريض ",
-        "english": " ",
+        "english": "Chapter of Prayer of the Traveler and the Sick",
         "urdu": " مسافر اور مریض کی نماز کا بیان"
       }
     },
-
     {
       "id": 22,
       "chapNo": 12,
       "name": {
         "arabic": " باب صلاة الجمعة",
-        "english": " ",
+        "english": "Chapter of Friday Prayer (Jumu'ah)",
         "urdu": " نماز جمعہ کا بیان"
       }
     },
-
     {
       "id": 23,
       "chapNo": 13,
       "name": {
         "arabic": "باب صلاة الخوف ",
-        "english": " ",
+        "english": "Chapter of the Fear Prayer",
         "urdu": "نماز خوف کا بیان "
       }
     },
-
     {
       "id": 24,
       "chapNo": 14,
       "name": {
         "arabic": "باب صلاة العيدين ",
-        "english": " ",
+        "english": "Chapter of the Two Eid Prayers",
         "urdu": "نماز عیدین کا بیان "
       }
     },
-
     {
       "id": 25,
       "chapNo": 15,
       "name": {
         "arabic": " باب صلاة الكسوف",
-        "english": " ",
+        "english": "Chapter of the Eclipse Prayer",
         "urdu": "نماز کسوف کا بیان "
       }
     },
-
     {
       "id": 26,
       "chapNo": 16,
       "name": {
         "arabic": "باب صلاة الاستسقاء ",
-        "english": " ",
+        "english": "Chapter of the Prayer for Rain (Istisqa)",
         "urdu": "نماز استسقاء کا بیان "
       }
     },
-
     {
       "id": 27,
       "chapNo": 17,
       "name": {
         "arabic": "باب اللباس ",
-        "english": " ",
+        "english": "Chapter of Clothing",
         "urdu": " لباس کا بیان"
       }
     }

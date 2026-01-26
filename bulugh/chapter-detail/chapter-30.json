@@ -2,12 +2,20 @@
   "chapId": 30,
   "bookId": 4,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "صدقہ فطر ہر مسلمان مرد، عورت، بچے، بوڑھے اور غلام پر ایک صاع کھجور یا جو کی صورت میں واجب ہے۔",
+      "عہدِ نبوی میں فطرانہ غلے، کھجور، جو، کشمش یا پنیر سے ایک صاع کی مقدار میں دیا جاتا تھا۔",
+      "صدقہ فطر روزے کی کوتاہیوں کی پاکی اور مساکین کی خوراک کے لیے ہے، جسے نمازِ عید سے پہلے ادا کرنا لازمی ہے۔"
+    ],
+    "english": [
+      "Zakat-ul-Fitr is obligatory on every Muslim—free or slave, male or female—amounting to one Sa' of dates or barley.",
+      "During the Prophet's (ﷺ) time, it was distributed as one Sa' of various staples like grain, dates, raisins, or cheese.",
+      "The purpose of Fitrana is to purify fasts from idle talk and feed the needy; it must be paid before the Eid prayer."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب صدقہ فطر کے وجوب، اس کی مقررہ مقدار، ادائیگی کے وقت اور روزوں کی تطہیر میں اس کی اہمیت کو بیان کرتا ہے۔",
+    "english": "This chapter explains the obligation of Zakat-ul-Fitr, its specific measurements, the deadline for payment, and its role in purifying fasts."
   },
   "hadithRange": {
     "from": 505,

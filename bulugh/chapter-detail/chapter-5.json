@@ -2,12 +2,32 @@
   "chapId": 5,
   "bookId": 1,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "موزوں پر مسح اسی وقت جائز ہے جب انہیں حالتِ طہارت میں پہنا گیا ہو۔",
+      "موزوں کے اوپر اور نیچے مسح کرنے والی روایت ضعیف ہے، اس پر عمل لازم نہیں۔",
+      "دین قیاس پر نہیں بلکہ نبی ﷺ کی سنت پر قائم ہے، اسی لیے موزوں کے اوپر مسح کیا جاتا ہے۔",
+      "سفر میں موزوں پر مسح کی مدت تین دن اور تین راتیں ہے، سوائے جنابت کے۔",
+      "مقیم کے لیے موزوں پر مسح کی مدت ایک دن اور ایک رات مقرر ہے۔",
+      "پگڑی اور موزوں دونوں پر مسح کرنا نبی ﷺ سے ثابت ہے۔",
+      "جنابت کے علاوہ موزوں اتارنا لازم نہیں، مسح کے ساتھ نماز جائز ہے۔",
+      "مسافر اور مقیم کے لیے مسح کی مدت میں شریعت نے آسانی اور رخصت دی ہے۔",
+      "موزوں پر غیر محدود مدت تک مسح والی روایت قوی نہیں اور اس پر اعتماد نہیں کیا جاتا۔"
+    ],
+    "english": [
+      "Wiping over leather socks is only permissible if they were worn in a state of purification.",
+      "The narration mentioning wiping the top and bottom of the socks is weak and not binding.",
+      "Religion is based on prophetic practice, not personal reasoning; hence wiping is done on the upper surface.",
+      "During travel, wiping over leather socks is allowed for three days and nights, except in the case of Janābah.",
+      "For a resident, the time limit for wiping over leather socks is one day and one night.",
+      "Wiping over turbans and leather socks is authentically established from the Prophet ﷺ.",
+      "Except for major impurity, removing the socks is not required, and prayer is valid with wiping.",
+      "Islam grants ease and concession in the duration of wiping for both travelers and residents.",
+      "The narration allowing unlimited wiping duration is weak and cannot be relied upon."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب موزوں اور پگڑی پر مسح کے جواز، شرائط، مدت، مسافر و مقیم کے احکام اور ضعیف روایات کی وضاحت کرتا ہے۔",
+    "english": "This chapter explains the permissibility, conditions, time limits, traveler and resident rulings, and weak narrations related to wiping over leather socks and turbans."
   },
   "hadithRange": {
     "from": 53,

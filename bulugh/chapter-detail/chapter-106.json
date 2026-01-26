@@ -2,12 +2,30 @@
   "chapId": 106,
   "bookId": 16,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "سچائی نیکی اور جنت کا راستہ دکھاتی ہے، جبکہ جھوٹ گناہ اور جہنم کی طرف لے جاتا ہے؛ مسلسل سچ بولنے والا اللہ کے ہاں 'صدیق' لکھ دیا جاتا ہے۔",
+      "حسنِ اخلاق اور تقویٰ وہ اعمال ہیں جو سب سے زیادہ لوگوں کو جنت میں داخل کریں گے؛ میزانِ عمل میں حسنِ اخلاق سے زیادہ وزنی کوئی چیز نہیں۔",
+      "حیاء ایمان کا لازمی حصہ ہے؛ جب انسان میں شرم و حیاء ختم ہو جائے تو وہ ہر قسم کے برے فعل کا ارتکاب کر سکتا ہے۔",
+      "راستوں کے حقوق میں نظریں نیچی رکھنا، تکلیف دہ چیزوں کو ہٹانا، سلام کا جواب دینا اور نیکی کی تلقین کرنا شامل ہے۔",
+      "قوی مومن اللہ کو زیادہ محبوب ہے، تاہم ہر مومن میں بھلائی موجود ہے؛ مصیبت کے وقت 'اگر ایسا ہوتا' کہنے کے بجائے تقدیرِ الٰہی پر راضی رہنا چاہیے۔",
+      "دین کا خلاصہ 'نصیحت' (خیر خواہی) ہے، جو اللہ، اس کی کتاب، اس کے رسول، حکمرانوں اور عام مسلمانوں کے لیے ہونی چاہیے۔",
+      "عاجزی اور انکساری کا حکم دیا گیا ہے تاکہ کوئی دوسرے پر ظلم نہ کرے اور نہ ہی فخر و غرور کا مظاہرہ کرے۔",
+      "وہ مومن جو لوگوں میں رہتا ہے اور ان کی طرف سے ملنے والی تکلیفوں پر صبر کرتا ہے، اس شخص سے بہتر ہے جو تنہائی اختیار کر لے۔"
+    ],
+    "english": [
+      "Truthfulness leads to righteousness and Paradise, while lying leads to wickedness and Hell; a person who consistently speaks the truth is recorded as 'Siddiq' (truthful) before Allah.",
+      "Good character and Taqwa (piety) are the primary causes for entry into Paradise; nothing weighs heavier in the Scales of deeds than excellent character.",
+      "Modesty (Haya) is an integral branch of faith; without it, a person loses the moral compass that restrains them from any shameful act.",
+      "The rights of the road include lowering the gaze, refraining from causing annoyance, returning greetings, and enjoining good while forbidding evil.",
+      "A strong believer is more beloved to Allah than a weak one, though there is good in both; in times of trial, one should rely on Allah's decree rather than saying 'if only'.",
+      "The essence of religion is 'Nasihah' (sincerity/well-wishing) towards Allah, His Book, His Messenger, the leaders, and the common Muslims.",
+      "Humility is divinely commanded to prevent oppression and boastful pride among individuals in society.",
+      "The believer who socializes with people and patiently endures their harassment is superior to the one who isolates himself to avoid social challenges."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب اعلیٰ اخلاق کی ترغیب دیتا ہے جیسے سچائی، حیاء، عاجزی، خیر خواہی اور لوگوں کی اذیت پر صبر، جو ایک مسلمان کی شخصیت کو خوبصورت بناتے ہیں۔",
+    "english": "This chapter encourages noble virtues such as truthfulness, modesty, humility, sincerity, and patience with people's faults, all of which beautify a Muslim's character."
   },
   "hadithRange": {
     "from": 1314,

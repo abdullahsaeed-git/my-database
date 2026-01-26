@@ -2,12 +2,46 @@
   "chapId": 24,
   "bookId": 2,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "عید الفطر اور عید الاضحیٰ کے ایام کا تعین عوامی سطح پر روزہ چھوڑنے اور قربانی کرنے سے ہوتا ہے۔",
+      "اگر چاند کی گواہی تاخیر سے ملے تو روزہ افطار کر کے اگلے دن عید کی نماز ادا کرنی چاہیے۔",
+      "عید الفطر کی نماز کے لیے نکلنے سے پہلے طاق عدد میں کھجوریں کھانا سنتِ نبوی ہے۔",
+      "عید الفطر میں کھا کر نکلنا چاہیے جبکہ عید الاضحیٰ میں نماز کے بعد قربانی کا گوشت کھانا مسنون ہے۔",
+      "عیدین کے موقع پر عورتوں اور پردہ نشینوں کو بھی دعا اور خیر میں شرکت کے لیے عیدگاہ لے جانا چاہیے۔",
+      "عید کی نماز خطبے سے پہلے ادا کی جاتی ہے، جیسا کہ خلفائے راشدین کا بھی معمول تھا۔",
+      "عید کی نماز صرف دو رکعت ہے، جس سے پہلے یا بعد میں کوئی نفل نماز ثابت نہیں ہے۔",
+      "عیدین کی نماز کے لیے نہ اذان کہی جاتی ہے اور نہ ہی اقامت کی پکار ہوتی ہے۔",
+      "عید گاہ سے واپسی پر گھر آ کر دو رکعت نفل ادا کرنا رسول اللہ ﷺ کا معمول تھا۔",
+      "عید کی نماز عیدگاہ (کھلے میدان) میں ادا کرنی چاہیے اور نماز کے بعد لوگوں کو وعظ و نصیحت کرنی چاہیے۔",
+      "عید کی پہلی رکعت میں سات اور دوسری میں پانچ اضافی تکبیریں کہنا مسنون طریقہ ہے۔",
+      "عیدین کی نماز میں سورہ ق اور سورہ قمر جیسی سورتوں کی تلاوت کرنا سنت سے ثابت ہے۔",
+      "عیدگاہ جانے اور واپس آنے کے لیے راستہ تبدیل کرنا مستحب ہے تاکہ شعائرِ اسلام کا اظہار ہو۔",
+      "اسلام نے زمانہ جاہلیت کے تہواروں کو عید الفطر اور عید الاضحیٰ جیسے بابرکت دنوں سے بدل دیا ہے۔",
+      "عید کی نماز کے لیے عیدگاہ کی طرف پیدل چل کر جانا مسنون اور افضل عمل ہے۔",
+      "بارش یا کسی شدید عذر کی صورت میں عید کی نماز مسجد میں ادا کرنا جائز ہے۔"
+    ],
+    "english": [
+      "The dates of Eid-ul-Fitr and Eid-ul-Adha are established by the community's collective fasting and sacrifice.",
+      "If moon sighting is confirmed late, the fast must be broken and Eid prayer held the following morning.",
+      "It is sunnah to eat an odd number of dates before heading out for the Eid-ul-Fitr prayer.",
+      "Eating is recommended before Eid-ul-Fitr prayer, while for Eid-ul-Adha, eating is delayed until after prayer.",
+      "Women and even those menstruating are encouraged to attend the Eid gathering for the sake of communal blessings.",
+      "The prophetic practice was to perform the Eid prayer first, followed by the delivery of the sermon.",
+      "Eid prayer consists of exactly two units, with no voluntary prayers immediately preceding or following it.",
+      "No Adhan or Iqamah is pronounced for the Eid prayers, distinguishing them from daily congregational prayers.",
+      "Returning home after the communal Eid prayer and offering two voluntary units was a practice of the Prophet (ﷺ).",
+      "Eid prayers should ideally be held in an open area (Musalla) followed by a sermon facing the people.",
+      "The prayer includes seven extra Takbirs in the first unit and five in the second unit before recitation.",
+      "Reciting Surah Qaf and Surah Al-Qamar during Eid prayers is an established Prophetic Sunnah.",
+      "Taking different routes to and from the place of Eid prayer is recommended to manifest Islamic presence.",
+      "Islam replaced pre-Islamic festivals with the superior celebrations of Eid-ul-Fitr and Eid-ul-Adha.",
+      "Walking to the Eid prayer place with humility is part of the Sunnah for those who are able.",
+      "Performing the Eid prayer inside a mosque is permissible if necessitated by rain or other valid excuses."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب عیدین کی نماز کے طریقے، تکبیرات، خطبہ، عیدگاہ جانے کے آداب اور ان ایام کے شرعی احکامات کی وضاحت کرتا ہے۔",
+    "english": "This chapter details the method of Eid prayers, the number of Takbirs, the sermon, etiquette for the prayer ground, and specific rulings for these festive days."
   },
   "hadithRange": {
     "from": 385,

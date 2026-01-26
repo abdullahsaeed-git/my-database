@@ -2,12 +2,30 @@
   "chapId": 84,
   "bookId": 10,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "زنا کی شرعی سزا مجرم کی ازدواجی حیثیت پر منحصر ہے: کنوارے کے لیے سو کوڑے اور ایک سال کی جلاوطنی، جبکہ شادی شدہ (محصن) کے لیے رجم (سنگسار) کی سزا ہے۔",
+      "زنا کے ثبوت کے لیے یا تو چار عادل گواہ ضروری ہیں یا مجرم کا چار مرتبہ واضح اعترافِ جرم۔",
+      "اگر کسی سے نادانی میں گناہ سرزد ہو جائے تو اسے چاہیے کہ اللہ کے ڈالے ہوئے پردے میں رہے اور توبہ کرے؛ گناہ کا عوامی چرچا کرنے پر حد نافذ ہوگی۔",
+      "اسلامی اصولِ انصاف کے مطابق شک کی صورت میں یا جہاں تک ممکن ہو، حدود (سخت سزاؤں) کو ٹالنے کی کوشش کرنی چاہیے۔",
+      "غیر فطری جنسی افعال (قومِ لوط کا فعل) اور جانوروں کے ساتھ بدفعلی کی سزا قتل مقرر کی گئی ہے۔",
+      "گناہ سے توبہ کرنے والے کی قدر کرنی چاہیے؛ جیسا کہ نبی ﷺ نے اس خاتون کے بارے میں فرمایا جس نے رجم کی سزا خوشی سے قبول کی کہ اس کی توبہ پورے شہر کے لیے کافی ہے۔",
+      "زنا کے بدلے مال (بکریاں یا لونڈی) بطور فدیہ دینا جائز نہیں؛ ایسا مال واپس کیا جائے گا اور شرعی حد برقرار رہے گی۔",
+      "مردوں کا عورتوں جیسا روپ دھارنا اور عورتوں کا مردانہ مشابہت اختیار کرنا اللہ کی لعنت اور معاشرتی بائیکاٹ کا باعث ہے۔"
+    ],
+    "english": [
+      "The legal penalty for adultery/fornication (Zina) depends on marital status: 100 lashes and one year of exile for the unmarried, and stoning to death (Rajm) for the married (Muhsan).",
+      "Legal conviction for Zina requires either the testimony of four upright witnesses or a clear self-confession repeated four times by the accused.",
+      "If a person commits a sin privately, they are encouraged to keep it concealed under Allah's veil and repent sincerely; once a case is brought to the authorities, the penalty must be executed.",
+      "A fundamental principle in Islamic law is to avert prescribed penalties (Hudud) as much as possible in the presence of doubts or legal technicalities.",
+      "Terminal penalties (execution) are prescribed for unnatural sexual acts (homosexuality) and bestiality to preserve the moral fabric of society.",
+      "The sincerity of a repentant sinner is highly valued; the Prophet (ﷺ) noted that the repentance of a woman who accepted Rajm was so immense it could suffice for seventy people.",
+      "Financial ransoms or bribes (sheep, slaves, etc.) cannot replace corporal or capital punishments; such items must be returned and the Law of Allah upheld.",
+      "Gender imitation, where men act like women or women act like men, is strictly forbidden, incurring divine curse and expulsion from the home."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب زنا کی مختلف سزاؤں، ثبوت کے طریقوں (گواہی و اعتراف)، توبہ کی اہمیت، اور غیر فطری جنسی جرائم کے شرعی احکامات پر مشتمل ہے۔",
+    "english": "This chapter details the prescribed penalties for Zina, the methods of legal proof (witnesses and confession), the value of repentance, and rulings on unnatural sexual offenses."
   },
   "hadithRange": {
     "from": 1034,

@@ -2,12 +2,30 @@
   "chapId": 66,
   "bookId": 8,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "ازدواجی تعلقات میں غیر فطری راستہ (دبر) اختیار کرنا حرام اور باعثِ لعنت ہے؛ اللہ تعالیٰ ایسے شخص کی طرف نظرِ رحمت نہیں فرماتا۔",
+      "عورتوں کے ساتھ نرمی اور حسنِ سلوک کی وصیت کی گئی ہے، کیونکہ ان کی فطرت میں پسلی کی طرح ایک خاص نزاکت اور ٹیڑھا پن ہے جسے زبردستی سیدھا کرنا (یعنی سختی کرنا) علیحدگی کا سبب بن سکتا ہے۔",
+      "خاوند کو چاہیے کہ طویل سفر سے واپسی پر اچانک رات کے وقت گھر نہ پہنچے، بلکہ گھر والوں کو اطلاع دے تاکہ وہ تیاری کر سکیں۔",
+      "میاں بیوی کے پوشیدہ رازوں کو دوسروں کے سامنے ظاہر کرنا اللہ کے نزدیک قیامت کے دن بدترین درجے کا گناہ ہے۔",
+      "بیوی کے حقوق میں اسے کھانا کھلانا، لباس فراہم کرنا، اس کی عزت نفس کا خیال رکھنا (چہرے پر نہ مارنا اور گالی نہ دینا) اور ناراضگی کی صورت میں اسے گھر سے باہر نہ نکالنا شامل ہے۔",
+      "ہمبستری سے پہلے اللہ کا نام لینا اور مسنون دعا پڑھنا اولاد کو شیطانی اثرات سے محفوظ رکھنے کا ذریعہ ہے۔",
+      "مصنوعی بال لگانا (وِگ وغیرہ) اور جسم پر ٹیٹو بنوانا شرعاً ممنوع اور باعثِ لعنت کام ہیں۔",
+      "عزل (مانع حمل کا قدیم طریقہ) کی اجازت ہے، لیکن یہ یاد رکھنا ضروری ہے کہ اگر اللہ کسی جان کو پیدا کرنا چاہے تو انسانی تدبیر اسے روک نہیں سکتی۔"
+    ],
+    "english": [
+      "Anal sex is strictly prohibited in marriage and brings about divine curse; Allah will not look with mercy upon those who practice it.",
+      "Kindness and patience are mandated in treating wives, acknowledging their delicate nature (likened to a curved rib); attempting to force a change in their personality can lead to the breaking of the marriage.",
+      "Husbands returning from long journeys should avoid arriving home unexpectedly at night, allowing their wives time to groom and prepare for their arrival.",
+      "Revealing intimate marital secrets is classified as one of the worst sins in the sight of Allah on the Day of Resurrection.",
+      "A wife's fundamental rights include provision of food and clothing, protection from physical abuse (specifically the face), avoidance of verbal insults, and ensuring that any social boycott stays within the home.",
+      "Reciting the prescribed supplication before intimacy acts as a spiritual protection for potential offspring against the influence of the devil.",
+      "Cosmetic alterations such as adding artificial hair extensions or getting tattoos are strictly forbidden and carry a divine curse.",
+      "Practicing 'Azl (coitus interruptus) for birth control is permissible, though it is emphasized that no human action can prevent a creation if Allah has decreed it."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب ازدواجی زندگی کے آداب، حقوقِ زوجین، ممنوعہ جنسی افعال، اور خاندانی رازوں کی حفاظت کے احکامات پر مشتمل ہے۔",
+    "english": "This chapter details the etiquette of marital intimacy, the rights of spouses, prohibited sexual acts, and the sanctity of protecting family secrets."
   },
   "hadithRange": {
     "from": 867,

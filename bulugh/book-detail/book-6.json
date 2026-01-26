@@ -1,73 +1,68 @@
 {
-    "bookId": 6,
-    "summary": {
-        "english": [], 
-        "urdu": []
-    },
-    "description": {
-        "urdu": " ",
-        "english" : " "
-    }, 
-    "hadithRange": {
-"from": 579,
-"to": 647
-    },
-    "chapters": [
-        {
-            "id": 36,
-            "chapNo": 1,
-            "name": {
-                "arabic": "باب فضله وبيان من فرض عليه ",
-                "english": " ",
-                "urdu": " حج کی فضیلت و فرضیت کا بیان"
-            }
-        },
-        {
-            "id": 37,
-            "chapNo": 2,
-            "name": {
-                "arabic": "باب لمواقيت ",
-                "english": " ",
-                "urdu": " (احرام کے) میقات کا بیان"
-            }
-        },
-        {
-            "id": 38,
-            "chapNo": 3,
-            "name": {
-                "arabic": "باب وجوه الإحرام وصفته ",
-                "english": " ",
-                "urdu": " احرام کی اقسام اور صفت کا بیان"
-            }
-        },
-        {
-            "id": 39,
-            "chapNo": 4,
-            "name": {
-                "arabic": "باب الإحرام وما يتعلق به ",
-                "english": " ",
-                "urdu": " احرام اور اس کے متعلقہ امور کا بیان"
-            }
-        },
-        {
-            "id": 40,
-            "chapNo": 5,
-            "name": {
-                "arabic": " باب صفة الحج ودخول مكة",
-                "english": " ",
-                "urdu": "حج کا طریقہ اور دخول مکہ کا بیان "
-            }
-        },
-
-        {
-            "id": 41,
-            "chapNo": 6,
-            "name": {
-                "arabic": " باب الفوات والإحصار",
-                "english": " ",
-                "urdu": "حج سے محروم رہ جانے اور روکے جانے کا بیان "
-            }
-        }
-        
+  "bookId": 6,
+  "summary": {
+    "english": [
+      "This book, Kitab al-Hajj, details the rulings of the Pilgrimage to Makkah, the fifth pillar of Islam.",
+      "It covers everything from the virtues of Hajj to the technical rulings of Ihram, Miqat, and the performance of rituals."
+    ],
+    "urdu": [
+      "یہ 'کتاب الحج' (حج کا بیان) ہے، جس میں اسلام کے پانچویں رکن یعنی حج کے احکام و مسائل بیان کیے گئے ہیں۔",
+      "اس میں حج کی فضیلت سے لے کر احرام، میقات اور مناسکِ حج کی ادائیگی کے تمام فنی احکام شامل ہیں۔"
     ]
+  },
+  "description": {
+    "urdu": "کتاب الحج میں حج اور عمرہ کی فرضیت، میقات کے تعین، احرام کے ممنوعات، طواف، سعی اور عرفات میں قیام جیسے اہم مسائل کو احادیث کی روشنی میں واضح کیا گیا ہے۔",
+    "english": "Kitab al-Hajj explains the obligation of Hajj and Umrah, the designated stations (Miqat), the prohibitions of Ihram, and the step-by-step procedure of performing Hajj rituals based on prophetic traditions."
+  },
+  "hadithRange": {
+    "from": 579,
+    "to": 647
+  },
+  "chapters": [
+    {
+      "id": 36,
+      "chapNo": 1,
+      "name": {
+        "arabic": "باب فضله وبيان من فرض عليه ",
+        "english": "Chapter of the Virtue of Hajj and on whom it is Obligatory",
+        "urdu": " حج کی فضیلت و فرضیت کا بیان"
+      }
+    },
+    {
+      "id": 37,
+      "chapNo": 2,
+      "name": {
+        "arabic": "باب لمواقيت ",
+        "english": "Chapter of the Appointed Places (Miqat)",
+        "urdu": " (احرام کے) میقات کا بیان"
+      }
+    },
+    {
+      "id": 38,
+      "chapNo": 3,
+      "name": {
+        "arabic": "باب وجوه الإحرام وصفته ",
+        "english": "Chapter of the Types of Ihram and its Description",
+        "urdu": " احرام کی اقسام اور صفت کا بیان"
+      }
+    },
+    {
+      "id": 40,
+      "chapNo": 5,
+      "name": {
+        "arabic": " باب صفة الحج ودخول مكة",
+        "english": "Chapter of the Description of Hajj and Entering Makkah",
+        "urdu": "حج کا طریقہ اور دخول مکہ کا بیان "
+      }
+    },
+    {
+      "id": 41,
+      "chapNo": 6,
+      "name": {
+        "arabic": " باب الفوات والإحصار",
+        "english": "Chapter of Missing the Hajj and being Prevented",
+        "urdu": "حج سے محروم رہ جانے اور روکے جانے کا بیان "
+      }
+    }
+  ]
 }

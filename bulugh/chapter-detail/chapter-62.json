@@ -2,12 +2,26 @@
   "chapId": 62,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "مسلمان کے لیے ضروری ہے کہ اگر وہ کسی چیز کی وصیت کرنا چاہتا ہو تو اسے تاخیر کیے بغیر لکھ کر اپنے پاس محفوظ رکھے۔",
+      "وصیت صرف کل مال کے ایک تہائی (1/3) حصے تک کی جا سکتی ہے، اس سے زائد کی اجازت نہیں تاکہ ورثاء کے حقوق متاثر نہ ہوں۔",
+      "اپنے ورثاء کو خوش حال اور غنی چھوڑ کر جانا اس سے بہتر ہے کہ انہیں محتاج چھوڑا جائے کہ وہ لوگوں کے سامنے ہاتھ پھیلائیں۔",
+      "وراثت کے حقدار رشتہ داروں (وارثین) کے لیے الگ سے وصیت کرنا جائز نہیں کیونکہ اللہ نے ان کا حصہ قرآن میں خود مقرر کر دیا ہے، الا یہ کہ تمام ورثاء اس پر راضی ہوں۔",
+      "اگر کوئی شخص وصیت کیے بغیر اچانک فوت ہو جائے تو اس کی اولاد یا عزیز اس کی طرف سے صدقہ کر سکتے ہیں، جس کا ثواب میت کو پہنچتا ہے۔",
+      "تہائی مال کی وصیت کی اجازت اللہ کی طرف سے ایک رعایت ہے تاکہ انسان مرتے وقت اپنی نیکیوں کے ذخیرے میں اضافہ کر سکے۔"
+    ],
+    "english": [
+      "It is a duty for a Muslim to have their will (Wasayah) written and ready if they have property or matters they wish to bequeath, rather than leaving it to chance.",
+      "A bequest to non-heirs is legally restricted to a maximum of one-third (1/3) of the total estate to ensure the primary heirs are not unjustly deprived.",
+      "Leaving one's heirs financially secure is superior to leaving them in poverty and dependency on others' charity.",
+      "Making a specific will for a legal heir is prohibited since Allah has already designated their fixed shares in the Qur'an, unless the other heirs unanimously agree to it.",
+      "If a person dies suddenly without a will, it is permissible and rewardable for their loved ones to give charity on their behalf, as the deceased benefits from it.",
+      "The allowance to bequeath up to one-third of one's wealth is a divine concession intended to allow a person to increase their good deeds before departing from this world."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب وصیت کی اہمیت، اس کی شرعی حدود (تہائی مال کی حد)، وارث کے لیے وصیت کی ممانعت اور میت کی طرف سے صدقہ کرنے کے احکامات بیان کرتا ہے۔",
+    "english": "This chapter details the importance of making a will, its legal limit (one-third of the estate), the prohibition of bequests to legal heirs, and the validity of giving charity on behalf of the deceased."
   },
   "hadithRange": {
     "from": 818,

@@ -2,12 +2,32 @@
   "chapId": 26,
   "bookId": 2,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "نبی ﷺ بارش کی دعا کے لیے نہایت عاجزی، سادہ لباس اور تضرع کے ساتھ عیدگاہ تشریف لے گئے۔",
+      "قحط سالی کے وقت منبر پر بیٹھ کر اللہ کی حمد و ثناء اور استغفار کے بعد دعا کرنا مسنون ہے۔",
+      "دورانِ خطبہ یا کسی بھی وقت اموال اور راستوں کی حفاظت کے لیے بارش کی دعا مانگنا جائز ہے۔",
+      "شدید خشک سالی میں اللہ کے مقرب اور نیک بندوں کے وسیلے سے دعا کرنا سلف کا طریقہ رہا ہے۔",
+      "بارش کی بوندوں کو اللہ کی طرف سے براہِ راست تحفہ سمجھ کر اپنے بدن پر لینا برکت کا باعث ہے۔",
+      "بارش کو دیکھتے ہی اسے نافع اور فائدہ مند بنانے کی دعا کرنا سنتِ نبوی ہے۔",
+      "دعا میں بادلوں کی کثرت اور موسلا دھار بارش کے لیے جامع کلمات استعمال کرنا مستحب ہے۔",
+      "اللہ تعالیٰ بعض اوقات اپنی چھوٹی مخلوق (جیسے چیونٹی) کی پکار پر بھی پوری بستی کو سیراب کر دیتا ہے۔",
+      "نمازِ استسقاء میں ہاتھ اٹھاتے وقت ہتھیلیوں کا رخ زمین کی طرف اور پشت آسمان کی طرف کرنا ثابت ہے۔"
+    ],
+    "english": [
+      "The Prophet (ﷺ) proceeded for the rain prayer in a state of extreme humility, simplicity, and earnestness.",
+      "During drought, it is sunnah to ascend the pulpit, praise Allah, and seek forgiveness before supplicating for rain.",
+      "Supplicating for rain during a sermon or any time to protect livestock and trade routes is permissible.",
+      "In times of severe drought, asking righteous people to lead the supplication for rain is a recognized practice.",
+      "Exposing part of the body to the first drops of rain is recommended as it is a fresh mercy from Allah.",
+      "Reciting specific supplications to make the rainfall beneficial and productive is a confirmed Sunnah.",
+      "Using comprehensive terms to ask for heavy, widespread, and thunderous clouds is encouraged in Istisqa.",
+      "Allah may grant rain to an entire community based on the sincere supplication of His smallest creatures.",
+      "During the prayer for rain, it is a specific practice to point the backs of the hands toward the sky."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب خشک سالی کے وقت بارش طلب کرنے کی نماز (استسقاء)، دعا کے مسنون طریقے اور بارانِ رحمت کے وقت کے آداب بیان کرتا ہے۔",
+    "english": "This chapter details the prayer for rain (Istisqa), the prophetic method of supplication during drought, and the etiquette when receiving rain."
   },
   "hadithRange": {
     "from": 406,

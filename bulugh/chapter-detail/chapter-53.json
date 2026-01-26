@@ -2,12 +2,24 @@
   "chapId": 53,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "کسی کی زمین پر ناحق قبضہ کرنے والے کے لیے قیامت کے دن سخت وعید ہے کہ اسے ساتوں زمینوں کا طوق پہنایا جائے گا۔",
+      "غصب یا نقصان کے بدلے تلافی کا اصول یہ ہے کہ کھانے کے بدلے کھانا اور برتن کے بدلے ویسا ہی برتن دیا جائے۔",
+      "دوسرے کی زمین پر اس کی اجازت کے بغیر کاشتکاری کرنے والے کا فصل میں کوئی حق نہیں، اسے صرف اس کے اخراجات واپس ملیں گے۔",
+      "ظلم کی بنیاد پر لگائے گئے درخت یا کی گئی تعمیرات کا کوئی شرعی حق نہیں؛ زمین کے اصل مالک کو حق حاصل ہے کہ وہ انہیں ہٹوا دے۔",
+      "مسلمانوں کی جان، مال اور عزت و آبرو کی حرمت مکہ مکرمہ اور ذوالحجہ کے مہینے کی طرح مقدس اور پامالی سے محفوظ ہے۔"
+    ],
+    "english": [
+      "Unjustly seizing even a hand-span of land is a major sin; the offender will be forced to wear it as a collar from seven earths on Judgment Day.",
+      "The principle of restitution for damaged property is 'like-for-like': food for food and a vessel for a vessel.",
+      "Cultivating someone else's land without permission grants the sower no right to the harvest, only a reimbursement of their initial expenses.",
+      "Unjust roots or unauthorized improvements on another's property carry no legal weight; the rightful owner can demand their removal.",
+      "A Muslim's blood, property, and honor are sacred and inviolable, mirroring the sanctity of the holy city of Makkah and the sacred month of Dhul-Hijjah."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب غصب (کسی کی چیز زبردستی چھیننے)، زمین کے ناجائز قبضے کی سزا، اور دوسروں کے مال و اسباب کو پہنچنے والے نقصان کی تلافی کے احکامات بیان کرتا ہے۔",
+    "english": "This chapter details the rulings on usurpation (Ghasb), the penalties for illegal land seizure, and the legal framework for compensating property damage."
   },
   "hadithRange": {
     "from": 755,

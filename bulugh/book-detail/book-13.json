@@ -1,26 +1,32 @@
 {
-    "bookId": 13,
-    "summary": {
-        "english": [], 
-        "urdu": []
-    },
-    "description": {
-        "urdu": " ",
-        "english" : " "
-    }, 
-    "hadithRange": {
-"from": 1171,
-"to": 1187
-    },
-    "chapters": [
-        {
-            "id": 96,
-            "chapNo": 1,
-            "name": {
-                "arabic": "(أحاديث في الأيمان والنذور) ",
-                "english": " ",
-                "urdu": "(قسموں اور نذروں کے متعلق احادیث) "
-            }
-        }
+  "bookId": 13,
+  "summary": {
+    "english": [
+      "Kitab al-Ayman wan-Nudhur focuses on the legal and spiritual implications of taking oaths and making vows in Islam.",
+      "It explains the conditions for a valid oath, the consequences of breaking one, and the fulfillment of religious vows."
+    ],
+    "urdu": [
+      "کتاب الایمان والنذور میں اسلام میں قسمیں کھانے اور نذریں ماننے کے قانونی اور روحانی پہلوؤں پر توجہ دی گئی ہے۔",
+      "اس میں صحیح قسم کی شرائط، قسم توڑنے کے نتائج اور مذہبی نذروں کو پورا کرنے کے احکام بیان کیے گئے ہیں۔"
     ]
+  },
+  "description": {
+    "urdu": "کتاب الایمان والنذور میں اللہ کے نام کی قسم کھانے، لغو قسموں، قسم کے کفارے اور اللہ کے لیے مانی جانے والی نذروں کو پورا کرنے سے متعلق احادیث کو جمع کیا گیا ہے۔",
+    "english": "Kitab al-Ayman wan-Nudhur details Hadiths regarding swearing by the name of Allah, unintended oaths, expiation (Kaffarah) for broken oaths, and the obligation of fulfilling vows made to Allah."
+  },
+  "hadithRange": {
+    "from": 1171,
+    "to": 1187
+  },
+  "chapters": [
+    {
+      "id": 96,
+      "chapNo": 1,
+      "name": {
+        "arabic": "(أحاديث في الأيمان والنذور) ",
+        "english": "Hadiths Regarding Oaths and Vows",
+        "urdu": "(قسموں اور نذروں کے متعلق احادیث) "
+      }
+    }
+  ]
 }

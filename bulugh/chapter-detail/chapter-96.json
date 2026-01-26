@@ -2,12 +2,30 @@
   "chapId": 96,
   "bookId": 13,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "اللہ کے سوا کسی اور کی قسم کھانا (جیسے آباؤ اجداد یا بتوں کی) شرعاً ممنوع ہے؛ قسم صرف اللہ کے نام کی ہونی چاہیے۔",
+      "قسم کا اعتبار قسم لینے والے کی نیت پر ہوتا ہے، اور جھوٹی قسم (یمینِ غموس) کے ذریعے کسی کا حق مارنا کبیرہ گناہ ہے۔",
+      "اگر کوئی کسی جائز کام کی قسم کھائے اور بعد میں اس کے خلاف کرنا بہتر سمجھے، تو اسے چاہیے کہ وہ بہتر کام کرے اور اپنی قسم کا کفارہ ادا کرے۔",
+      "قسم کھاتے وقت 'ان شاء اللہ' کہنے سے قسم کی حتمیت ختم ہو جاتی ہے اور اس کے ٹوٹنے پر کوئی کفارہ لازم نہیں آتا۔",
+      "نذر (منت) ماننے سے بچنا چاہیے کیونکہ یہ کسی خیر کو کھینچ کر نہیں لاتی، بلکہ بخیل سے مال نکلوانے کا ذریعہ بنتی ہے۔",
+      "ایسی نذر جس میں اللہ کی نافرمانی، گناہ، یا قطع رحمی (رشتہ توڑنا) شامل ہو، اسے پورا کرنا جائز نہیں، بلکہ اس پر قسم کا کفارہ دینا ہوگا۔",
+      "کسی وفات یافتہ رشتہ دار کی چھوڑی ہوئی جائز نذر کو اس کے ورثاء کی طرف سے پورا کیا جا سکتا ہے۔",
+      "عبادت کے لیے مخصوص سفر صرف تین مساجد (مسجدِ حرام، مسجدِ نبوی، اور مسجدِ اقصیٰ) کی طرف جائز ہے۔"
+    ],
+    "english": [
+      "Swearing by anyone other than Allah (such as ancestors or idols) is strictly forbidden; oaths must only be taken in the name of Allah.",
+      "An oath is judged according to the intention of the one requesting it, and taking a false oath (al-Yamin al-Ghamus) to usurp someone's rights is a major sin.",
+      "If one takes a permissible oath but later finds a better course of action, they should perform the better deed and pay the expiation (Kaffarah) for the oath.",
+      "Appending 'Insha'Allah' (If Allah wills) to an oath removes the liability of expiation if the oath is not fulfilled.",
+      "Taking vows (Nadhr) is generally discouraged as it does not change destiny but merely extracts effort or wealth from the reluctant.",
+      "Vows involving disobedience to Allah, sin, or severing kinship ties must not be fulfilled; instead, the individual must pay the expiation prescribed for a broken oath.",
+      "Valid vows left unfulfilled by a deceased person can be completed by their heirs on their behalf.",
+      "Religious journeys specifically for the sake of worship are only sanctioned to three mosques: Al-Masjid al-Haram, Al-Masjid an-Nabawi, and Al-Masjid al-Aqsa."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب قسموں کی شرعی حیثیت، جھوٹی اور لغو قسموں کے احکام، نذر (منت) ماننے کی کراہت اور اس کے پورا کرنے یا کفارہ دینے کے ضوابط بیان کرتا ہے۔",
+    "english": "This chapter details the legal status of oaths, the rulings on false and unintentional swearing, the discouragement of taking vows (Nadhr), and the regulations for their fulfillment or expiation."
   },
   "hadithRange": {
     "from": 1171,

@@ -2,12 +2,30 @@
   "chapId": 47,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "اگر کوئی شخص دیوالیہ (Insolvent) ہو جائے اور اس کے پاس کسی دوسرے کا مال بعینہ موجود ہو، تو اصل مالک اس مال کا سب سے زیادہ حقدار ہے۔",
+      "قرض ادا کرنے کی استطاعت رکھنے کے باوجود ٹال مٹول کرنا ظلم ہے، جو مقروض کی آبرو اور سزا کو جائز کر دیتا ہے۔",
+      "اگر کسی کا مال آفت کی وجہ سے تباہ ہو جائے، تو اس کے قرض خواہوں کو وہی کچھ لینا چاہیے جو اس کے پاس بچا ہو، اس سے زیادہ کا مطالبہ درست نہیں۔",
+      "حاکمِ وقت قرض کی ادائیگی کے لیے مقروض کے مال پر پابندی لگا سکتا ہے اور اسے فروخت کر کے قرض چکا سکتا ہے۔",
+      "شرعی طور پر بلوغت کی علامت پندرہ سال کی عمر یا جسمانی علامات (زیرِ ناف بال اگنا) قرار دی گئی ہیں۔",
+      "نابالغ بچے کو جنگی مہمات یا بڑے مالی تصرفات کی اجازت نہیں دی جائے گی جب تک وہ بلوغت کو نہ پہنچ جائے۔",
+      "عورت کے مالی تصرفات اور عطیات کے معاملے میں شوہر کی مشاورت اور اجازت کو ازدواجی نظم کا حصہ قرار دیا گیا ہے۔",
+      "لوگوں سے مانگنا (سوال کرنا) صرف تین مخصوص ہنگامی صورتوں میں جائز ہے، اس کے علاوہ یہ ناپسندیدہ اور ممنوع ہے۔"
+    ],
+    "english": [
+      "If a debtor becomes insolvent, any creditor who finds their specific property still in the debtor's possession has the primary right to reclaim it.",
+      "Procrastination in debt repayment by a capable person is an injustice that justifies legal action and public censure.",
+      "When a person's wealth is destroyed by calamity, creditors must settle for whatever assets remain without further harassment.",
+      "The legal authority has the right to place a debtor's property under restraint and sell it to fulfill outstanding financial obligations.",
+      "Puberty, the age of legal and religious responsibility, is identified by reaching fifteen years of age or specific physical developments.",
+      "Minors are restricted from participating in military combat or major legal contracts until they reach the age of maturity.",
+      "In the context of maintaining marital harmony, a woman is encouraged to consult or seek permission from her husband for significant gifts or financial management.",
+      "Begging is strictly limited to three dire situations: settling a blood-money guarantee, recovery from a total loss of property, or confirmed extreme poverty."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب دیوالیہ پن کے احکامات، ادائیگیِ قرض میں سستی کی سزا، بلوغت کی علامات اور مالی تصرفات پر قانونی پابندیوں (حجر) کی وضاحت کرتا ہے۔",
+    "english": "This chapter details the rulings on insolvency, penalties for delaying debt repayment, signs of puberty, and legal restraints (Hajr) on financial dealings."
   },
   "hadithRange": {
     "from": 727,

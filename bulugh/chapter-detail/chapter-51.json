@@ -2,12 +2,16 @@
   "chapId": 51,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "حق بات کی گواہی دینا اور سچائی کا اعتراف کرنا ہر حال میں لازم ہے، چاہے وہ کتنا ہی ناگوار یا تلخ کیوں نہ ہو۔"
+    ],
+    "english": [
+      "It is mandatory to uphold the truth and confess to rights or responsibilities, regardless of how difficult or bitter the consequences may be."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب حق بات کہنے کی اہمیت اور سچائی کے اعتراف کے اخلاقی پہلو پر روشنی ڈالتا ہے۔",
+    "english": "This chapter highlights the ethical importance of speaking the truth and the virtue of legal and moral confession."
   },
   "hadithRange": {
     "from": 750,

@@ -2,12 +2,44 @@
   "chapId": 8,
   "bookId": 1,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "غسل تب واجب ہوتا ہے جب منی کا خروج ہو (پانی سے مراد غسل اور دوسرے پانی سے مراد منی ہے)۔",
+      "جسمانی تعلق قائم ہونے پر غسل واجب ہو جاتا ہے، خواہ انزال نہ بھی ہو۔",
+      "اگر عورت کو احتلام ہو جائے اور وہ تری محسوس کرے تو اس پر غسل فرض ہے۔",
+      "عورتوں کو بھی مردوں کی طرح احتلام ہو سکتا ہے، جس کی علامت اولاد میں مشابہت ہے۔",
+      "رسول اللہ ﷺ جنابت، جمعہ، سینگی لگوانے اور میت کو غسل دینے کے بعد غسل فرماتے تھے۔",
+      "نو مسلم کے لیے اسلام قبول کرنے کے بعد غسل کرنا ضروری ہے۔",
+      "جمعہ کے دن غسل کرنا ہر بالغ مسلمان پر ضروری (واجب) ہے۔",
+      "جمعہ کے لیے غسل کرنا افضل ہے، تاہم صرف وضو کر لینا بھی جائز ہے۔",
+      "دوبارہ مباشرت سے پہلے وضو کرنا تازگی اور نشاط کا باعث بنتا ہے۔",
+      "اگر کوئی دوبارہ تعلق قائم کرنا چاہے تو درمیان میں وضو کرنا مسنون ہے۔",
+      "غسلِ جنابت کا مسنون طریقہ: پہلے ہاتھ دھونا، پھر شرمگاہ صاف کرنا، پھر وضو اور آخر میں پورے جسم پر پانی بہانا ہے۔",
+      "عورت کے لیے غسلِ جنابت میں مینڈھیاں کھولنا ضروری نہیں، صرف سر پر تین چلو پانی کافی ہے۔",
+      "حالتِ جنابت یا حیض میں مسجد کے اندر ٹھہرنا شرعاً ممنوع ہے۔",
+      "میاں بیوی کا ایک ہی برتن سے پانی لے کر غسل کرنا جائز ہے۔",
+      "جسم کے ہر حصے اور ہر بال کی جڑ تک پانی پہنچانا ضروری ہے تاکہ طہارت مکمل ہو سکے۔"
+    ],
+    "english": [
+      "Ghusl is required upon the actual discharge of semen (water for water).",
+      "Sexual intercourse necessitates Ghusl even if ejaculation does not occur.",
+      "A woman must perform Ghusl if she experiences a wet dream and finds moisture.",
+      "Biological resemblance in children confirms that women also experience nocturnal discharge.",
+      "The Prophet (ﷺ) bathed for major impurity, Fridays, after cupping, and after washing the dead.",
+      "New converts to Islam are commanded to perform a ritual bath upon embracing the faith.",
+      "Taking a bath on Friday is an obligatory act for every mature individual.",
+      "While Wudu is sufficient for Jumu'ah, performing Ghusl is highly superior and virtuous.",
+      "Performing Wudu between repeated acts of intercourse provides physical revitalization.",
+      "Ritual ablution is recommended for those wishing to repeat marital intimacy.",
+      "The Sunnah of Ghusl involves washing hands, the private area, performing Wudu, and then the whole body.",
+      "Women do not need to undo braided hair for Ghusl; pouring water over the head suffices.",
+      "Individuals in a state of major ritual impurity or menstruation are restricted from the mosque.",
+      "It is permissible for a husband and wife to perform Ghusl from the same water vessel.",
+      "Water must reach the roots of every hair and every part of the skin for a valid Ghusl."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب غسل کے واجب ہونے کے اسباب، غسلِ جنابت کے مسنون طریقے اور طہارت کے مختلف احکامات پر مشتمل ہے۔",
+    "english": "This chapter details the triggers for obligatory ritual baths, the Sunnah method of Ghusl, and specific rulings for major ritual impurity."
   },
   "hadithRange": {
     "from": 94,

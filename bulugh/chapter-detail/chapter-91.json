@@ -2,12 +2,26 @@
   "chapId": 91,
   "bookId": 11,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "اسلام میں دفاعی مقاصد کے لیے گھڑ سواری، اونٹوں کی دوڑ اور تیر اندازی کے مقابلوں کی حوصلہ افزائی کی گئی ہے۔",
+      "نبی ﷺ نے خود گھوڑوں کے درمیان دوڑ کا مقابلہ منعقد کرایا اور تربیت یافتہ گھوڑوں کے لیے زیادہ فاصلہ (تقریباً 6 میل) اور غیر تربیت یافتہ کے لیے کم فاصلہ (1 میل) مقرر فرمایا۔",
+      "مقابلوں میں انعام (Price) دینا صرف ان کھیلوں میں جائز ہے جن کا تعلق جنگی مہارت سے ہو، جیسے اونٹ کی دوڑ، گھڑ دوڑ اور تیر اندازی۔",
+      "تیر اندازی کو اسلام میں بہترین 'قوت' قرار دیا گیا ہے، جیسا کہ آپ ﷺ نے قرآنی آیت کی تفسیر میں تین بار اس کی تاکید فرمائی۔",
+      "مقابلوں میں شریک گھوڑوں کی عمر اور جسمانی حالت کے فرق کو ملحوظ رکھنا عدل کا تقاضا ہے۔",
+      "انعامی مقابلوں میں اگر جوے (Gambling) کی صورت پیدا ہو جائے تو وہ حرام ہے، تاہم تیسرے فریق (محلل) کی شمولیت سے بعض مخصوص صورتوں میں گنجائش نکلتی ہے۔"
+    ],
+    "english": [
+      "Islam encourages competitions in horse racing, camel racing, and archery for defensive and military preparedness.",
+      "The Prophet (ﷺ) organized horse races, setting longer distances (about 6 miles) for trained horses and shorter distances (1 mile) for untrained ones.",
+      "Awarding prizes is legally permissible only in sports that enhance combat skills, specifically camel racing, horse racing, and archery.",
+      "Archery is identified as the pinnacle of 'power' mentioned in the Quran, emphasized three times by the Prophet (ﷺ) during his sermon.",
+      "In racing competitions, fairness is maintained by accounting for the age and training levels of the animals involved.",
+      "Competitions involving prizes must avoid the elements of gambling (Qimar) to remain lawful within Sharia parameters."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب جنگی مہارتوں (گھڑ سواری، تیر اندازی) کے فروغ، ان کے مسابقتی آداب اور انعامی مقابلوں کی شرعی حدود بیان کرتا ہے۔",
+    "english": "This chapter details the promotion of military skills (horsemanship, archery), the etiquette of competitions, and the legal limits for prizes in such sports."
   },
   "hadithRange": {
     "from": 1130,

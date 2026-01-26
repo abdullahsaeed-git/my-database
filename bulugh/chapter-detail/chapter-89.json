@@ -2,12 +2,32 @@
   "chapId": 89,
   "bookId": 11,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "جہاد فی سبیل اللہ کی نیت رکھنا ہر مسلمان کے لیے ضروری ہے؛ اس سے محروم مرنا نفاق کی علامت ہے۔",
+      "جہاد صرف تلوار سے نہیں بلکہ مال، جان اور زبان (تحریر و تقریر) کے ذریعے بھی کیا جاتا ہے۔",
+      "والدین کی خدمت کو نفل جہاد پر فوقیت حاصل ہے؛ والدین کی زندگی میں ان کی اجازت کے بغیر جہاد پر نکلنا درست نہیں۔",
+      "میدانِ جنگ کے اخلاقی ضوابط میں عہد کی پاسداری، قاصدوں کی حفاظت، اور بچوں و عورتوں کو قتل کرنے کی ممانعت شامل ہے۔",
+      "دشمن سے مقابلے کے وقت تین اختیارات دیے جاتے ہیں: قبولِ اسلام، جزیہ کی ادائیگی، یا پھر اللہ کی مدد سے قتال۔",
+      "مالِ غنیمت کی تقسیم کا اصول یہ ہے کہ خمس (پانچواں حصہ) نکالنے کے بعد باقی مجاہدین میں تقسیم ہو؛ گھڑ سوار کو دو اور پیدل کو ایک حصہ دیا جائے گا۔",
+      "غنیمت میں خیانت کرنا حرام اور دنیا و آخرت میں رسوائی کا باعث ہے۔",
+      "مسلمانوں میں سے کوئی بھی (ادنیٰ یا اعلیٰ) اگر دشمن کو پناہ (امان) دے دے تو پوری ریاست پر اس کی پاسداری لازم ہے۔",
+      "فتحِ مکہ کے بعد دارالاسلام سے ہجرت ختم ہو چکی ہے، البتہ جہاد اور نیک نیت کا سلسلہ ہمیشہ جاری رہے گا۔"
+    ],
+    "english": [
+      "Maintaining the intention for Jihad is essential for every Muslim; dying without ever having fought or intended to do so is a trait of hypocrisy.",
+      "Jihad is not limited to the sword; it includes struggling with one's wealth, soul, and tongue (speech and writing).",
+      "Serving one's parents takes precedence over voluntary Jihad; it is mandatory to seek their permission before embarking on an expedition.",
+      "Islamic rules of engagement include honoring treaties, protecting envoys/diplomats, and a strict prohibition against killing women and children.",
+      "Enemies are offered three choices before combat: embracing Islam, paying the Jizya (protection tax), or facing war with reliance on Allah.",
+      "The distribution of spoils (Ghanimah) follows the rule of extracting one-fifth (Khums) first; the remainder is divided, giving two shares to a horseman and one to a foot soldier.",
+      "Embezzlement or stealing from the spoils of war (Ghulul) is strictly forbidden and brings disgrace in both worlds.",
+      "Protection (Aman) granted by any Muslim, regardless of their social status, is binding upon the entire Muslim community and state.",
+      "Mandatory migration (Hijrah) from Makkah ended after its conquest, but the obligation of Jihad and the rewards for sincere intentions remain until the end of time."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب جہاد کی فضیلت، والدین کی اجازت کی اہمیت، میدانِ جنگ کے آداب، مالِ غنیمت کی تقسیم اور پناہ دینے کے اسلامی قوانین کو بیان کرتا ہے۔",
+    "english": "This chapter details the virtues of Jihad, the priority of parental permission, ethics of warfare, distribution of spoils, and the legalities of granting protection to enemies."
   },
   "hadithRange": {
     "from": 1080,

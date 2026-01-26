@@ -2,12 +2,26 @@
   "chapId": 87,
   "bookId": 10,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "شراب نوشی کی شرعی سزا (حد) میں وقت کے ساتھ صحابہ کے مشورے سے اضافہ ہوا؛ نبی ﷺ اور ابوبکرؓ کے دور میں تقریباً 40 کوڑے تھے، جبکہ عمرؓ نے اسے 80 کوڑے مقرر کیا۔",
+      "شراب (خمر) کی تعریف ہر وہ چیز ہے جو انسانی عقل کو ڈھانپ لے یا نشہ پیدا کرے، چاہے وہ انگور، کھجور، شہد یا غلے سے تیار کی گئی ہو۔",
+      "اسلامی اصول کے مطابق جس چیز کی زیادہ مقدار نشہ آور ہو، اس کی تھوڑی سی مقدار پینا بھی قطعی حرام ہے۔",
+      "شراب میں کوئی مادی یا روحانی شفاء نہیں ہے؛ اللہ تعالیٰ نے حرام کردہ چیزوں میں انسانوں کے لیے علاج نہیں رکھا، بلکہ یہ بذاتِ خود ایک بیماری ہے۔",
+      "سزا دیتے وقت انسانی تکریم کا خیال رکھنا ضروری ہے؛ چہرے پر مارنا اور مسجد کے اندر حد نافذ کرنا شرعاً منع ہے۔",
+      "پھلوں کا شربت (نبید) جب تک تازہ ہو پینا جائز ہے، لیکن اگر اس میں جوش آ جائے یا تین دن سے زیادہ پرانا ہو کر نشہ پیدا کرنے لگے، تو اسے ضائع کر دینا واجب ہے۔"
+    ],
+    "english": [
+      "The legal penalty for drinking wine evolved through Sahaba's consultation; it was approximately 40 lashes during the time of the Prophet (ﷺ) and Abu Bakr (RA), and later increased to 80 lashes by Umar (RA).",
+      "Wine (Khamr) is legally defined as any substance that befogs the mind or causes intoxication, regardless of whether it is derived from grapes, dates, honey, or grains.",
+      "A fundamental Islamic legal maxim states that if a large quantity of a substance causes intoxication, then even a small amount of it is strictly forbidden.",
+      "There is no medicinal value or cure in wine; Allah has not placed healing in what He has forbidden, and the Prophet (ﷺ) described it as a disease rather than a remedy.",
+      "When executing corporal punishment, human dignity must be preserved; striking the face is prohibited, and penalties should not be carried out within mosques.",
+      "Fruit infusions (Nabidh) are permissible while fresh, but must be discarded once they begin to ferment (usually after three days) and become intoxicants."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب شراب نوشی کی شرعی سزا، شراب کی جامع تعریف، نشہ آور اشیاء کی ممانعت اور دوا کے طور پر ان کے استعمال کے بطلان کو بیان کرتا ہے۔",
+    "english": "This chapter details the prescribed legal penalty for wine consumption, the definition of intoxicants, the prohibition of all intoxicating substances, and the invalidity of using them for medicinal purposes."
   },
   "hadithRange": {
     "from": 1064,

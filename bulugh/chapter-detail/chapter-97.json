@@ -2,12 +2,30 @@
   "chapId": 97,
   "bookId": 14,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "منصبِ قضا (جج بننا) ایک سنگین ذمہ داری ہے؛ حق کے مطابق فیصلہ کرنے والا جنتی ہے، جبکہ دانستہ ناانصافی کرنے والا یا جہالت کی بنیاد پر فیصلہ دینے والا جہنمی ہے۔",
+      "عدل کے لیے ضروری ہے کہ قاضی فریقین کی بات کو برابر توجہ سے سنے؛ ایک فریق کو سن کر دوسرے کے غائبانہ میں فیصلہ کرنا منع ہے۔",
+      "غصے کی حالت میں فیصلہ کرنے سے روکا گیا ہے کیونکہ جذبات عقل و انصاف پر اثر انداز ہو سکتے ہیں۔",
+      "اگر حاکم پوری علمی جدوجہد (اجتہاد) کے بعد صحیح نتیجے پر پہنچے تو اسے دوہرا اجر ملے گا، اور اگر نیک نیتی کے باوجود خطا ہو جائے تو بھی ایک اجر کا مستحق ہوگا۔",
+      "حاکم یا قاضی کے لیے رشوت لینا اور دینا دونوں ملعون افعال ہیں جو عدالتی نظام کو تباہ کر دیتے ہیں۔",
+      "عوامی منصب پر فائز شخص کو عوام کی ضروریات کے لیے ہمہ وقت دستیاب ہونا چاہیے؛ لوگوں سے کٹ کر رہنے والے حاکم سے اللہ بھی اپنی رحمتیں روک لیتا ہے۔",
+      "کسی بھی معاشرے کی پاکیزگی اس بات میں ہے کہ وہ طاقتور سے کمزور کا حق چھین کر اسے واپس دلائے۔",
+      "عدالتی کارروائی کے دوران دونوں فریقین کا قاضی کے سامنے ایک ساتھ بیٹھنا ضروری ہے تاکہ برابری اور شفافیت برقرار رہے۔"
+    ],
+    "english": [
+      "Judicial authority is a grave responsibility; a judge who identifies the truth and rules accordingly is destined for Paradise, while those who rule unjustly or out of ignorance face the Fire.",
+      "Impartiality is paramount; a judge must not pass a verdict after hearing only one side but must listen to the arguments of both parties involved.",
+      "Delivering a judgment while in a state of anger is strictly forbidden to prevent emotional bias from clouding rational justice.",
+      "A judge who exerts full intellectual effort (Ijtihad) and reaches a correct decision earns a double reward, while one who strives but errs still receives a single reward for their effort.",
+      "Bribery is a cursed act in the legal system; both the giver and the taker of bribes in judicial matters incur divine wrath.",
+      "Public officials must remain accessible to the needs of the poor and the general public; secluded leadership is condemned by Allah.",
+      "The purity and success of a nation depend on its ability to uphold the rights of the weak against the transgressions of the strong.",
+      "In a court of law, both disputing parties must sit together before the judge to ensure equality and transparency in the proceedings."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب عدالتی آداب، قاضی کی ذمہ داریوں، اجتہاد کے اجر، رشوت کی ممانعت اور مظلوم کی داد رسی کے اسلامی اصولوں کو بیان کرتا ہے۔",
+    "english": "This chapter details the ethics of the judiciary, the responsibilities of a judge, rewards for legal exertion (Ijtihad), the prohibition of bribery, and the Islamic principles of upholding justice for the oppressed."
   },
   "hadithRange": {
     "from": 1188,

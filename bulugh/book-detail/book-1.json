@@ -1,117 +1,113 @@
 {
-    "bookId": 1,
-    "summary": {
-        "english": [], 
-        "urdu": []
-    },
-    "description": {
-        "urdu": " ",
-        "english" : " "
-    }, 
-    "hadithRange": {
-"from": 1,
-"to": 128
-    },
-    "chapters": [
-        
-        {
-            "id": 1,
-            "chapNo": 1,
-            "name": {
-                "arabic": "باب المياه",
-                "english": " ",
-                "urdu": " پانی کی اقسام"
-            }
-        },
-
-        {
-            "id": 2,
-            "chapNo": 2,
-            "name": {
-                "arabic": "باب الآنية",
-                "english": " ",
-                "urdu": "برتنوں کا بیان"
-            }
-        },
-
-        {
-            "id": 3,
-            "chapNo": 3,
-            "name": {
-                "arabic": "باب إزالة النجاسة وبيانها",
-                "english": " ",
-                "urdu": "نجاست کی تفصیل اور اسے دور کرنے کا بیان"
-            }
-        },
-
-        {
-            "id": 4,
-            "chapNo": 4,
-            "name": {
-                "arabic": "باب الوضوء",
-                "english": " ",
-                "urdu": "وضو کا بیان"
-            }
-        },
-
-        {
-            "id": 5,
-            "chapNo": 5,
-            "name": {
-                "arabic": "باب المسح على الخفين",
-                "english": " ",
-                "urdu": "موزوں پر مسح کرنے کا بیان"
-            }
-        },
-
-        {
-            "id": 6,
-            "chapNo": 6,
-            "name": {
-                "arabic": "باب نواقض الوضوء",
-                "english": " ",
-                "urdu": "وضو توڑنے والی چیزوں کا بیان"
-            }
-        },
-
-        {
-            "id": 7,
-            "chapNo": 7,
-            "name": {
-                "arabic": "باب قضاء الحاجة",
-                "english": " ",
-                "urdu": "قضائے حاجت کے آداب کا بیان"
-            }
-        },
-
-        {
-            "id": 8,
-            "chapNo": 8,
-            "name": {
-                "arabic": "باب الغسل وحكم الجنب",
-                "english": " ",
-                "urdu": "غسل اور جنبی کے حکم کا بیان"
-            }
-        },
-
-        {
-            "id": 9,
-            "chapNo": 9,
-            "name": {
-                "arabic": "باب التيمم",
-                "english": " ",
-                "urdu": "تیمم کا بیان"
-            }
-        },
-
-        {
-            "id": 10,
-            "chapNo": 10,
-            "name": {
-                "arabic": "باب الحيض",
-                "english": " ",
-                "urdu": "حیض (سے متعلق احکام) کا بیان"
-            }
-        }
+  "bookId": 1,
+  "summary": {
+    "english": [
+      "This is the first book of Bulugh al-Maram, known as Kitab al-Taharah (The Book of Purification).",
+      "It contains fundamental hadiths regarding physical and spiritual cleanliness in Islam."
+    ],
+    "urdu": [
+      "یہ بلوغ المرام کی پہلی کتاب 'کتاب الطہارت' (پاکیزگی کا بیان) ہے۔",
+      "اس میں اسلام میں جسمانی اور روحانی پاکیزگی سے متعلق بنیادی احادیث شامل ہیں۔"
     ]
+  },
+  "description": {
+    "urdu": "کتاب الطہارت میں پانی کے احکام، وضو، غسل، تیمم اور طہارت کے دیگر اہم مسائل کو مستند احادیث کی روشنی میں بیان کیا گیا ہے۔",
+    "english": "Kitab al-Taharah covers the rulings of water, ablution (wudu), bathing (ghusl), dry ablution (tayammum), and other essential matters of purification based on authentic Hadiths."
+  },
+  "hadithRange": {
+    "from": 1,
+    "to": 128
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "chapNo": 1,
+      "name": {
+        "arabic": "باب المياه",
+        "english": "Chapter of Water",
+        "urdu": " پانی کی اقسام"
+      }
+    },
+    {
+      "id": 2,
+      "chapNo": 2,
+      "name": {
+        "arabic": "باب الآنية",
+        "english": "Chapter of Utensils",
+        "urdu": "برتنوں کا بیان"
+      }
+    },
+    {
+      "id": 3,
+      "chapNo": 3,
+      "name": {
+        "arabic": "باب إزالة النجاسة وبيانها",
+        "english": "Chapter of Removing Impurities",
+        "urdu": "نجاست کی تفصیل اور اسے دور کرنے کا بیان"
+      }
+    },
+    {
+      "id": 4,
+      "chapNo": 4,
+      "name": {
+        "arabic": "باب الوضوء",
+        "english": "Chapter of Ablution (Wudu)",
+        "urdu": "وضو کا بیان"
+      }
+    },
+    {
+      "id": 5,
+      "chapNo": 5,
+      "name": {
+        "arabic": "باب المسح على الخفين",
+        "english": "Chapter of Wiping over Leather Socks",
+        "urdu": "موزوں پر مسح کرنے کا بیان"
+      }
+    },
+    {
+      "id": 6,
+      "chapNo": 6,
+      "name": {
+        "arabic": "باب نواقض الوضوء",
+        "english": "Chapter of Nullifiers of Wudu",
+        "urdu": "وضو توڑنے والی چیزوں کا بیان"
+      }
+    },
+    {
+      "id": 7,
+      "chapNo": 7,
+      "name": {
+        "arabic": "باب قضاء الحاجة",
+        "english": "Chapter of Relieving Oneself",
+        "urdu": "قضائے حاجت کے آداب کا بیان"
+      }
+    },
+    {
+      "id": 8,
+      "chapNo": 8,
+      "name": {
+        "arabic": "باب الغسل وحكم الجنب",
+        "english": "Chapter of Ghusl and Rulings for Major Impurity",
+        "urdu": "غسل اور جنبی کے حکم کا بیان"
+      }
+    },
+    {
+      "id": 9,
+      "chapNo": 9,
+      "name": {
+        "arabic": "باب التيمم",
+        "english": "Chapter of Dry Ablution (Tayammum)",
+        "urdu": "تیمم کا بیان"
+      }
+    },
+    {
+      "id": 10,
+      "chapNo": 10,
+      "name": {
+        "arabic": "باب الحيض",
+        "english": "Chapter of Menstruation",
+        "urdu": "حیض (سے متعلق احکام) کا بیان"
+      }
+    }
+  ]
 }

@@ -2,12 +2,18 @@
   "chapId": 72,
   "bookId": 8,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "طلاق کے بعد رجوع (دوبارہ رشتہ جوڑنے) کے عمل کی قانونی اور شرعی توثیق کے لیے گواہ مقرر کرنا مستحب اور بہتر ہے تاکہ مستقبل میں کسی قسم کا اختلاف یا شک پیدا نہ ہو۔",
+      "رجعی طلاق (پہلی یا دوسری طلاق) کی صورت میں شوہر کو یہ حق حاصل ہے کہ وہ عدت کے دوران اپنی بیوی سے رجوع کر لے، جیسا کہ نبی ﷺ نے ابن عمر رضی اللہ عنہ کو حکم دیا تھا۔"
+    ],
+    "english": [
+      "It is highly recommended and legally prudent to appoint witnesses during both the pronouncement of divorce and the act of reconciliation (Raja'at) to prevent future disputes or doubts.",
+      "In the case of a revocable divorce (first or second), the husband retains the right to reconcile with his wife during the waiting period (Iddah), as established by the Prophet's (ﷺ) command to Ibn 'Umar."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب طلاق کے بعد رجوع کرنے کے شرعی طریقے، گواہوں کی اہمیت اور عدت کے اندر رشتہ بحال کرنے کے احکامات کو بیان کرتا ہے۔",
+    "english": "This chapter outlines the legal procedure for reconciliation (Raja'at) after a revocable divorce, the importance of witnesses, and the restoration of the marital bond within the waiting period."
   },
   "hadithRange": {
     "from": 928,

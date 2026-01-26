@@ -1,69 +1,68 @@
 {
-    "bookId": 9,
-    "summary": {
-        "english": [], 
-        "urdu": []
-    },
-    "description": {
-        "urdu": " ",
-        "english" : " "
-    }, 
-    "hadithRange": {
-"from": 993,
-"to": 1033
-    },
-    "chapters": [
-        {
-            "id": 79,
-            "chapNo": 1,
-            "name": {
-                "arabic": "(أحاديث في الجنايات) ",
-                "english": " ",
-                "urdu": "(جنایات کے متعلق احادیث) "
-            }
-        },
-
-        
-        {
-            "id": 80,
-            "chapNo": 2,
-            "name": {
-                "arabic": " باب الديات",
-                "english": " ",
-                "urdu": "اقسام دیت کا بیان "
-            }
-        },
-
-        {
-            "id": 81,
-            "chapNo": 3,
-            "name": {
-                "arabic": " باب دعوى الدم والقسامة",
-                "english": " ",
-                "urdu": " دعویٰ خون اور قسامت"
-            }
-        },
-
-        {
-            "id": 82,
-            "chapNo": 4,
-            "name": {
-                "arabic": " باب قتال أهل البغي",
-                "english": " ",
-                "urdu": "باغی لوگوں سے جنگ و قتال کرنا "
-            }
-        },
-
-        {
-            "id": 83,
-            "chapNo": 5,
-            "name": {
-                "arabic": " باب قتال الجاني وقتل المرتد",
-                "english": " ",
-                "urdu": "مجرم (بدنی نقصان پہنچانے والے) سے لڑنے اور مرتد کو قتل کرنے کا بیان "
-            }
-        }
-
-
+  "bookId": 9,
+  "summary": {
+    "english": [
+      "Kitab al-Jinayat deals with Islamic criminal law, specifically offenses against the person such as homicide and physical injury.",
+      "It outlines the legal consequences, including the laws of retaliation (Qisas) and blood money (Diyat)."
+    ],
+    "urdu": [
+      "کتاب الجنایات کا تعلق اسلامی فوجداری قانون سے ہے، خاص طور پر انسانی جان اور جسم کے خلاف جرائم جیسے قتل اور جسمانی اذیت۔",
+      "اس میں ان جرائم کے قانونی نتائج، بشمول قصاص اور دیت کے قوانین کی وضاحت کی گئی ہے۔"
     ]
+  },
+  "description": {
+    "urdu": "کتاب الجنایات میں انسانی جان کی حرمت، قتل کی مختلف اقسام، قصاص کے احکام، دیت کی مقدار، اور باغیوں و مرتدین سے متعلق شرعی قوانین کو احادیث کی روشنی میں بیان کیا گیا ہے۔",
+    "english": "Kitab al-Jinayat covers the sanctity of human life, types of homicide, the rulings of retaliation (Qisas), blood money (Diyat), and legal actions against rebels and apostates based on Prophetic traditions."
+  },
+  "hadithRange": {
+    "from": 993,
+    "to": 1033
+  },
+  "chapters": [
+    {
+      "id": 79,
+      "chapNo": 1,
+      "name": {
+        "arabic": "(أحاديث في الجنايات) ",
+        "english": "Hadiths Regarding Offenses and Crimes",
+        "urdu": "(جنایات کے متعلق احادیث) "
+      }
+    },
+    {
+      "id": 80,
+      "chapNo": 2,
+      "name": {
+        "arabic": " باب الديات",
+        "english": "Chapter of Blood Money (Diyat)",
+        "urdu": "اقسام دیت کا بیان "
+      }
+    },
+    {
+      "id": 81,
+      "chapNo": 3,
+      "name": {
+        "arabic": " باب دعوى الدم والقسامة",
+        "english": "Chapter of Homicide Claims and Oaths (Qasamah)",
+        "urdu": " دعویٰ خون اور قسامت"
+      }
+    },
+    {
+      "id": 82,
+      "chapNo": 4,
+      "name": {
+        "arabic": " باب قتال أهل البغي",
+        "english": "Chapter of Fighting Rebels (Ahl al-Baghy)",
+        "urdu": "باغی لوگوں سے جنگ و قتال کرنا "
+      }
+    },
+    {
+      "id": 83,
+      "chapNo": 5,
+      "name": {
+        "arabic": " باب قتال الجاني وقتل المرتد",
+        "english": "Chapter of Fighting Criminals and Killing the Apostate",
+        "urdu": "مجرم (بدنی نقصان پہنچانے والے) سے لڑنے اور مرتد کو قتل کرنے کا بیان "
+      }
+    }
+  ]
 }

@@ -2,16 +2,30 @@
   "chapId": 104,
   "bookId": 16,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "حلال اور حرام واضح ہیں، لیکن ان کے درمیان مشتبہ (شک والی) چیزیں ہیں؛ ان سے بچنا دین اور عزت کی حفاظت کا ضامن ہے۔",
+      "دل انسانی جسم کا وہ اہم عضو ہے جس کی اصلاح پورے جسم کی اصلاح ہے اور جس کا بگاڑ پورے انسان کا بگاڑ ہے۔",
+      "دنیا میں ایک مسافر یا اجنبی کی طرح زندگی گزارنی چاہیے، اور تندرستی و زندگی کو بیماری و موت سے پہلے غنیمت جاننا چاہیے۔",
+      "حقیقی خوشنودی اللہ کی رضا میں ہے؛ دنیاوی مال و متاع (دینار و درہم) کا غلام بننا ہلاکت اور بربادی کا راستہ ہے۔",
+      "اللہ کی محبت پانے کے لیے دنیا سے بے رغبتی (زہد) اختیار کریں، اور لوگوں کی محبت کے لیے ان کے مال و جاہ سے بے نیاز ہو جائیں۔",
+      "بہترین اسلام یہ ہے کہ انسان بے مقصد اور فضول کاموں کو چھوڑ دے، اور اپنی زبان کو خاموشی کی حکمت سے آراستہ کرے۔",
+      "انسان خطا کا پتلا ہے، لیکن اللہ کے نزدیک بہترین خطاکار وہ ہیں جو کثرت سے توبہ کرنے والے ہیں۔",
+      "اللہ تعالیٰ ان بندوں کو محبوب رکھتا ہے جو تقویٰ اختیار کرتے ہیں، قناعت پسند (دل کے غنی) ہیں اور شہرت سے دور رہ کر اخلاص کے ساتھ نیکی کرتے ہیں۔"
+    ],
+    "english": [
+      "The lawful and unlawful are clear, but between them are doubtful matters; avoiding these is the only way to safeguard one's religion and honor.",
+      "The heart is the pivotal organ of the human soul; its righteousness leads to the wellbeing of the entire body, while its corruption leads to total ruin.",
+      "Live in this world like a stranger or a wayfarer, valuing health before sickness and life before the inevitability of death.",
+      "Wretched is the one who becomes a slave to material wealth (Dinar and Dirham), basing their happiness solely on worldly gain.",
+      "To gain Allah's love, practice detachment (Zuhd) from worldly vanities; to gain people's love, be disinterested in what they possess.",
+      "The perfection of one's faith is reflected in abandoning matters that do not concern them and embracing the wisdom of silence over idle talk.",
+      "Every human is prone to error, but the best among sinners are those who constantly turn back to Allah in sincere repentance.",
+      "Allah loves the servant who is pious, content in heart (truly rich), and humble, performing good deeds away from the limelight and ostentation."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
-  },
-  "hadithRange": {
-    "from": 1266,
-    "to": 1276
+    "urdu": "یہ باب روحانی پاکیزگی، دنیا کی حقیقت، دل کی اصلاح، فضول گوئی سے بچنے اور تقویٰ و توبہ کے ذریعے اللہ کا قرب حاصل کرنے کے طریقے بیان کرتا ہے۔",
+    "english": "This chapter details the paths to spiritual purification, the reality of worldly life, the reformation of the heart, avoiding trivialities, and attaining closeness to Allah through piety and repentance."
   },
   "hadiths": [
     {

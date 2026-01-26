@@ -2,12 +2,26 @@
   "chapId": 56,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "زمین کو بٹائی پر دینا جائز ہے، جیسا کہ نبی ﷺ نے خیبر کی زمین یہودیوں کو اس شرط پر دی کہ وہ محنت کریں گے اور پیداوار کا آدھا حصہ لیں گے۔",
+      "زمین کے کسی مخصوص حصے کی پیداوار کو اپنے لیے خاص کر کے بٹائی پر دینا منع ہے کیونکہ اس میں نقصان کا اندیشہ ہے، البتہ نقد رقم یا معلوم حصے پر ٹھیکہ دینا جائز ہے۔",
+      "مزدور کی مزدوری اس کا پسینہ خشک ہونے سے پہلے ادا کرنا لازمی ہے، اور کام شروع کرنے سے پہلے اجرت طے کرنا ضروری ہے۔",
+      "قرآن مجید کی تعلیم اور دم کرنے پر اجرت لینا جائز ہے اور اسے بہترین اجرت قرار دیا گیا ہے۔",
+      "حجام (سینگی لگانے والے) کی کمائی کو 'خبیث' (کم درجے کی) کہا گیا ہے، مگر اس کا معاوضہ دینا اور لینا حرام نہیں ہے۔",
+      "اللہ تعالیٰ قیامت کے دن اس شخص کا دشمن ہوگا جو مزدور سے کام پورا لے لیکن اس کی مزدوری نہ دے۔"
+    ],
+    "english": [
+      "Crop-sharing (Muzara'ah) is permissible, as the Prophet (ﷺ) allowed the Jews of Khaibar to work the land in exchange for half of the produce.",
+      "Renting land by specifying the produce of a particular spot is forbidden due to uncertainty; however, leasing for a known amount of gold, silver, or a fixed share of the total crop is allowed.",
+      "Wages must be paid to a worker promptly—before their sweat dries—and the amount should be clearly settled before the work begins.",
+      "Taking a reward or fee for teaching the Qur'an or performing Ruqyah is permissible and is described as a highly worthy form of earning.",
+      "The earnings of a cupper (Hajjam) are described as 'evil' (undesirable or low-status), yet the Prophet (ﷺ) paid for such services, indicating it is not prohibited (Haram).",
+      "Allah will be the adversary on the Day of Resurrection to anyone who hires a worker, takes full work from them, and then fails to pay their wages."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب مزارعت (کھیتی باڑی میں شراکت)، زمین کے ٹھیکے، مزدوروں کے حقوق، اور مختلف پیشوں کی اجرت کے شرعی احکامات بیان کرتا ہے۔",
+    "english": "This chapter details the rulings on crop-sharing, land leasing, workers' rights, and the legal status of earnings from various professions."
   },
   "hadithRange": {
     "from": 767,

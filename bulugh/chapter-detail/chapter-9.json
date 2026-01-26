@@ -2,12 +2,32 @@
   "chapId": 9,
   "bookId": 1,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "تمام روئے زمین کو امت محمدیہ کے لیے سجدہ گاہ اور حصولِ طہارت کا ذریعہ بنایا گیا ہے۔",
+      "جنابت کی حالت میں پانی نہ ملے تو مٹی پر ہاتھ مار کر چہرے اور ہاتھوں کا مسح کرنا کافی ہے۔",
+      "تیمم کے طریقے میں ایک ضرب چہرے کے لیے اور دوسری کہنیوں تک ہاتھوں کے لیے ہے (موقوف روایت)۔",
+      "پانی کی عدم دستیابی میں پاک مٹی وضو کا متبادل ہے، خواہ یہ صورتحال دس سال تک رہے۔",
+      "تیمم کر کے نماز پڑھنے کے بعد وقت کے اندر پانی مل جائے تو نماز دہرانا ضروری نہیں، البتہ دہرانے والے کو دہرا اجر ملتا ہے۔",
+      "شدید بیماری یا زخم کی صورت میں اگر غسل سے جان جانے کا اندیشہ ہو تو تیمم کی اجازت ہے۔",
+      "ٹوٹے ہوئے عضو یا زخم پر بندھی پٹیوں (جبائر) پر وضو کے دوران مسح کرنا جائز ہے (ضعیف روایت)۔",
+      "زخمی شخص کے لیے تیمم کرنا اور متاثرہ حصے پر پٹی باندھ کر مسح کرنا اور باقی بدن دھونا کافی ہے (ضعیف روایت)۔",
+      "ایک تیمم سے صرف ایک ہی فرض نماز ادا کرنا سنت ہے (انتہائی ضعیف روایت)۔"
+    ],
+    "english": [
+      "The entire earth has been designated as a place of prostration and a means of purification for this Ummah.",
+      "In the absence of water, striking the hands on earth and wiping the face and hands suffices for major impurity.",
+      "One method of Tayammum involves one strike for the face and another for the arms up to the elbows.",
+      "Clean earth serves as a valid substitute for Wudu as long as water remains unavailable.",
+      "If water is found after praying with Tayammum, repeating the prayer is not mandatory but is rewarded if done.",
+      "Tayammum is permitted for those with wounds or illness who fear that using water may cause death.",
+      "Wiping over bandages or splints is prescribed when a limb is broken or severely injured (weak report).",
+      "A wounded person can combine Tayammum for the injury with washing the healthy parts of the body.",
+      "Performing a fresh Tayammum for every individual obligatory prayer is mentioned as Sunnah in weak reports."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب تیمم کے احکامات، اس کے طریقے، اور پانی نہ ملنے یا بیماری کی صورت میں مٹی سے طہارت حاصل کرنے کی رعایت پر مبنی ہے۔",
+    "english": "This chapter covers the rulings of Tayammum (dry ablution), its procedure, and the concessions for using earth when water is absent or harmful."
   },
   "hadithRange": {
     "from": 109,

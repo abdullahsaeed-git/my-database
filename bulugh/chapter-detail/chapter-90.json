@@ -2,12 +2,28 @@
   "chapId": 90,
   "bookId": 11,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "جزیہ وہ مالی بدلہ ہے جو غیر مسلم شہری (اہلِ کتاب یا مجوسی وغیرہ) اسلامی ریاست کے دفاع اور امان کے عوض ادا کرتے ہیں۔",
+      "نبی ﷺ نے یمن کے بالغ مردوں پر ایک دینار یا اس کے مساوی کپڑا (معافری) سالانہ جزیہ مقرر فرمایا تھا۔",
+      "جزیہ کی ادائیگی غیر مسلم شہریوں کے خون کو مباح ہونے سے بچاتی ہے اور ان کی جان و مال کی حفاظت اسلامی ریاست کی ذمہ داری بن جاتی ہے۔",
+      "معاہد (وہ غیر مسلم جس سے امن کا معاہدہ ہو) کو قتل کرنا سنگین گناہ ہے؛ ایسا قاتل جنت کی خوشبو سے بھی محروم رہے گا۔",
+      "صلحِ حدیبیہ اس بات کی دلیل ہے کہ وسیع تر اسلامی مفاد اور امن کے قیام کے لیے دشمن کے ساتھ کڑی شرائط پر بھی عارضی صلح (مثلاً 10 سال کے لیے) کی جا سکتی ہے۔",
+      "اسلام کا وقار اور غلبہ ہمیشہ قائم رہنا چاہیے؛ مسلمانوں کو غیر مسلموں کے ساتھ معاملات میں اپنے دینی تشخص اور برتری کو برقرار رکھنا چاہیے۔",
+      "راستے میں غیر مسلموں سے سامنا ہونے پر سلام میں پہل نہ کرنا اور وقار کے ساتھ گزرنا اسلامی خودداری کا حصہ ہے۔"
+    ],
+    "english": [
+      "Jizyah is a protection tax paid by non-Muslim subjects (Dhimmis) to the Islamic state in exchange for military protection and internal security.",
+      "The Prophet (ﷺ) established an annual Jizyah of one Dinar or its equivalent in cloth (Ma'afiri) for every adult male in Yemen.",
+      "The payment of Jizyah secures the lives of non-Muslim citizens and mandates the state to protect their property and rights.",
+      "Killing a Mu'ahid (a non-Muslim under a peace treaty) is a major sin; the perpetrator is warned that they will not even smell the fragrance of Paradise.",
+      "The Treaty of Hudaibiyah demonstrates that a temporary truce (e.g., for ten years) can be made with enemies even under seemingly harsh conditions for the sake of long-term Islamic interests and peace.",
+      "Islam is inherently superior and its prestige must be maintained; Muslims should reflect this dignity in their social interactions and state policies.",
+      "In social etiquette, Muslims are advised not to initiate the 'Salam' (greeting of peace) with Jews or Christians and to maintain their stance and dignity when meeting them on the road."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب غیر مسلموں سے جزیہ لینے کے ضوابط، امن کے معاہدات (صلح) کی قانونی حیثیت، اور معاہدین کے حقوق و تحفظ کو بیان کرتا ہے۔",
+    "english": "This chapter details the regulations for collecting Jizyah from non-Muslims, the legality of peace treaties (truce), and the protection and rights of those under such agreements."
   },
   "hadithRange": {
     "from": 1123,

@@ -2,12 +2,30 @@
   "chapId": 68,
   "bookId": 8,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "نکاح کے بعد ولیمہ کرنا سنتِ مؤکدہ ہے، خواہ وہ ایک بکری یا سادہ کھانے (کھجور، ستو وغیرہ) پر ہی کیوں نہ ہو؛ یہ برکت کا ذریعہ ہے۔",
+      "ولیمہ یا کسی بھی بھائی کی دعوتِ طعام کو قبول کرنا مسلمان کا حق اور اخلاقی فریضہ ہے، بشرطیکہ وہاں کوئی خلافِ شرع کام نہ ہو رہا ہو۔",
+      "بدترین ولیمہ وہ ہے جس میں صرف امیروں کو بلایا جائے اور غریبوں کو نظر انداز کر دیا جائے؛ دعوت رد کرنا اللہ اور رسول کی نافرمانی ہے۔",
+      "اگر کوئی روزے سے ہو اور اسے دعوت دی جائے، تو وہ شریک ہو کر میزبان کے لیے خیر و برکت کی دعا کرے؛ روزہ نہ ہونے کی صورت میں کھانا تناول کرے۔",
+      "کھانے کے آداب میں تسمیہ (بسم اللہ) پڑھنا، سیدھے ہاتھ سے کھانا، اپنے سامنے سے کھانا، اور ٹیک لگا کر نہ بیٹھنا شامل ہے۔",
+      "کھانے میں عیب نکالنا سنت کے خلاف ہے؛ پسند ہو تو کھا لیا جائے ورنہ خاموشی سے چھوڑ دیا جائے۔",
+      "برکت کے حصول کے لیے برتن کے کناروں سے کھانا چاہیے، کیونکہ برکت درمیان میں نازل ہوتی ہے۔",
+      "پینے کے دوران برتن میں سانس لینا یا اس میں پھونک مارنا حفظانِ صحت اور آدابِ نبوی کے خلاف ہونے کی بنا پر منع ہے۔"
+    ],
+    "english": [
+      "Providing a wedding feast (Walimah) is a confirmed Sunnah and a source of blessing, whether it involves a sheep or simple food like dates and barley.",
+      "Responding to a Walimah or any brotherly invitation is a Muslim's right and an ethical duty, provided no prohibited acts are taking place.",
+      "The most disliked feast is one where the rich are invited while the poor are excluded; refusing an invitation without a valid excuse is considered disobedience to Allah and His Messenger.",
+      "A fasting person should attend the invitation to supplicate for the host; if not fasting, they should partake in the meal to please the inviter.",
+      "Etiquettes of eating include mentioning Allah's name (Bismillah), using the right hand, eating from what is directly in front, and avoiding leaning while eating.",
+      "Finding fault with food is contrary to the Prophetic way; one should either eat it if desired or leave it quietly if disliked.",
+      "To preserve blessings, one should eat from the sides of the dish rather than the center, as blessings descend in the middle.",
+      "Breathing or blowing into a drinking vessel is prohibited for reasons of hygiene and adherence to Prophetic etiquette."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب ولیمے کی اہمیت، دعوت قبول کرنے کے وجوب، اور کھانے پینے کے مسنون آداب و ضوابط کی وضاحت کرتا ہے۔",
+    "english": "This chapter explains the importance of the wedding feast (Walimah), the obligation of accepting invitations, and the Prophetic etiquettes of eating and drinking."
   },
   "hadithRange": {
     "from": 892,

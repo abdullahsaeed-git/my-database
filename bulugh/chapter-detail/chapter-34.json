@@ -2,12 +2,46 @@
   "chapId": 34,
   "bookId": 5,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "عرفہ کا روزہ دو سال کے اور عاشورہ کا روزہ ایک سال کے گناہوں کا کفارہ بنتا ہے۔",
+      "رمضان کے بعد شوال کے چھ روزے رکھنے کا ثواب پورے سال کے روزوں کے برابر ہے۔",
+      "اللہ کی راہ میں رکھا گیا ایک دن کا روزہ بندے کو جہنم سے ستر سال دور کر دیتا ہے۔",
+      "نبی ﷺ نفلی روزوں کا بہت اہتمام فرماتے تھے، بالخصوص شعبان کے مہینے میں کثرت سے روزے رکھتے تھے۔",
+      "ہر قمری ماہ کی 13، 14 اور 15 تاریخ (ایامِ بیض) کے روزے رکھنے کا تاکیدی حکم دیا گیا ہے۔",
+      "عورت کے لیے شوہر کی موجودگی میں اس کی اجازت کے بغیر نفلی روزہ رکھنا جائز نہیں ہے۔",
+      "عید الفطر اور عید الاضحیٰ کے ایام میں روزہ رکھنا شرعاً ممنوع اور حرام قرار دیا گیا ہے۔",
+      "ایامِ تشریق (11، 12، 13 ذوالحجہ) کھانے پینے اور اللہ کے ذکر کے دن ہیں، ان میں روزہ منع ہے۔",
+      "حج کے دوران قربانی میسر نہ ہونے کی صورت میں حاجی کے لیے ایامِ تشریق میں روزے کی رخصت ہے۔",
+      "عبادت کے لیے جمعہ کی رات کو مخصوص کرنا یا جمعہ کے دن کا تنہا روزہ رکھنا منع ہے۔",
+      "جمعہ کا روزہ صرف اسی صورت میں رکھیں جب اس سے ایک دن پہلے یا ایک دن بعد کا روزہ بھی ساتھ ملایا جائے۔",
+      "نصف شعبان (15 تاریخ) گزر جانے کے بعد رمضان کی تیاری کے لیے نفلی روزے رکھنے سے روکا گیا ہے۔",
+      "ہفتہ کے دن کا تنہا نفلی روزہ رکھنا بعض روایات میں منع ہے (اگرچہ اس حکم میں علمی اختلاف ہے)۔",
+      "مشرکوں کی مخالفت کی نیت سے ہفتہ اور اتوار کے دن روزہ رکھنا سنتِ نبوی سے ثابت ہے۔",
+      "حج کے دوران میدانِ عرفات میں موجود حاجی کے لیے عرفہ کے دن کا روزہ رکھنا منع ہے۔",
+      "ہمیشہ (سارا سال بلا ناغہ) روزہ رکھنا ناپسندیدہ ہے؛ ایسے شخص کا عمل شرعی روزے میں شمار نہیں ہوتا۔"
+    ],
+    "english": [
+      "Fasting on the Day of Arafah expiates two years of sins, while the Ashura fast covers one year.",
+      "Observing six fasts in Shawwal after Ramadan is equivalent in reward to fasting the entire year.",
+      "A single day's fast for the sake of Allah distances a servant from Hellfire by seventy years.",
+      "The Prophet (ﷺ) fasted extensively throughout the year, particularly during the month of Sha'ban.",
+      "The Messenger of Allah (ﷺ) commanded fasting on the 13th, 14th, and 15th of every lunar month.",
+      "A wife is prohibited from observing voluntary fasts without her husband's consent if he is present.",
+      "Fasting is strictly forbidden on the festive days of Eid-ul-Fitr and Eid-ul-Adha.",
+      "The days of Tashriq are designated for eating, drinking, and the remembrance of Allah, not fasting.",
+      "Hajj pilgrims who cannot afford a sacrifice are granted a concession to fast during the days of Tashriq.",
+      "Singling out Friday for fasting or its night for special night prayers is discouraged.",
+      "Fasting on Friday is only permissible if accompanied by a fast on the preceding or following day.",
+      "Voluntary fasting is discouraged after the middle of Sha'ban to preserve energy for Ramadan.",
+      "Fasting solely on Saturday is restricted in some reports, except for obligatory fasts.",
+      "Fasting on Saturday and Sunday was practiced by the Prophet (ﷺ) to distinguish Muslims from other faiths.",
+      "It is forbidden for a pilgrim stationed at Arafat to fast on the Day of Arafah.",
+      "Perpetual fasting (every day of the year) is disliked and does not fulfill the spirit of Islamic worship."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب نفلی روزوں کی فضیلت، مسنون ایام (عرفہ، عاشورہ، ایامِ بیض) اور ان مخصوص دنوں کی وضاحت کرتا ہے جن میں روزہ رکھنا منع ہے۔",
+    "english": "This chapter details the virtues of voluntary fasts, recommended days like Arafah and Ashura, and specific prohibited times for fasting."
   },
   "hadithRange": {
     "from": 552,

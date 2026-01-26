@@ -2,12 +2,26 @@
   "chapId": 76,
   "bookId": 8,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "رضاعت (دودھ پلانے) سے وہی تمام رشتے حرام ہو جاتے ہیں جو نسب (خون کے رشتوں) سے حرام ہوتے ہیں۔",
+      "صرف ایک یا دو بار دودھ چوسنے سے حرمتِ نکاح ثابت نہیں ہوتی؛ جمہور کے نزدیک کم از کم پانچ بار پیٹ بھر کر دودھ پینا ضروری ہے۔",
+      "رضاعت تبھی معتبر ہوتی ہے جب وہ ڈھائی سال (یا دو سال) کی عمر کے اندر ہو، یعنی جب دودھ بچے کی ہڈیوں اور گوشت کی نشوونما کا ذریعہ بنے۔",
+      "اگر نکاح کے بعد یہ معلوم ہو جائے کہ میاں بیوی نے ایک ہی عورت کا دودھ پیا ہے، تو انہیں فوری طور پر علیحدگی اختیار کر لینی چاہیے۔",
+      "رضاعی چچا، ماموں اور بھائی کے وہی احکامات ہیں جو حقیقی رشتوں کے ہیں، یعنی ان سے پردہ واجب نہیں اور نکاح حرام ہے۔",
+      "بچوں کو دودھ پلانے کے لیے ایسی خواتین کا انتخاب کرنا چاہیے جو ذہنی اور جسمانی طور پر صحت مند ہوں، کیونکہ دودھ کے اثرات بچے کی شخصیت پر پڑ سکتے ہیں۔"
+    ],
+    "english": [
+      "Fosterage (breastfeeding) establishes the same marriage prohibitions as blood lineage (prohibited degrees of kinship).",
+      "Occasional suckling (one or two times) does not establish a foster relationship; a minimum of five distinct, satisfying feeds is generally required to create the legal bond of Mahram.",
+      "Fosterage is only legally recognized if it occurs within the first two (or two and a half) years of the child's life, while the milk still contributes to bone and tissue growth.",
+      "If a married couple discovers they were breastfed by the same woman, they must immediately dissolve their marriage as they are considered foster siblings.",
+      "Foster relatives, such as uncles or brothers, are treated as Mahrams; therefore, Hijab is not mandatory before them, and marriage is strictly forbidden.",
+      "It is recommended to select healthy and mentally sound wet nurses, as it is believed that the characteristics of the nurse can influence the developing child."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب رضاعت (دودھ پلانے) کے شرعی قوانین، محرم رشتوں کے قیام، اور رضاعت کی معتبر مدت و مقدار کی وضاحت کرتا ہے۔",
+    "english": "This chapter details the legal framework of fosterage (breastfeeding), the establishment of Mahram relationships through milk, and the required duration and frequency of suckling for legal validity."
   },
   "hadithRange": {
     "from": 964,

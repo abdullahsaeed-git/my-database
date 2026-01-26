@@ -2,12 +2,30 @@
   "chapId": 100,
   "bookId": 15,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "غلام کو آزاد کرنا ایک عظیم فضیلت والا عمل ہے؛ کسی مسلمان غلام کو آزاد کرنے والا اپنے جسم کے ہر عضو کے بدلے جہنم کی آگ سے نجات پاتا ہے۔",
+      "بہترین غلام وہ ہے جو اپنی قیمت میں مہنگا اور اپنے مالک کے لیے بہت محبوب و قیمتی ہو۔",
+      "اگر کوئی شخص کسی مشترکہ غلام میں سے صرف اپنا حصہ آزاد کرے، تو اس پر لازم ہے کہ وہ دیگر شرکاء کو ان کے حصے کی رقم ادا کر کے پورے غلام کو آزاد کرائے (اگر وہ صاحبِ حیثیت ہے)۔",
+      "اگر کوئی شخص اپنے کسی ایسے قریبی رشتہ دار (محرم) کا مالک بن جائے جس سے اس کا نکاح حرام ہو، تو وہ رشتہ دار خود بخود آزاد ہو جاتا ہے۔",
+      "بیٹے کی طرف سے باپ کے احسانات کا بہترین بدلہ یہ ہے کہ اگر باپ غلامی کی حالت میں ہو تو بیٹا اسے خرید کر آزاد کر دے۔",
+      "وصیت کے ذریعے غلاموں کی آزادی کل مال کے ایک تہائی (1/3) حصے سے زائد نہیں ہو سکتی؛ اسی لیے نبی ﷺ نے اس شخص کے صرف دو غلاموں کو قرعہ اندازی کے ذریعے آزاد فرمایا جس نے مرتے وقت اپنے تمام چھ غلاموں کو آزاد کر دیا تھا۔",
+      "آزاد کرنے والے اور آزاد ہونے والے غلام کے درمیان 'ولاء' (وارث بننے کا تعلق) قائم ہو جاتا ہے، جو خونی رشتے کی طرح ہے اور اسے بیچا یا ہبہ نہیں کیا جا سکتا۔",
+      "غلام کو کسی خاص شرط (جیسے خدمتِ نبوی ﷺ) پر بھی آزاد کیا جا سکتا ہے۔"
+    ],
+    "english": [
+      "Emancipating a slave is a deed of immense spiritual reward; whoever frees a Muslim slave will have every limb of their own body delivered from the Hellfire.",
+      "The most virtuous slave to set free is the one who is the most expensive in price and the most cherished by their owner.",
+      "If a person frees their share in a co-owned slave, they are legally obligated to pay the fair market value to the other partners to ensure the slave's full freedom, provided they have the financial means.",
+      "A person becomes legally free the moment they are purchased or inherited by a close relative with whom marriage is prohibited (Dhu rahim mahram).",
+      "A son can truly repay his father's kindness only if he finds his father in slavery, purchases him, and grants him freedom.",
+      "Manumission through a will is limited to one-third of the deceased's estate; hence, the Prophet (ﷺ) used lots to free only two out of six slaves when the owner had no other assets.",
+      "The bond of 'Wala' (patronage/inheritance rights) is established between the emancipator and the freed slave, acting like a tie of lineage that cannot be sold or gifted.",
+      "A slave may be set free upon certain conditions, such as continuing a specific service for a period of time or for a noble cause."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب غلاموں کی آزادی کی فضیلت، مشترکہ ملکیت کے احکامات، محرم رشتہ داروں کی خود بخود آزادی اور ولاء (وراثت کے حق) کے قوانین بیان کرتا ہے۔",
+    "english": "This chapter details the excellence of emancipating slaves, rulings on joint ownership, the automatic freedom of close relatives, and the legal status of 'Wala' (the right of inheritance)."
   },
   "hadithRange": {
     "from": 1220,

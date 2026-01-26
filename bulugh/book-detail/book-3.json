@@ -1,26 +1,32 @@
 {
-    "bookId": 3,
-    "summary": {
-        "english": [], 
-        "urdu": []
-    },
-    "description": {
-        "urdu": " ",
-        "english" : " "
-    }, 
-    "hadithRange": {
-"from": 425,
-"to": 482
-    },
-    "chapters": [
-        {
-            "id": 28,
-            "chapNo": 1,
-            "name": {
-                "arabic": " (أحاديث في الجنائز)",
-                "english": " ",
-                "urdu": "(جنازے کے متعلق احادیث) "
-            }
-        }
+  "bookId": 3,
+  "summary": {
+    "english": [
+      "This section is known as Kitab al-Jana'iz (The Book of Funerals).",
+      "It details the prophetic traditions regarding death, washing the deceased, the funeral prayer, and burial rites."
+    ],
+    "urdu": [
+      "یہ حصہ 'کتاب الجنائز' (جنازے کا بیان) پر مشتمل ہے۔",
+      "اس میں وفات، میت کو غسل دینے، نماز جنازہ، اور تدفین کے متعلق نبوی تعلیمات بیان کی گئی ہیں۔"
     ]
+  },
+  "description": {
+    "urdu": "کتاب الجنائز میں موت کے وقت کے آداب، میت کی تیاری، نماز جنازہ کے طریقے اور قبرستان سے متعلق شرعی احکام کو احادیث کی روشنی میں جمع کیا گیا ہے۔",
+    "english": "Kitab al-Jana'iz covers the rulings and etiquettes surrounding death, preparation of the body, the funeral prayer, and burial practices according to authentic Hadiths."
+  },
+  "hadithRange": {
+    "from": 425,
+    "to": 482
+  },
+  "chapters": [
+    {
+      "id": 28,
+      "chapNo": 1,
+      "name": {
+        "arabic": " (أحاديث في الجنائز)",
+        "english": "Hadiths Regarding Funerals",
+        "urdu": "(جنازے کے متعلق احادیث) "
+      }
+    }
+  ]
 }

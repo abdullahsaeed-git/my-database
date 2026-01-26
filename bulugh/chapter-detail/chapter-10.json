@@ -2,12 +2,36 @@
   "chapId": 10,
   "bookId": 1,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "حیض کے سیاہ خون اور استحاضہ کے درمیان تمیز کر کے نماز کے احکامات پر عمل کرنا چاہیے۔",
+      "استحاضہ کی مریضہ کے لیے نمازوں کو جمع کرنے اور غسل کے اوقات کی سہولت موجود ہے۔",
+      "استحاضہ کی صورت میں عورت اپنے پرانے معمول کے مطابق حیض کے ایام گزار کر غسل کرے۔",
+      "ایامِ طہارت کے مکمل ہونے کے بعد زرد یا گدلے رنگ کے مادے کو حیض شمار نہیں کیا جائے گا۔",
+      "حالتِ حیض میں ہمبستری کے علاوہ عورت کے ساتھ میل جول اور کھانا پینا مکمل جائز ہے۔",
+      "حیض کے دوران تہبند یا رکاوٹ کے ساتھ بیوی سے پیار و محبت کا اظہار کرنا مسنون عمل ہے۔",
+      "حالتِ حیض میں غلطی سے ہمبستری ہو جانے پر ایک یا نصف دینار صدقہ کرنا واجب ہے۔",
+      "عورت کے لیے ایامِ حیض کے دوران نماز اور روزہ چھوڑنا شرعی حکم ہے۔",
+      "حائضہ عورت حج کے تمام مناسک ادا کر سکتی ہے سوائے بیت اللہ کے طواف کے۔",
+      "مرد کے لیے حائضہ بیوی کے جسم کا وہ حصہ حلال ہے جو تہبند سے اوپر ہو (ضعیف روایت)۔",
+      "نفاس (ولادت کے بعد کا خون) کی زیادہ سے زیادہ مدت چالیس دن ہے اور اس کی نمازیں معاف ہیں۔"
+    ],
+    "english": [
+      "Differentiate between dark menstrual blood and Istihadah to determine prayer eligibility.",
+      "Women with chronic bleeding may combine prayers and perform specific Ghusl for ease.",
+      "Istihadah patients should follow their previous menstrual cycle before performing Ghusl.",
+      "Yellow or brownish discharge after the completion of menses is not considered menstruation.",
+      "Social interaction and dining with menstruating women is fully permitted in Islam.",
+      "Physical affection with a menstruating wife is allowed provided a waist-wrapper is worn.",
+      "Atonement for intercourse during menses involves giving a Dinar or half a Dinar in charity.",
+      "Religious obligations like prayer and fasting are suspended during the menstrual period.",
+      "A menstruating woman can perform all Hajj rituals except for the circumambulation of the Ka'bah.",
+      "A husband may enjoy physical contact with his menstruating wife above the navel area.",
+      "The postnatal bleeding (Nifas) period lasts up to forty days, and missed prayers are not made up."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب حیض، استحاضہ اور نفاس کے احکامات، طہارت کے طریقے اور ان ایام میں شرعی حدود کی وضاحت کرتا ہے۔",
+    "english": "This chapter explains the rulings on menstruation, chronic bleeding (Istihadah), and postnatal bleeding, including purification and marital boundaries."
   },
   "hadithRange": {
     "from": 118,

@@ -2,12 +2,58 @@
   "chapId": 29,
   "bookId": 4,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "زکوٰۃ مالداروں سے وصول کر کے انہی کے علاقے کے غریبوں میں تقسیم کرنا ایک لازمی فریضہ ہے۔",
+      "اونٹوں اور بکریوں کی مختلف تعداد پر زکوٰۃ کی مقدار متعین ہے، اور چاندی پر ڈھائی فیصد زکوٰۃ واجب ہے۔",
+      "گائے اور بیلوں کے نصاب میں ہر تیس پر ایک سالہ اور ہر چالیس پر دو سالہ بچھڑا دینا ضروری ہے۔",
+      "زکوٰۃ کی وصولی کے لیے عاملین کو مالداروں کے پانی پلانے کی جگہوں یا گھروں پر جانا چاہیے۔",
+      "ذاتی استعمال کے غلاموں اور گھوڑوں پر زکوٰۃ نہیں ہے، البتہ غلاموں کا صدقہ فطر ادا کرنا ہوگا۔",
+      "زکوٰۃ خوشی سے ادا کرنی چاہیے؛ اسے روکنے والے سے زبردستی وصولی اور جرمانہ عائد کیا جائے گا۔",
+      "مال پر زکوٰۃ تب ہی واجب ہوتی ہے جب اس پر ایک مکمل قمری سال گزر جائے۔",
+      "کھیتی باڑی اور مشقت کے لیے استعمال ہونے والے بیلوں پر زکوٰۃ معاف ہے (موقوف قول)۔",
+      "یتیم کے مال کی حفاظت کے لیے اسے تجارت میں لگانا چاہیے تاکہ زکوٰۃ اسے ختم نہ کر دے۔",
+      "زکوٰۃ دینے والوں کے لیے دعا کرنا اور ان کے حق میں اللہ سے برکت مانگنا سنتِ نبوی ہے۔",
+      "زکوٰۃ وقت سے پہلے (ایڈوانس میں) ادا کرنا شرعاً جائز ہے، جیسا کہ حضرت عباس نے کیا۔",
+      "چاندی، اونٹ اور کھجوروں کے لیے مخصوص کم از کم نصاب مقرر ہے جس سے کم پر زکوٰۃ نہیں۔",
+      "بارشی یا قدرتی چشموں سے سیراب زمین کی پیداوار پر دسواں حصہ (عشر) اور مصنوعی آبپاشی پر بیسواں حصہ واجب ہے۔",
+      "زکوٰۃ بنیادی طور پر چار اجناس: جو، گندم، منقیٰ اور کھجور پر واجب ہے (مخصوص آراء کے مطابق)۔",
+      "پھلوں کا تخمینہ لگاتے وقت مالک کی سہولت کے لیے ایک تہائی یا چوتھائی حصہ چھوڑ دینا چاہیے۔",
+      "انگوروں کی زکوٰۃ کا حساب ان کے خشک ہونے (کشمش) کی بنیاد پر کیا جائے گا۔",
+      "خواتین کے پہننے والے سونے کے زیورات پر بھی زکوٰۃ واجب ہے ورنہ وہ آگ کے کنگن بنیں گے۔",
+      "زیورات کی زکوٰۃ ادا کر دی جائے تو وہ ممنوعہ 'کنز' (جمع شدہ خزانہ) کی تعریف میں نہیں آتے۔",
+      "تجارت کی نیت سے خریدے گئے سامان پر بھی زکوٰۃ کی ادائیگی کا حکم دیا گیا ہے۔",
+      "زمین سے نکلنے والے قدیم دفینوں اور خزانوں (رکاز) پر بیس فیصد (پانچواں حصہ) ادا کرنا لازم ہے۔",
+      "ویرانے سے ملے خزانے پر خمس واجب ہے، جبکہ آباد بستی سے ملے مال کا اعلان کرنا ضروری ہے۔",
+      "زمین سے نکالی جانے والی معدنیات پر بھی زکوٰۃ کی وصولی سنتِ نبوی سے ثابت ہے۔"
+    ],
+    "english": [
+      "Zakat is an obligatory duty collected from the wealthy and redistributed among the poor of their community.",
+      "Specific scales determine Zakat for livestock, while silver is subject to a 2.5% mandatory rate.",
+      "For every thirty cows, a one-year-old calf is due, and for every forty, a two-year-old is required.",
+      "Zakat collectors should facilitate the process by visiting owners at their watering places or dwellings.",
+      "Slaves and horses kept for personal use are exempt from Zakat, though Sadaqat-ul-Fitr applies to slaves.",
+      "Willing payment of Zakat is rewarded, while withholding it leads to forced collection and financial penalties.",
+      "Ownership of wealth must span a full lunar year (Hawl) before Zakat becomes legally due.",
+      "Livestock used specifically for agricultural labor or transport are exempt from Zakat (Mawquf opinion).",
+      "Guardians should invest an orphan's wealth in trade to prevent it from being exhausted by Zakat over time.",
+      "Supplicating for the donors of Zakat and asking for Allah's blessings upon them is a Prophetic Sunnah.",
+      "Pre-paying Zakat before its official due date is permissible, as demonstrated by Al-Abbas (RA).",
+      "Minimum thresholds (Nisab) are established for silver, camels, and dates; below which no Zakat applies.",
+      "Produce from naturally watered land is taxed at 10% (Ushr), while artificially irrigated land is taxed at 5%.",
+      "Zakat is primarily levied on four commodities: barley, wheat, raisins, and dates (per specific narrations).",
+      "Collectors should allow owners to keep a third or quarter of their fruit estimates for personal needs.",
+      "The Zakat due on grapes is calculated based on their final estimated weight as dried raisins.",
+      "Women must pay Zakat on their gold jewelry to avoid severe consequences on the Day of Resurrection.",
+      "Jewelry that has its due Zakat paid is no longer categorized as prohibited hoarded wealth (Kanz).",
+      "Items held as inventory for the specific purpose of trade are subject to regular Zakat valuation.",
+      "One-fifth (20%) must be paid on discovered buried treasures (Rikaz) dating from pre-Islamic times.",
+      "Found treasure in uninhabited areas requires Khums, while findings in inhabited areas must be announced.",
+      "The collection of Zakat from operational mines is a practice established by the Messenger of Allah (ﷺ)."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب زکوٰۃ کے نصاب، مختلف مال و مویشی پر اس کی مقدار، پیداوار کے عشر اور خزانوں و معدنیات کے احکامات بیان کرتا ہے۔",
+    "english": "This chapter details the thresholds for Zakat, rates for different assets and livestock, rules for agricultural produce, and discovery of treasures."
   },
   "hadithRange": {
     "from": 483,

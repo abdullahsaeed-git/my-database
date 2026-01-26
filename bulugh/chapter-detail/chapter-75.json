@@ -2,12 +2,30 @@
   "chapId": 75,
   "bookId": 8,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "حاملہ عورت کی عدت وضعِ حمل (بچہ جننے) تک ہے، چاہے شوہر فوت ہوا ہو یا اس نے طلاق دی ہو۔",
+      "وفات پانے والے شوہر کی بیوہ کے لیے عدت چار ماہ دس دن ہے، جس کے دوران اسے بناؤ سنگھار، خوشبو اور رنگین لباس سے پرہیز (سوگ) کرنا لازم ہے۔",
+      "مطلقہ عورت کی عدت تین حیض ہے، جبکہ لونڈی کے لیے یہ مدت دو حیض مقرر ہے۔",
+      "جس مطلقہ کو تین طلاقیں دے دی گئی ہوں، وہ شوہر کی طرف سے رہائش اور نان و نفقہ کی حقدار نہیں رہتی، الا یہ کہ وہ حاملہ ہو۔",
+      "عدت کے دوران عورت کو بلا ضرورت گھر سے باہر نہیں نکلنا چاہیے، تاہم اپنی معاشی ضرورت (جیسے پھل توڑنا یا مزدوری) کے لیے دن میں باہر جانے کی اجازت ہے۔",
+      "لاپتہ شوہر کی بیوی کے متعلق سیدنا عمر رضی اللہ عنہ کا فیصلہ یہ تھا کہ وہ چار سال انتظار کرے اور پھر وفات کی عدت گزارے۔",
+      "غیر محرم مرد اور عورت کا تنہائی میں ملنا یا رات بسر کرنا شرعاً ممنوع ہے جب تک کہ کوئی محرم رشتہ دار ساتھ نہ ہو۔",
+      "نسب کا قاعدہ یہ ہے کہ بچہ اسی کا شمار ہوگا جس کے نکاح (بستر) میں وہ پیدا ہوا، اور بدکاری کرنے والے کا نسب پر کوئی حق نہیں۔"
+    ],
+    "english": [
+      "The waiting period (Iddah) for a pregnant woman ends upon childbirth, regardless of whether the marriage ended through death or divorce.",
+      "A widow must observe a mourning period of four months and ten days, during which she must abstain from beautification, perfume, kohl, and decorative clothing.",
+      "The Iddah for a divorced free woman is three menstrual cycles, while for a slave-woman, it is two cycles.",
+      "A woman who has been irrevocably divorced (three times) is not entitled to lodging or maintenance from her former husband unless she is pregnant.",
+      "While a woman in Iddah should generally remain in her home, she is permitted to go out during the day for essential needs or work, such as harvesting crops.",
+      "Regarding the wife of a missing person, 'Umar (RA) decreed a waiting period of four years followed by the Iddah of death (4 months and 10 days).",
+      "Privacy (Khalwa) or spending the night between a non-Mahram man and woman is strictly prohibited unless a Mahram relative is present.",
+      "Paternity is established by the 'bed' (legal marriage); the child belongs to the husband of the mother, and the adulterer has no claim to lineage."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب مختلف حالات (وفات، طلاق، حمل) میں عورت کی عدت کے دورانیے، سوگ کے احکامات، اور نسب کی حفاظت کے قوانین بیان کرتا ہے۔",
+    "english": "This chapter details the duration of the waiting period (Iddah) under various circumstances (death, divorce, pregnancy), the regulations of mourning, and the legal establishment of paternity."
   },
   "hadithRange": {
     "from": 945,

@@ -1,13 +1,28 @@
 {
   "chapId": 78,
   "bookId": 8,
+  
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "میاں بیوی میں علیحدگی کی صورت میں چھوٹے بچے کی پرورش کا پہلا حق ماں کا ہے، بشرطیکہ وہ دوسرا نکاح نہ کر لے۔",
+      "جب بچہ سمجھ بوجھ کی عمر کو پہنچ جائے تو اسے اختیار دیا جا سکتا ہے کہ وہ اپنے والدین میں سے جس کے ساتھ رہنا چاہے، اس کا انتخاب کر لے۔",
+      "اگر والدین کے درمیان دین کا فرق ہو (ایک مسلمان اور دوسرا غیر مسلم)، تو بچے کی پرورش کا حق مسلمان والدین کو دیا جائے گا تاکہ بچے کے ایمان کی حفاظت ہو۔",
+      "ماں کی عدم موجودگی یا نااہلی کی صورت میں خالہ پرورش کی سب سے زیادہ حقدار ہے کیونکہ اسے ماں کے برابر درجہ دیا گیا ہے۔",
+      "خادموں اور ملازموں کے ساتھ حسنِ سلوک کا حکم ہے؛ انہیں اپنے ساتھ بٹھا کر کھانا کھلانا چاہیے یا کم از کم کھانے میں سے کچھ حصہ لازمی دینا چاہیے۔",
+      "جانوروں پر ظلم کرنا، انہیں بھوکا پیاسا رکھنا یا قید کرنا جہنم کے عذاب کا باعث بن سکتا ہے؛ اسلام جانوروں کے حقوق کی بھی پاسداری کرتا ہے۔"
+    ],
+    "english": [
+      "In the event of divorce, the mother has the primary right to the custody (Hadanah) of her young child, provided she does not remarry.",
+      "Once a child reaches an age of discernment, they may be given the choice to decide which parent they wish to live with.",
+      "In cases where parents differ in religion (one Muslim and one non-Muslim), custody is granted to the Muslim parent to safeguard the child's faith.",
+      "If the mother is unavailable, the maternal aunt is the most entitled to custody, as she is legally regarded as being in the position of the mother.",
+      "It is mandatory to treat servants with kindness, including sharing food with them or ensuring they receive a portion of what is served.",
+      "Cruelty toward animals, such as starving or imprisoning them, is a grave sin that can lead to Hellfire; Islam strictly enforces the compassionate treatment of all living creatures."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب علیحدگی کے بعد بچوں کی پرورش (حضانۃ) کے مستحقین، بچوں کے انتخاب کے حق، اور خادموں و جانوروں کے حقوق کو بیان کرتا ہے۔",
+    "english": "This chapter details the legal rights of child custody (Hadanah) following separation, the child's right of choice, and the ethical treatment of servants and animals."
   },
   "hadithRange": {
     "from": 987,

@@ -2,12 +2,28 @@
   "chapId": 60,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "راستے میں گری ہوئی معمولی چیز (جیسے ایک کھجور) کو اٹھا کر استعمال کرنا جائز ہے، بشرطیکہ وہ صدقہ کا مال نہ ہو۔",
+      "قیمتی گری ہوئی چیز (لقطہ) ملنے پر اس کی علامات اور بندھن کی اچھی طرح شناخت کر کے ایک سال تک اس کا اعلان کرنا واجب ہے۔",
+      "گمشدہ بکری کو اٹھایا جا سکتا ہے کیونکہ وہ ضائع ہونے کا خطرہ رکھتی ہے، لیکن گمشدہ اونٹ کو اس کے حال پر چھوڑ دینا چاہیے کیونکہ وہ اپنی حفاظت خود کر سکتا ہے۔",
+      "کسی گمشدہ جانور کو اپنے پاس رکھنا اور اس کا اعلان نہ کرنا گناہ اور گمراہی کا باعث ہے۔",
+      "گری ہوئی چیز ملنے پر بہتر ہے کہ دو عادل گواہ بنا لیے جائیں تاکہ نیت پر شک نہ ہو اور امانت کی حفاظت ہو سکے۔",
+      "حرمِ مکہ میں حجاج کی گری ہوئی اشیاء کو اٹھانا ممنوع ہے (تاوقتیکہ صرف اعلان کی نیت ہو)، کیونکہ وہاں کی اشیاء صرف ان کے مالکوں کے لیے ہیں۔",
+      "غیر مسلم شہری (ذمی یا معاہد) کا گمشدہ مال بھی مسلمانوں کے مال کی طرح محترم ہے، اسے اٹھانا جائز نہیں الا یہ کہ وہ معمولی چیز ہو۔"
+    ],
+    "english": [
+      "It is permissible to pick up and consume trivial items found on the road, such as a single date, provided there is no doubt about its origin being from charity (Sadaqah).",
+      "For valuable lost property (Luqatah), the finder must recognize its distinctive marks and announce it publicly for a full year before taking it as their own if no owner appears.",
+      "Lost sheep may be picked up to save them from predators, but lost camels should be left alone as they are capable of surviving independently until found by their owner.",
+      "Sheltering or keeping a lost animal without making a public announcement is considered a sinful act of misguidance.",
+      "It is recommended to seek two just witnesses when finding lost property to ensure transparency and protect the integrity of the trust.",
+      "The lost property of pilgrims within the sanctuary of Makkah is strictly protected and should not be picked up except for the purpose of identifying it for the owner.",
+      "The lost property of a non-Muslim citizen under state protection (Mu'ahid) is sacred and must be handled with the same legal protocols as a Muslim's property."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب گری ہوئی اشیاء (لقطہ) اور گمشدہ جانوروں کو پانے، ان کی شناخت، اعلان اور ملکیت کے شرعی ضوابط بیان کرتا ہے۔",
+    "english": "This chapter details the legal and ethical protocols for handling lost property (Luqatah) and stray animals, including identification, public announcement, and ownership rights."
   },
   "hadithRange": {
     "from": 799,

@@ -2,12 +2,22 @@
   "chapId": 52,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "جس ہاتھ نے کسی کا مال (ادھار یا عاریتاً) لیا ہے، اس کی واپسی اس ہاتھ پر لازم اور اس کی ذمہ داری ہے۔",
+      "امانت دار کی امانت اسے واپس کر دینا واجب ہے، اور اگر کوئی تمہارے ساتھ خیانت کرے تب بھی اس کے ساتھ خیانت کرنا جائز نہیں۔",
+      "عاریہ (استعمال کے لیے لی گئی چیز) کی دو صورتیں ہیں: ایک وہ جو محض استعمال کے بعد واپس کر دی جائے (عاریہ مؤداۃ) اور دوسری وہ جس کی گمشدگی یا نقصان کی صورت میں ضمانت دی جائے (عاریہ مضمونہ)۔",
+      "نبی ﷺ نے جنگی ضرورت کے لیے اسلحہ ادھار لیتے وقت مالک کو یقین دلایا کہ یہ زبردستی غصب نہیں بلکہ باقاعدہ ضمانت کے ساتھ لیا گیا ادھار ہے۔"
+    ],
+    "english": [
+      "Any hand that takes the property of another (as a loan or trust) remains legally and morally responsible for its safe return.",
+      "It is an obligation to return trusts to those who entrusted them, and one must never reciprocate betrayal even against those who have been treacherous.",
+      "Loans for use (Ariyah) consist of two types: those intended simply for return after use (Ariyah Mu’addah) and those where compensation is guaranteed if the item is lost or damaged (Ariyah Madmunah).",
+      "The Prophet (ﷺ) demonstrated the etiquette of borrowing by assuring owners that items taken for state needs were guaranteed loans, not acts of forced confiscation."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب عاریہ (استعمال کے لیے ادھار لی گئی چیز) کے احکامات، امانتوں کی واپسی اور نقصان کی صورت میں ضمانت کے ضوابط بیان کرتا ہے۔",
+    "english": "This chapter details the rulings on Ariyah (items borrowed for use), the obligation of returning trusts, and the legal protocols for guaranteed compensation."
   },
   "hadithRange": {
     "from": 751,

@@ -2,12 +2,34 @@
   "chapId": 27,
   "bookId": 2,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "نبی ﷺ نے پیش گوئی فرمائی کہ میری امت میں کچھ لوگ زنا اور ریشم کو حلال کر لیں گے۔",
+      "سونے چاندی کے برتنوں میں کھانے پینے اور ریشم پر بیٹھنے سے سختی سے منع کیا گیا ہے۔",
+      "مردوں کے لیے ریشم کا استعمال ممنوع ہے، سوائے چار انگلیوں کے برابر معمولی مقدار کے۔",
+      "بیماری یا خارش جیسے طبی عذر کی صورت میں مردوں کو ریشمی لباس پہننے کی رخصت دی گئی ہے۔",
+      "مردوں کو خالص ریشمی لباس پہن کر باہر نکلنے پر نبی ﷺ نے سخت ناراضگی کا اظہار فرمایا۔",
+      "سونا اور ریشم امت کی عورتوں کے لیے حلال جبکہ مردوں کے لیے مکمل حرام قرار دیے گئے ہیں۔",
+      "اللہ تعالیٰ کو یہ بات پسند ہے کہ بندہ اس کی دی ہوئی نعمتوں کا اثر اپنے لباس اور حالت سے ظاہر کرے۔",
+      "مردوں کو ایسے ریشمی یا زرد رنگ کے کپڑے پہننے سے روکا گیا ہے جو غیر مسلموں یا عورتوں سے مشابہ ہوں۔",
+      "کسم (زرد و سرخ) سے رنگے ہوئے کپڑے مردوں کے لیے ناپسندیدہ اور ممنوع قرار دیے گئے ہیں۔",
+      "لباس کے گریبان یا آستینوں پر ریشم کا حاشیہ لگانا جائز ہے، جیسا کہ نبی ﷺ کے جبے سے ثابت ہے۔"
+    ],
+    "english": [
+      "The Prophet (ﷺ) prophesied that some groups in the Ummah would attempt to justify adultery and silk.",
+      "Eating or drinking from gold and silver vessels and sitting on silk is strictly forbidden for Muslims.",
+      "Men are prohibited from wearing silk, with a small exception for areas the width of four fingers.",
+      "Concessions are granted for men to wear silk garments if they suffer from medical conditions like skin irritation.",
+      "The Prophet (ﷺ) expressed severe displeasure when seeing men wearing complete suits of pure silk.",
+      "Gold and silk are declared lawful for the females of the Ummah but strictly forbidden for the males.",
+      "Allah loves for the effects of His blessings and favors to be visible upon His servants through their appearance.",
+      "Men are forbidden from wearing garments containing silk (Al-Qassi) or those dyed with bright safflower (Mu'asfar).",
+      "Garments dyed with saffron or deep red/yellow hues are discouraged for men as part of distinct Islamic identity.",
+      "Silk trimmings on the collar, sleeves, or slits of a cloak are permissible based on the Prophet's (ﷺ) practice."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب مردوں اور عورتوں کے لیے لباس کے شرعی احکامات، ریشم و سونے کی ممانعت اور جائز و ناجائز آرائش کی وضاحت کرتا ہے۔",
+    "english": "This chapter explains the legal rulings on clothing for men and women, the prohibition of silk and gold for males, and permissible adornment."
   },
   "hadithRange": {
     "from": 415,

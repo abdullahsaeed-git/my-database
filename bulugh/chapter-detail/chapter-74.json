@@ -2,12 +2,28 @@
   "chapId": 74,
   "bookId": 8,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "لعان کا عمل اس وقت ہوتا ہے جب شوہر اپنی بیوی پر بدکاری کا الزام لگائے لیکن گواہ نہ ہوں؛ ایسی صورت میں دونوں کو چار چار قسمیں اور پانچویں بار اللہ کی لعنت و غضب کا ذکر کرنا ہوتا ہے۔",
+      "لعان کے بعد میاں بیوی کے درمیان ہمیشہ کے لیے علیحدگی (تفریق) کر دی جاتی ہے اور وہ کبھی دوبارہ نکاح نہیں کر سکتے۔",
+      "لعان کی صورت میں اگر شوہر نے سچا الزام لگایا ہو تب بھی وہ مہر واپس نہیں لے سکتا، کیونکہ یہ ازدواجی تعلق کا معاوضہ تھا۔",
+      "بچے کے نسب کا انکار کرنا سنگین گناہ ہے؛ اگر کوئی مرد اپنے بچے کا انکار کرے جبکہ وہ اس کی مشابہت رکھتا ہو، تو قیامت کے دن اللہ اسے رسوا کرے گا۔",
+      "محض رنگت کی تبدیلی (مثلاً والدین گورے ہوں اور بچہ کالا ہو) نسب کے انکار کی بنیاد نہیں بن سکتی، کیونکہ یہ وراثتی اثرات (جینیات) کی وجہ سے ہو سکتا ہے۔",
+      "اگر کوئی شخص ایک بار بھی بچے کو اپنا تسلیم کر لے، تو اسے دوبارہ اس کے نسب کی نفی کرنے کا قانونی حق حاصل نہیں رہتا۔",
+      "عورت کی عفت کے معاملے میں شبہ ہونے پر علیحدگی بہتر ہے، لیکن اگر شوہر اس سے شدید محبت کرتا ہو اور گناہ میں مبتلا ہونے کا اندیشہ ہو، تو اسے نباہ کی اجازت دی گئی ہے۔"
+    ],
+    "english": [
+      "Li'an (oath of condemnation) is invoked when a husband accuses his wife of adultery without four witnesses; both parties must testify four times and invoke Allah's curse or wrath upon themselves in the fifth testimony.",
+      "The completion of Li'an results in a permanent and irrevocable separation between the spouses, barring them from ever remarrying each other.",
+      "In a Li'an case, even if the husband is truthful, he is not entitled to reclaim the dower (Mahr), as it was payment for the lawfulness of the marital relationship.",
+      "Disowning one's child is a grave offense; a man who denies his biological child faces divine disgrace and will be veiled from Allah on the Day of Resurrection.",
+      "Variation in skin color or physical appearance is not valid grounds to deny paternity, as the Prophet (ﷺ) explained that hereditary traits (genes) from ancestors can manifest in offspring.",
+      "Once a man acknowledges a child as his own, even for a brief moment, he forfeits the legal right to disown or deny that child's lineage later.",
+      "While separation is advised if a spouse's chastity is compromised, the Prophet (ﷺ) allowed a man to remain with his wife if he loved her excessively and feared for his own self-control."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب لعان کے تفصیلی طریقے، میاں بیوی میں مستقل علیحدگی، نسب کے اثبات و انکار کے قوانین اور جینیاتی اثرات کی بنا پر پیدا ہونے والے شبہات کے حل کو بیان کرتا ہے۔",
+    "english": "This chapter details the procedure of Li'an (oath of condemnation), the permanent dissolution of marriage, legal rulings on paternity and its denial, and the prophetic guidance on hereditary traits in children."
   },
   "hadithRange": {
     "from": 936,

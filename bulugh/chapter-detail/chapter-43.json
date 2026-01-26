@@ -2,12 +2,22 @@
   "chapId": 43,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "خرید و فروخت کرنے والے دونوں فریقوں کو مجلس سے جدا ہونے تک سودا منسوخ کرنے کا اختیار (خیارِ مجلس) حاصل ہے۔",
+      "اگر دونوں فریق سودا طے کر کے جدا ہو جائیں یا مجلس میں ہی ایک دوسرے کو حتمی فیصلہ کرنے کا اختیار دے دیں، تو بیع لازم ہو جاتی ہے۔",
+      "کسی فریق کے لیے یہ جائز نہیں کہ وہ سودے کی منسوخی کے ڈر سے دوسرے کو چھوڑ کر جلدی سے الگ ہو جائے۔",
+      "جس شخص کو تجارت میں اکثر دھوکہ ہوتا ہو، اسے چاہیے کہ سودا کرتے وقت 'لا خلابہ' (کوئی دھوکہ فریب نہیں ہوگا) کہے تاکہ اسے شرعی تحفظ حاصل ہو۔"
+    ],
+    "english": [
+      "Both the buyer and the seller possess the right to cancel a transaction (Khiyar al-Majlis) as long as they have not yet physically separated from the place of the deal.",
+      "A sale becomes legally binding once both parties separate after agreeing, or if they explicitly grant each other the final option to settle while still together.",
+      "It is not permissible for one party to rush away from the other specifically to prevent them from exercising their right to cancel the transaction.",
+      "A person prone to being deceived in trade is advised to state 'No deception' (La khilabah) during the deal to secure their legal right to rescind if fraud is later discovered."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب سودے کی منسوخی کے اختیارات (خیارِ مجلس و شرط) اور تجارت میں دھوکہ دہی سے بچنے کے حفاظتی تدابیر کی وضاحت کرتا ہے۔",
+    "english": "This chapter details the options for rescinding a sale (Khiyar) and provides protective guidelines to prevent deception in business transactions."
   },
   "hadithRange": {
     "from": 692,

@@ -2,12 +2,28 @@
   "chapId": 32,
   "bookId": 4,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "زکوٰۃ کا مال داروں کے لیے حرام ہے، سوائے عاملین، مقروضین، مجاہدین اور مخصوص صورتوں کے۔",
+      "صحت مند اور کمانے کی صلاحیت رکھنے والے طاقتور آدمی کے لیے زکوٰۃ میں کوئی حصہ نہیں ہے۔",
+      "سوال کرنا صرف تین صورتوں (ضمانت کی ادائیگی، ناگہانی آفت، یا شدید فاقہ) میں جائز ہے، ورنہ یہ حرام خوری ہے۔",
+      "صدقہ و زکوٰۃ کا مال رسول اللہ ﷺ اور آلِ محمد کے لیے حلال نہیں کیونکہ یہ لوگوں کے مال کا میل کچیل ہے۔",
+      "بنو ہاشم اور بنو عبدالمطلب کو ایک ہی درجہ میں رکھا گیا ہے اور ان پر صدقہ ممنوع ہے۔",
+      "خاندانِ نبوت کے آزاد کردہ غلام بھی اسی حکم میں شامل ہیں، ان کے لیے بھی زکوٰۃ حلال نہیں ہے۔",
+      "جو مال بغیر مانگے اور بغیر لالچ کے مل جائے اسے قبول کر لینا چاہیے، لیکن اس کے پیچھے جی نہیں للچانا چاہیے۔"
+    ],
+    "english": [
+      "Zakat is unlawful for the wealthy except for collectors, debtors, warriors, and in specific gifting scenarios.",
+      "There is no share in Zakat for those who are physically strong and capable of earning a livelihood.",
+      "Begging is strictly restricted to three cases: heavy debt guarantees, natural calamities, or confirmed extreme poverty.",
+      "Charity is forbidden for the Prophet (ﷺ) and his family as it is considered the spiritual impurities of people's wealth.",
+      "Banu Hashim and Banu al-Muttalib are considered as one entity regarding the prohibition of receiving Zakat.",
+      "The legal status of freed slaves follows that of their masters; hence, Zakat is also unlawful for the Prophet's freed slaves.",
+      "Wealth that comes without asking or greed should be accepted, but one should not hanker after what is not given."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب زکوٰۃ کے مستحقین، مالداروں اور آلِ نبی ﷺ کے لیے اس کی ممانعت، اور سوال کرنے کے شرعی ضوابط کی وضاحت کرتا ہے۔",
+    "english": "This chapter defines the eligible recipients of Zakat, its prohibition for the wealthy and the Prophet's family, and the ethics of financial aid."
   },
   "hadithRange": {
     "from": 520,

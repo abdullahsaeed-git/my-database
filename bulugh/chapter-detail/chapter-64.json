@@ -2,12 +2,30 @@
   "chapId": 64,
   "bookId": 8,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "نکاح نوجوانوں کے لیے نگاہ کی حفاظت اور پاکدامنی کا بہترین ذریعہ ہے؛ استطاعت نہ ہونے کی صورت میں روزہ خواہشات کو قابو کرنے کا حل ہے۔",
+      "تجرد اور رہبانیت (شادی نہ کرنا) اسلام میں ناپسندیدہ ہے؛ نکاح انبیاء کی سنت اور امت کی کثرت کا باعث ہے۔",
+      "شریک حیات کے انتخاب میں حسن، مال اور خاندان کے مقابلے میں دینداری کو ترجیح دینا کامیابی کی ضمانت ہے۔",
+      "نکاح سے پہلے منگیتر کو ایک نظر دیکھ لینا مستحب ہے تاکہ مستقبل میں باہمی الفت پیدا ہو۔",
+      "ولی (سرپرست) کی اجازت کے بغیر نکاح باطل ہے؛ بیوہ یا طلاق یافتہ سے مشورہ اور کنواری سے اذن (خاموشی) لینا ضروری ہے۔",
+      "اسلام میں نکاحِ شغار (وٹہ سٹہ بغیر مہر)، نکاحِ متعہ (عارضی شادی) اور حلالہ (منصوبہ بندی کے تحت طلاق و نکاح) حرام ہیں۔",
+      "ایک مرد کے نکاح میں پھوپھی بھتیجی یا خالہ بھانجی کا ایک ساتھ ہونا شرعاً ممنوع ہے۔",
+      "تین طلاقوں کے بعد عورت پہلے شوہر کے لیے تب تک حلال نہیں ہوتی جب تک وہ دوسرے سے نکاح کر کے ازدواجی تعلق قائم نہ کر لے۔"
+    ],
+    "english": [
+      "Marriage is the primary means for youth to guard their gaze and chastity; those unable to afford it should fast to manage their desires.",
+      "Celibacy and monasticism are discouraged; marriage is a Prophetic Sunnah that contributes to the growth of the Ummah.",
+      "In choosing a spouse, prioritizing religious commitment over wealth, beauty, or lineage is the key to a blessed union.",
+      "It is recommended to see one's potential spouse before marriage to foster future affection and compatibility.",
+      "A marriage without a guardian's (Wali) consent is void; consulting a non-virgin and seeking a virgin's permission (implied by silence) is mandatory.",
+      "Islam strictly prohibits Shighar (exchange marriage without dower), Mut'ah (temporary marriage), and planned Tahallul (Halala).",
+      "It is forbidden for a man to be married to a woman and her paternal or maternal aunt simultaneously.",
+      "After three irrevocable divorces, a woman cannot remarry her first husband unless she marries another man and the marriage is consummated."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب نکاح کی فضیلت، انتخابِ شریک حیات کے معیار، ولی کی اہمیت، ممنوعہ نکاحوں کی اقسام اور پیغامِ نکاح کے آداب بیان کرتا ہے۔",
+    "english": "This chapter details the virtues of marriage, criteria for choosing a spouse, the role of the guardian (Wali), prohibited types of marriage, and the etiquette of proposals."
   },
   "hadithRange": {
     "from": 824,

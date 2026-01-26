@@ -2,12 +2,22 @@
   "chapId": 70,
   "bookId": 8,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "اسلام میں عورت کو یہ حق دیا گیا ہے کہ اگر وہ شوہر کے ساتھ گزارا نہ کر سکتی ہو تو خلع (علیحدگی) کا مطالبہ کر سکتی ہے۔",
+      "خلع کی صورت میں عورت پر لازم ہے کہ وہ شوہر سے لیا ہوا مہر (یا اس کے برابر مال) اسے واپس کر دے۔",
+      "خلع کے ذریعے ہونے والی علیحدگی کی عدت صرف ایک حیض ہے تاکہ رحم کی صفائی کا علم ہو سکے۔",
+      "اگر بیوی شوہر کے دین اور اخلاق سے مطمئن ہو لیکن فطری عدم مطابقت کی بنا پر ناشکری یا گناہ کا اندیشہ ہو، تب بھی خلع لیا جا سکتا ہے۔"
+    ],
+    "english": [
+      "In Islam, a woman is granted the right to seek Khula (annulment) if she finds it impossible to continue living with her husband.",
+      "In a Khula proceeding, the wife is required to return the dower (Mahr) or the property given by the husband as a settlement for the separation.",
+      "The waiting period (Iddah) for a woman who has obtained Khula is established as one menstrual cycle to ensure she is not pregnant.",
+      "A wife may seek Khula even if there is no defect in the husband's character or religion, provided she fears she cannot fulfill his rights or maintain the limits of Islam."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب خلع کی مشروعیت، اس کے مالی معاوضے (مہر کی واپسی) اور خلع لینے والی عورت کی عدت کے احکامات بیان کرتا ہے۔",
+    "english": "This chapter details the legality of Khula (divorce initiated by the wife), the financial compensation involved, and the prescribed waiting period (Iddah) for the woman."
   },
   "hadithRange": {
     "from": 914,

@@ -2,12 +2,30 @@
   "chapId": 93,
   "bookId": 12,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "جانور کو ذبح کرتے وقت 'بسم اللہ' پڑھنا ضروری ہے؛ تاہم اگر کوئی مسلمان بھول جائے تو اس کا ذبیحہ حلال ہے، بس کھانے سے پہلے اللہ کا نام لے لینا چاہیے۔",
+      "ذبح کرنے کے لیے ایسی دھار دار چیز (چھری، تیز پتھر وغیرہ) کا ہونا ضروری ہے جو خون بہا دے؛ دانت یا ناخن سے ذبح کرنا منع ہے۔",
+      "اسلام نے ذبح کرنے میں 'احسان' (نرمی) کا حکم دیا ہے؛ چھری خوب تیز کر لینی چاہیے تاکہ جانور کو کم سے کم تکلیف ہو۔",
+      "کسی بھی جاندار کو باندھ کر تڑپا کر مارنا یا اسے نشانہ بازی (Target practice) کے لیے استعمال کرنا سخت گناہ اور ممنوع ہے۔",
+      "شکار کے لیے چھوڑے گئے کتے یا مارے گئے تیر پر اللہ کا نام لینا ضروری ہے؛ اگر شکار کتے کے زخم یا تیر کی دھار سے مرا ہو تو حلال ہے، لیکن اگر چوٹ یا ڈوبنے سے مرا ہو تو حرام ہے۔",
+      "اگر ذبح شدہ جانور کے پیٹ سے بچہ نکلے تو ماں کا ذبح ہونا ہی اس کے بچے کے لیے کافی (حلال) ہے، اسے الگ سے ذبح کرنے کی ضرورت نہیں۔",
+      "شوقیہ طور پر کتا پالنا اجر و ثواب میں کمی کا باعث ہے، تاہم حفاظت (مویشی، فصل) اور شکار کے لیے کتا رکھنا جائز ہے۔",
+      "کھیل کود میں کنکریاں مارنا (خذف) منع ہے کیونکہ اس سے شکار نہیں ہوتا بلکہ کسی کا دانت یا آنکھ ضائع ہونے کا اندیشہ ہوتا ہے۔"
+    ],
+    "english": [
+      "Mentioning Allah's name (Bismillah) during slaughter is mandatory; however, if a Muslim forgets, the meat remains Halal, and they should mention Allah's name before eating.",
+      "The instrument of slaughter must be sharp enough to cause the blood to flow (like a knife or sharp stone); using teeth or nails is strictly forbidden.",
+      "Islam mandates 'Ihsan' (mercy) during slaughter; blades must be sharpened to ensure the animal experiences the least possible pain and distress.",
+      "Imprisoning an animal to kill it slowly or using any living creature as a target for marksmanship is a grave sin and strictly prohibited.",
+      "For hunting, Allah's name must be mentioned when releasing the dog or shooting the arrow; the prey is Halal if killed by the wound/edge, but Haram if killed by impact or drowning.",
+      "If a fetus is found inside a legally slaughtered animal, the slaughter of the mother suffices for the fetus, making it lawful for consumption.",
+      "Keeping a dog as a pet for leisure diminishes one's spiritual rewards, though it is permissible to keep them for specific purposes like guarding livestock, crops, or hunting.",
+      "Flinging small pebbles (Khadhf) is discouraged as it is ineffective for hunting and poses a risk of causing accidental injury to people, such as breaking teeth or blinding."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب ذبح کرنے کے مسنون طریقے، شکار کے شرعی ضوابط، جانوروں کے ساتھ نرمی برتنے اور شکاری کتوں کے احکامات کو بیان کرتا ہے۔",
+    "english": "This chapter details the Prophetic methods of slaughter, the legal regulations for hunting, the obligation of mercy toward animals, and rulings regarding hunting dogs."
   },
   "hadithRange": {
     "from": 1147,

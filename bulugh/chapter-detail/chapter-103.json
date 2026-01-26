@@ -2,12 +2,30 @@
   "chapId": 103,
   "bookId": 16,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "صلہ رحمی (رشتہ داروں سے حسنِ سلوک) رزق میں برکت اور عمر میں درازی کا باعث ہے، جبکہ رشتہ داری توڑنے والا جنت سے محروم رہے گا۔",
+      "اللہ کی خوشنودی والدین کی خوشنودی میں ہے؛ ماؤں کی نافرمانی اور ان کے حقوق کی پامالی کو اللہ نے حرام قرار دیا ہے۔",
+      "بہترین مومن وہ ہے جو اپنے بھائی یا پڑوسی کے لیے بھی وہی پسند کرے جو اپنے لیے کرتا ہے۔",
+      "معاشرتی اخلاقیات میں پڑوسیوں کا خیال رکھنا (جیسے کھانے میں ان کا حصہ نکالنا) اور دوسروں کی پردہ پوشی کرنا شامل ہے۔",
+      "کسی بھی نیکی کو حقیر نہیں سمجھنا چاہیے، یہاں تک کہ اپنے بھائی سے مسکرا کر ملنا اور کسی کو نیکی کا راستہ دکھانا بھی عظیم اجر کا باعث ہے۔",
+      "کبیرہ گناہوں میں اللہ کے ساتھ شرک کرنا، اولاد کو معاشی ڈر سے قتل کرنا، پڑوسی کی اہلیہ سے بدکاری کرنا اور والدین کو (بالواسطہ یا بلاواسطہ) گالی دینا شامل ہیں۔",
+      "مسلمانوں کے درمیان ناراضگی کی صورت میں تین دن سے زیادہ قطع تعلقی جائز نہیں؛ پہل کر کے سلام کرنے والا اللہ کے نزدیک بہتر ہے۔",
+      "جو شخص کسی تنگ دست کے لیے آسانی پیدا کرتا ہے یا کسی کی دنیاوی مصیبت دور کرتا ہے، اللہ تعالیٰ دنیا اور آخرت میں اس کی مشکلیں آسان فرماتا ہے۔"
+    ],
+    "english": [
+      "Maintaining good ties with kinship (Silah ar-Rahim) increases one's sustenance and prolongs life, while severing these ties is a cause for exclusion from Paradise.",
+      "Divine pleasure is tied to the pleasure of parents; being undutiful to mothers and violating their rights is strictly forbidden by Allah.",
+      "True faith is characterized by loving for one's neighbor or brother what one loves for oneself.",
+      "Social ethics in Islam emphasize caring for neighbors—such as sharing food—and protecting the privacy and honor of other Muslims.",
+      "No good deed should be belittled; even meeting a brother with a cheerful face or guiding someone toward a virtuous act earns immense rewards.",
+      "Major sins (Kaba'ir) include associating partners with Allah, infanticide due to fear of poverty, committing adultery with a neighbor's wife, and insulting one's parents.",
+      "A Muslim is not permitted to remain estranged from another for more than three days; the one who initiates the greeting (Salam) is superior in the sight of Allah.",
+      "Whoever alleviates the hardship of a needy person or removes a worldly grief from a believer will have Allah alleviate their hardships in both this world and the Hereafter."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب صلہ رحمی کی اہمیت، والدین اور پڑوسیوں کے حقوق، باہمی ہمدردی، اور کبیرہ گناہوں کی ممانعت کے ذریعے مثالی کردار سازی کی تعلیم دیتا ہے۔",
+    "english": "This chapter teaches character building through the importance of kinship ties, the rights of parents and neighbors, mutual compassion, and the prohibition of major sins."
   },
   "hadithRange": {
     "from": 1252,

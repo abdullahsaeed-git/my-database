@@ -2,12 +2,24 @@
   "chapId": 85,
   "bookId": 10,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "کسی پاک دامن شخص پر زنا کی جھوٹی تہمت لگانا (قذف) کبیرہ گناہ ہے، جس کی سزا قرآن و سنت کی روشنی میں 80 کوڑے مقرر ہے۔",
+      "اگر کوئی شخص گواہوں کے بغیر کسی پر زنا کا الزام لگائے، تو وہ خود حدِ قذف (سزائے تہمت) کا مستحق قرار پاتا ہے، جیسا کہ واقعہ افک میں ملوث افراد پر حد لگائی گئی۔",
+      "الزام لگانے والے کے پاس یا تو چار عادل گواہ ہونے چاہئیں یا پھر اسے اپنی پیٹھ پر کوڑے کھانے کے لیے تیار رہنا چاہیے۔",
+      "غلاموں کے لیے حدِ قذف آزاد شخص کے مقابلے میں آدھی، یعنی 40 کوڑے ہے، جیسا کہ خلفائے راشدین کے عمل سے ثابت ہے۔",
+      "اپنے ماتحت غلاموں یا لونڈیوں پر بھی جھوٹی تہمت لگانا ممنوع ہے؛ دنیا میں سزا نہ ملنے کی صورت میں ایسے مالک پر قیامت کے دن حد قائم کی جائے گی۔"
+    ],
+    "english": [
+      "Slandering a chaste person (Qadhf) is a major sin, and Islamic law prescribes a penalty of 80 lashes for the slanderer.",
+      "If a person accuses someone of adultery without the required proof, they become liable for the penalty of slander, as demonstrated by the punishment of those involved in the slander against Aisha (RA).",
+      "An accuser must either produce four upright witnesses or face the corporal punishment of lashes on their back.",
+      "The legal penalty for a slave who commits slander is half of that for a free person—forty lashes—as practiced by the Rightly Guided Caliphs.",
+      "False accusations against one's own slaves are strictly forbidden; if a master is not punished in this world, the legal penalty (Hadd) will be established against him on the Day of Resurrection."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب قذف (زنا کی تہمت) کی شرعی سزا، ثبوت کی ضرورت، اور غلاموں و مالکان سے متعلق اس کے مخصوص احکامات کو بیان کرتا ہے۔",
+    "english": "This chapter details the prescribed legal penalty for Qadhf (slanderous accusation of adultery), the necessity of proof, and specific rulings concerning slaves and masters."
   },
   "hadithRange": {
     "from": 1049,

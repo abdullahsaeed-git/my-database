@@ -2,12 +2,30 @@
   "chapId": 80,
   "bookId": 9,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "انسانی جان کی دیت (خون بہا) کی بنیادی مقدار 100 اونٹ یا نقد کی صورت میں 1000 دینار (سونا) یا 12000 درہم (چاندی) مقرر ہے۔",
+      "جسمانی اعضاء کے نقصان پر دیت کے واضح ضوابط ہیں: ناک، زبان، دونوں آنکھوں، یا ریڑھ کی ہڈی کے مکمل ضیاع پر پوری دیت (100 اونٹ) لازم ہے۔",
+      "اعضاء کی دیت ان کی اہمیت کے مطابق ہے، مثلاً ایک پاؤں پر آدھی دیت، ہر انگلی پر 10 اونٹ اور ہر دانت پر 5 اونٹ دیت دی جائے گی۔",
+      "زخموں کی نوعیت کے اعتبار سے بھی دیت مقرر ہے، جیسے ہڈی نظر آنے والے زخم (موضحہ) پر 5 اونٹ اور دماغ تک پہنچنے والے زخم پر تہائی دیت لازم ہے۔",
+      "قتلِ خطا (غیر ارادی قتل) میں دیت کو پانچ اقسام کے اونٹوں میں تقسیم کیا گیا ہے تاکہ ادائیگی میں آسانی رہے۔",
+      "غیر قانونی طبی پریکٹس کرنے والا شخص (جسے طب کا علم نہ ہو) اگر مریض کو نقصان پہنچائے یا اس کی موت کا سبب بنے، تو وہ مالی طور پر ضامن (ذمہ دار) ہوگا۔",
+      "اسلامی ریاست میں غیر مسلم شہریوں (ذمی/معاہد) کی دیت مسلمان کی دیت کے مقابلے میں نصف (آدھی) مقرر ہے۔",
+      "اسلام میں انفرادی ذمہ داری کا اصول ہے؛ باپ کے جرم کی سزا بیٹے کو نہیں ملے گی اور نہ بیٹے کے جرم کا ذمہ دار باپ ہوگا۔"
+    ],
+    "english": [
+      "The standard blood-money (Diyat) for a human life is fixed at 100 camels, or its monetary equivalent of 1,000 gold Dinars or 12,000 silver Dirhams.",
+      "Specific physical losses carry full Diyat (100 camels), including the loss of the nose (if completely cut), the tongue, both eyes, the genitals, or the backbone.",
+      "Compensation for limbs and digits is proportionate: half Diyat for one foot, 10 camels for each finger or toe, and 5 camels for each tooth.",
+      "Wounds are categorized for compensation: a wound exposing the bone (Mudihah) requires 5 camels, while deep wounds reaching the brain or stomach require one-third of the total Diyat.",
+      "In cases of accidental homicide, the 100 camels are distributed across five age categories to facilitate payment.",
+      "An unqualified individual practicing medicine without knowledge is held financially liable (Damin) for any death or physical harm caused to a patient.",
+      "The Diyat for a non-Muslim citizen under state protection (Dhimmi/Mu'ahid) is established as half the amount of a Muslim's Diyat.",
+      "Islam enforces the principle of individual legal responsibility: a father is not held liable for his son's crimes, nor is a son punished for the offenses of his father."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب انسانی جان اور جسمانی اعضاء کے نقصان کے بدلے ادا کیے جانے والے مالی معاوضے (دیت) کے تفصیلی پیمانے اور طبابت کی ذمہ داریوں کو بیان کرتا ہے۔",
+    "english": "This chapter details the specific scales of financial compensation (Diyat) for the loss of life and bodily organs, as well as legal liability in medical practice."
   },
   "hadithRange": {
     "from": 1009,

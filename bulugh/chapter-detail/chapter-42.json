@@ -2,12 +2,50 @@
   "chapId": 42,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "بہترین کمائی وہ ہے جو انسان اپنے ہاتھ کی محنت سے کرے اور وہ تجارت جو سچائی اور دیانت پر مبنی ہو۔",
+      "شراب، مردار، خنزیر اور بتوں کی خرید و فروخت مکمل طور پر حرام ہے، یہاں تک کہ مردار کی چربی بیچنا بھی ناجائز ہے۔",
+      "خرید و فروخت میں اختلاف کی صورت میں اگر گواہ نہ ہوں تو بیچنے والے کی بات مانی جائے گی یا سودا ختم کر دیا جائے گا۔",
+      "کتے کی قیمت، بدکاری کی کمائی اور نجومیوں کے نذرانے لینا اسلام میں ممنوع ہے۔",
+      "تجارت میں خریدار اپنی ضرورت کے مطابق جائز شرائط (جیسے سواری کی واپسی تک استعمال) طے کر سکتا ہے۔",
+      "کھانے پینے کی مائع چیز میں چوہا گر کر مر جائے تو وہ ناپاک ہو جاتی ہے، البتہ ٹھوس چیز سے متاثرہ حصہ نکال کر باقی استعمال کیا جا سکتا ہے۔",
+      "ایسی شرائط جو کتاب اللہ کے خلاف ہوں وہ باطل ہیں، چاہے وہ تعداد میں کتنی ہی زیادہ کیوں نہ ہوں۔",
+      "پانی کی ضرورت سے زائد مقدار، جانوروں کی جفتی کا معاوضہ اور آزاد کردہ غلام کی وراثت کا حق بیچنا منع ہے۔",
+      "دھوکے کی تجارت (غرر) جیسے پانی میں مچھلی، ہوا میں پرندہ، یا کنکری پھینک کر سودا کرنا حرام ہے۔",
+      "غلہ خریدنے کے بعد اسے قبضے میں لینے اور ناپ تول کرنے سے پہلے آگے فروخت کرنا جائز نہیں ہے۔",
+      "ایک سودے میں دو قیمتیں یا دو مختلف شرطیں لگانا، اور اس چیز کا نفع لینا جس کا نقصان آپ کے ذمہ نہ ہو، منع ہے۔",
+      "بیع عربان (ایسا بیعانہ جو سودا ختم ہونے پر ضبط کر لیا جائے) سے نبی ﷺ نے منع فرمایا ہے۔",
+      "مصنوعی طور پر بولی بڑھانا (نجش)، بھائی کے سودے پر سودا کرنا اور ذخیرہ اندوزی (احتکار) کرنا گناہ ہے۔",
+      "منڈی آنے والے تجارتی قافلوں کو راستے میں مل کر سستے داموں مال خریدنا منع ہے تاکہ دیہاتیوں کو منڈی کا بھاؤ معلوم ہو سکے۔",
+      "جانوروں کا دودھ تھنوں میں روک کر زیادہ دکھانا دھوکہ دہی ہے، خریدار کو ایسا سودا واپس کرنے کا حق حاصل ہے۔",
+      "تجارت میں ملاوٹ اور عیب چھپانا سخت ناپسندیدہ ہے؛ جس نے دھوکہ دیا اس کا اسلام سے تعلق نہیں۔",
+      "پھلوں اور فصلوں کو پکنے اور کارآمد ہونے سے پہلے فروخت کرنا منع ہے۔",
+      "کسی مجبوری کی بنا پر سودا منسوخ کرنے کی درخواست قبول کرنا عظیم ثواب اور گناہوں کی معافی کا ذریعہ ہے۔"
+    ],
+    "english": [
+      "The purest earning is from a person's manual labor and honest, transparent business transactions.",
+      "The sale of intoxicants, carcasses, swine, and idols is strictly forbidden, including the commercial use of forbidden animal fats.",
+      "In trade disputes without evidence, the seller's statement is prioritized, or the deal must be rescinded.",
+      "Money gained from selling dogs, prostitution, or soothsaying is prohibited in Islamic law.",
+      "Legitimate conditions in a sale, such as temporary use of a sold animal for transport, are permissible if agreed upon.",
+      "Food hygiene is essential: solid fats contaminated by a pest can be salvaged by removing the affected area, but liquids must be discarded.",
+      "Any contractual condition that contradicts the Book of Allah is invalid, regardless of its prevalence.",
+      "Selling excess water, charging for animal breeding services, or trading the inheritance rights of a freed slave is forbidden.",
+      "Transactions involving excessive uncertainty (Gharar), such as selling fish in water or using chance-based stoning (Hasah), are prohibited.",
+      "Acquired grains or commodities must be measured and taken into physical possession before being resold.",
+      "Combining two deals into one, setting dual prices for a single item, or profiting from un-guaranteed goods is disallowed.",
+      "The 'Arban sale, where the down payment is confiscated if the deal falls through, was forbidden by the Prophet (ﷺ).",
+      "Artificially inflating prices (Najsh), outbidding a fellow Muslim's offer, and monopolistic hoarding (Ihtikar) are sinful acts.",
+      "Intercepting caravans outside the city to buy goods before they reach the open market is prohibited to ensure fair pricing for sellers.",
+      "Deceptive practices like withholding milk in cattle udders (Tasriyah) to fool buyers are forbidden; the buyer retains the right to rescind.",
+      "Adulteration and concealing defects are strictly condemned; whoever deceives is not considered following the Prophetic way.",
+      "Selling fruits or crops before they are ripe and clearly fit for consumption is prohibited to avoid financial risk.",
+      "Granting a request to cancel a sale (Iqalah) out of compassion is a virtuous act that leads to divine forgiveness."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب تجارت کے اخلاقی و قانونی ضوابط، حلال و حرام کمائی، دھوکہ دہی کی مختلف صورتوں کی ممانعت اور سودوں کی منسوخی کے احکامات پر مشتمل ہے۔",
+    "english": "This chapter covers the ethical and legal frameworks of commerce, permissible earnings, prohibitions on deceptive trades, and the merits of rescinding transactions."
   },
   "hadithRange": {
     "from": 648,

@@ -2,12 +2,28 @@
   "chapId": 3,
   "bookId": 1,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "شراب کو جان بوجھ کر سرکہ میں تبدیل کرنا جائز نہیں کیونکہ ناپاک چیز کو حیلے سے پاک بنانا منع ہے۔",
+      "گھریلو گدھوں کا گوشت حرام ہے اور شریعت نے اسے ناپاک اور ممنوع قرار دیا ہے۔",
+      "سواری کے جانور کا لعاب بذاتِ خود ناپاک نہیں ہوتا اور اس سے کپڑا ناپاک نہیں ہوتا۔",
+      "منی اگر گیلی ہو تو دھونا اور اگر خشک ہو تو کھرچ دینا کافی ہے، اس سے کپڑا پاک ہو جاتا ہے۔",
+      "دودھ پینے والے لڑکے کے پیشاب پر صرف چھینٹے مارنا کافی ہے جبکہ لڑکی کے پیشاب کو دھونا لازم ہے۔",
+      "حیض کا خون کپڑے سے پہلے کھرچ کر، پھر دھو کر اور پانی بہا کر پاک کیا جاتا ہے۔",
+      "اگر حیض کے خون کا نشان باقی رہ جائے تو محض پانی کافی ہے اور باقی نشان شرعاً مضر نہیں۔"
+    ],
+    "english": [
+      "Intentionally converting wine into vinegar is not permissible, as impurity cannot be made lawful through deliberate manipulation.",
+      "The meat of domesticated donkeys is forbidden, as Islamic law declares it impure and unlawful.",
+      "The saliva of riding animals is not inherently impure and does not render clothing impure.",
+      "If semen is wet it should be washed, and if dry it may be scraped off, thereby purifying the garment.",
+      "Sprinkling water suffices for a baby boy’s urine, whereas washing is required for a baby girl’s urine.",
+      "Menstrual blood is purified by scraping, washing, and rinsing the affected area of the garment.",
+      "If a stain remains after washing menstrual blood, water alone suffices and the trace causes no harm."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب ناپاک اشیاء، حیض و منی کے احکام، جانوروں کی نجاست، اور کپڑوں کی شرعی طہارت کے عملی اصول بیان کرتا ہے۔",
+    "english": "This chapter explains rulings on impurities, menstrual blood, semen, animal-related impurities, and practical Islamic methods for purifying garments."
   },
   "hadithRange": {
     "from": 22,

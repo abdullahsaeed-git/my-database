@@ -2,12 +2,26 @@
   "chapId": 23,
   "bookId": 2,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "دورانِ جنگ پہلے گروہ کو ایک رکعت پڑھا کر امام کا قیام کرنا اور مقتدیوں کا اپنی نماز خود مکمل کرنا ثابت ہے۔",
+      "امام دو گروہوں کو باری باری ایک ایک رکعت پڑھا کر سلام پھیرتا ہے اور مقتدی اپنی نماز بعد میں مکمل کرتے ہیں۔",
+      "اگر دشمن قبلہ رخ ہو تو امام دو صفیں بنا کر ایک ساتھ رکوع کرتا ہے لیکن سجدے باری باری کیے جاتے ہیں۔",
+      "شدید حالات میں امام کا دونوں گروہوں کو صرف ایک ایک رکعت پڑھانا اور اس پر اکتفا کرنا بھی منقول ہے۔",
+      "نمازِ خوف کے بارے میں ایک رائے یہ بھی ہے کہ یہ کسی بھی صورت میں صرف ایک رکعت ہے (ضعیف روایت)۔",
+      "جنگ کی غیر معمولی حالت کے پیش نظر نمازِ خوف میں بھول چوک پر سجدہ سہو نہیں ہے (ضعیف روایت)۔"
+    ],
+    "english": [
+      "The Imam may lead one group in one unit while he remains standing for them to finish before the second group joins.",
+      "The Imam leads two groups in one unit each, concluding with one Taslim while followers complete their units individually.",
+      "If the enemy is toward the Qiblah, rows prostrate alternately to maintain a constant watch while following the Imam.",
+      "In specific circumstances, the Prophet (ﷺ) led each group in only one unit without them adding more to it.",
+      "There is a narrated opinion stating that the Fear Prayer consists of only one unit regardless of the method (weak report).",
+      "Due to the intense nature of battle, some reports suggest there is no prostration of forgetfulness in this prayer (weak report)."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب دشمن کے خوف اور جنگی حالات میں نماز ادا کرنے کے مختلف مسنون طریقوں اور ان میں دی گئی سہولتوں کی وضاحت کرتا ہے۔",
+    "english": "This chapter details the various Prophetic methods and concessions for performing prayer during states of fear, conflict, and active battle."
   },
   "hadithRange": {
     "from": 379,

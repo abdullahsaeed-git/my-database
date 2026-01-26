@@ -2,12 +2,28 @@
   "chapId": 57,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "غیر مملوکہ یا بنجر زمین کو آباد کرنے والا اس کی ملکیت کا زیادہ حقدار ہے، بشرطیکہ وہ پہلے سے کسی اور کی ملکیت نہ ہو۔",
+      "بنجر زمین کے گرد دیوار بنانا یا اسے گھیر لینا شرعی طور پر ملکیت کے حصول کا ایک طریقہ تسلیم کیا گیا ہے۔",
+      "چراگاہوں کو عوامی استعمال سے روک کر صرف اپنی ذات کے لیے مخصوص کرنا جائز نہیں، یہ حق صرف اللہ اور اس کے رسول (ریاست) کو حاصل ہے۔",
+      "اسلامی معاشرت کا اصول ہے کہ نہ کسی کو نقصان پہنچایا جائے اور نہ ہی نقصان کا بدلہ حد سے تجاوز کر کے دیا جائے۔",
+      "کنواں کھودنے والا اس کے ارد گرد ایک مخصوص رقبے (چالیس ہاتھ) کا حقدار ہے تاکہ وہ اپنے جانوروں کو وہاں آرام کرا سکے۔",
+      "حاکمِ وقت کسی شخص کی خدمات یا ضرورت کے پیشِ نظر اسے سرکاری زمین میں سے جاگیر (اقطاع) عطا کر سکتا ہے۔",
+      "تین بنیادی اشیاء یعنی پانی، آگ اور چراگاہ کی گھاس عوامی ملکیت ہیں جن میں تمام انسان برابر کے شریک ہیں۔"
+    ],
+    "english": [
+      "Whoever cultivates or brings life to a 'dead' (waste/unowned) land gains the primary right of ownership over it.",
+      "Constructing a wall or a boundary around unowned land is recognized as a legitimate means of establishing ownership.",
+      "The reservation of public pastures (Hima) for private use is prohibited; such protective reserves are only for public welfare as designated by the state.",
+      "A fundamental legal maxim in Islam is: 'There should be no harming nor reciprocating of harm.'",
+      "A person who digs a well in waste land is entitled to a surrounding area (forty cubits) to facilitate the resting and watering of livestock.",
+      "The head of state has the authority to allot land (Iqta') to individuals as a grant for their services or to encourage development.",
+      "Three essential resources—water, fire (fuel), and pasture—are considered communal property in which all people are partners."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب بنجر زمینوں کو آباد کرنے کے شرعی طریقوں، عوامی وسائل (پانی، گھاس) میں شراکت داری اور ریاست کی طرف سے زمین کی الاٹمنٹ کے ضوابط بیان کرتا ہے۔",
+    "english": "This chapter outlines the legal methods for reclaiming waste lands, the shared ownership of communal resources like water and pasture, and the protocols for land grants by the state."
   },
   "hadithRange": {
     "from": 776,

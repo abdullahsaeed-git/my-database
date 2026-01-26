@@ -2,12 +2,34 @@
   "chapId": 36,
   "bookId": 6,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "ایک عمرہ کے بعد دوسرا عمرہ درمیان کے گناہوں کا کفارہ ہے، اور حج مبرور کا صلہ صرف جنت ہے۔",
+      "خواتین کے لیے حج اور عمرہ وہ بہترین جہاد ہے جس میں لڑائی اور قتال شامل نہیں۔",
+      "حج زندگی میں صرف ایک بار فرض ہے، اس سے زائد جتنی بار بھی کیا جائے وہ نفل شمار ہوگا۔",
+      "حج کی فرضیت کے لیے 'سبیل' (استطاعت) سے مراد سفر کے اخراجات (زادِ راہ) اور سواری کا میسر ہونا ہے۔",
+      "نابالغ بچوں کا حج کرنا بھی شرعاً ثابت ہے، جس کا اجر بچے اور اس کے والدین دونوں کو ملتا ہے۔",
+      "بڑھاپے یا شدید معذوری کی وجہ سے سفر نہ کر سکنے والے کی طرف سے اس کا ولی حج کر سکتا ہے۔",
+      "فوت ہو جانے والے والدین یا عزیزوں کی طرف سے ان کے ذمے واجب الادا حج (نذرانہ یا فرض) کرنا اولاد پر لازم ہے۔",
+      "بچپن یا غلامی میں کیا گیا حج فرض حج کے قائم مقام نہیں ہوتا؛ بلوغت یا آزادی کے بعد دوبارہ حج کرنا ہوگا۔",
+      "عورت کے لیے محرم کے بغیر حج یا کسی بھی لمبے سفر پر نکلنا شرعاً ممنوع ہے۔",
+      "دوسروں کی طرف سے حجِ بدل کرنے کے لیے شرط ہے کہ انسان پہلے اپنا ذاتی فرض حج ادا کر چکا ہو۔"
+    ],
+    "english": [
+      "Performing consecutive Umrahs expiates sins committed in between, and an accepted Hajj leads directly to Paradise.",
+      "For women, Hajj and Umrah are regarded as the best forms of Jihad, as they involve spiritual struggle without combat.",
+      "Hajj is an obligatory duty only once in a lifetime; any subsequent pilgrimages are considered voluntary acts.",
+      "The Quranic requirement of 'capability' for Hajj refers specifically to having sufficient provisions and means of transport.",
+      "Hajj performed by children is valid and rewardable, though it does not exempt them from their adult obligation.",
+      "If a person is too old or frail to mount a camel or vehicle, their child or guardian may perform Hajj on their behalf.",
+      "Heirs are encouraged to fulfill the Hajj vows or obligations of their deceased relatives, just as they would settle financial debts.",
+      "A pilgrimage performed during childhood or slavery must be repeated once the individual reaches maturity or freedom.",
+      "It is mandatory for a woman to be accompanied by a Mahram (legal male guardian) for Hajj and all long-distance travel.",
+      "One cannot perform Hajj on behalf of another (Hajj-al-Badal) until they have first completed their own obligatory Hajj."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب حج اور عمرہ کی فضیلت، ان کے وجوب کی شرائط، خواتین کے لیے احکامات اور حجِ بدل کے ضوابط بیان کرتا ہے۔",
+    "english": "This chapter details the virtues of Hajj and Umrah, the conditions of their obligation, specific rulings for women, and the protocols for performing Hajj on behalf of others."
   },
   "hadithRange": {
     "from": 579,

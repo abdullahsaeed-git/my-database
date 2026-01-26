@@ -2,12 +2,30 @@
   "chapId": 105,
   "bookId": 16,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "حسد ایک مہلک روحانی بیماری ہے جو نیکیوں کو اس طرح ختم کر دیتی ہے جیسے آگ لکڑی کو جلا دیتی ہے۔",
+      "حقیقی بہادری جسمانی طاقت میں نہیں، بلکہ غصے کے وقت اپنے جذبات اور زبان پر قابو پانے میں ہے۔",
+      "ظلم قیامت کے دن اندھیروں کا باعث بنے گا؛ کسی کا حق مارنا یا کسی پر زیادتی کرنا اللہ کے غضب کو دعوت دینا ہے۔",
+      "ریاکاری (دکھاوا) 'شرکِ اصغر' ہے، جس سے اعمال برباد ہو جاتے ہیں۔",
+      "منافق کی چار اہم نشانیاں ہیں: جھوٹ بولنا، وعدہ خلافی کرنا، امانت میں خیانت کرنا اور جھگڑے کے وقت گالی گلوچ پر اتر آنا۔",
+      "بدگمانی، چغل خوری، غیبت اور دوسروں کے عیب تلاش کرنا حرام ہے؛ مومن کو چاہیے کہ وہ دوسروں کے بجائے اپنے عیبوں کی اصلاح میں مگن رہے۔",
+      "مسلمان کو گالی دینا گناہ اور اسے قتل کرنا کفر کے برابر عمل ہے؛ اسی طرح فوت شدگان کو برا بھلا کہنے سے سختی سے روکا گیا ہے۔",
+      "اللہ تعالیٰ کو وہ شخص سخت ناپسند ہے جو بہت زیادہ جھگڑالو ہو یا جو دوسروں کو ہنسانے کے لیے جھوٹ کا سہارا لے۔"
+    ],
+    "english": [
+      "Envy (Hasad) is a destructive spiritual ailment that consumes one's good deeds just as fire consumes dry wood.",
+      "True strength is not measured by physical dominance or wrestling ability, but by the capacity to exercise self-control during moments of intense anger.",
+      "Injustice (Zulm) is strictly forbidden and will manifest as multi-layered darkness for the oppressor on the Day of Resurrection.",
+      "Ostentation (Riya) is categorized as 'lesser Shirk' (polytheism); performing acts of worship to show off to people invalidates the spiritual reward.",
+      "The hallmarks of a hypocrite include lying, breaking promises, betraying trusts, and resorting to foul language or obscenity during disputes.",
+      "Prohibited social behaviors include harboring baseless suspicion, backbiting, tale-bearing, and spying; a believer should prioritize rectifying their own flaws over seeking those of others.",
+      "Abusing a fellow Muslim is an act of disobedience (Fusuq), and engaging in mutual killing is an act of disbelief (Kufr); furthermore, insulting the deceased is forbidden as they have moved on to their reckoning.",
+      "Allah detests individuals who are excessively quarrelsome or those who resort to falsehood and lies simply to entertain others or make them laugh."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب ان برے اخلاق اور قبیح عادات (جیسے حسد، ظلم، جھوٹ، غیبت اور تکبر) کی نشاندہی کرتا ہے جو ایک مسلمان کے ایمان کو کمزور اور اس کے معاشرتی وقار کو ختم کر دیتی ہیں۔",
+    "english": "This chapter identifies the blameworthy traits and evil ethics—such as envy, injustice, lying, backbiting, and arrogance—that weaken a Muslim's faith and destroy their social standing."
   },
   "hadithRange": {
     "from": 1277,

@@ -2,12 +2,30 @@
   "chapId": 102,
   "bookId": 16,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "مسلمانوں کے باہمی چھ حقوق ہیں: سلام کرنا، دعوت قبول کرنا، خیر خواہی کرنا، چھینک کا جواب دینا، عیادت کرنا اور جنازے میں شرکت کرنا۔",
+      "قناعت اور شکر گزاری پیدا کرنے کے لیے دنیاوی معاملات میں ہمیشہ اپنے سے کم تر لوگوں کی طرف دیکھنا چاہیے تاکہ اللہ کی نعمتوں کی قدر ہو۔",
+      "نیکی اچھے اخلاق کا نام ہے، جبکہ گناہ وہ ہے جو انسان کے دل میں کھٹکے اور وہ چاہے کہ لوگ اس پر مطلع نہ ہوں۔",
+      "مجلس کے آداب میں شامل ہے کہ کسی کو اس کی جگہ سے اٹھا کر خود نہ بیٹھیں، اور اگر تین افراد ہوں تو دو آپس میں سرگوشی نہ کریں تاکہ تیسرا غمگین نہ ہو۔",
+      "کھانے پینے کے آداب میں دائیں ہاتھ کا استعمال، بیٹھ کر پینا اور برکت کے لیے انگلیاں چاٹنا مسنون ہے۔",
+      "لباس اور رہن سہن میں سادگی اختیار کرنی چاہیے؛ ٹخنوں سے نیچے کپڑا لٹکانا اور ایک جوتا پہن کر چلنا تکبر کی علامت ہے جس سے منع کیا گیا ہے۔",
+      "سلام کرنے میں پہل کرنے کی ترتیب یہ ہے: چھوٹا بڑے کو، چلنے والا بیٹھے ہوئے کو، سوار پیدل کو اور تھوڑے لوگ زیادہ لوگوں کو سلام کریں۔",
+      "ہر جائز کام (کھانے، پینے، پہننے اور صدقہ کرنے) میں اسراف (فضول خرچی) اور فخر و غرور سے بچنا لازمی ہے۔"
+    ],
+    "english": [
+      "A Muslim has six fundamental rights over another: greeting with Salam, accepting invitations, giving sincere advice, responding to sneezes, visiting the sick, and attending funerals.",
+      "To cultivate gratitude, one should look at those less fortunate in worldly matters, preventing the disparagement of Allah's blessings.",
+      "Righteousness is defined by good character, while sin is identified by a restless conscience and a desire to keep the act hidden from others.",
+      "Social etiquette forbids displacing someone from their seat or two people whispering privately in the presence of a third to avoid causing them distress.",
+      "Sunnah eating habits include using the right hand, drinking while seated, and licking fingers after a meal to ensure no blessing is wasted.",
+      "Personal appearance should reflect humility; trailing garments out of pride or walking with only one shoe is prohibited as it manifests arrogance.",
+      "The hierarchy of greeting is: the younger greets the elder, the passerby greets the seated, the rider greets the walker, and the smaller group greets the larger.",
+      "Moderation is key in all aspects of life; eating, drinking, dressing, and giving charity must be free from extravagance and vanity."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب اسلامی معاشرت کے بنیادی آداب، باہمی حقوق، اچھے اخلاق کی تعریف، اور روزمرہ زندگی (کھانے پینے، پہننے اور ملنے جلنے) کے مسنون طریقوں کو بیان کرتا ہے۔",
+    "english": "This chapter details fundamental Islamic social etiquettes, mutual rights between believers, the definition of good character, and Sunnah methods for daily activities such as eating, dressing, and socializing."
   },
   "hadithRange": {
     "from": 1236,

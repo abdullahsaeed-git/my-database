@@ -2,12 +2,26 @@
   "chapId": 82,
   "bookId": 9,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "مسلمانوں کے خلاف ہتھیار اٹھانا اور مسلم ریاست کے خلاف بغاوت کرنا سنگین گناہ ہے؛ ایسا کرنے والا مسلمانوں کے راستے پر نہیں ہے۔",
+      "مسلم حکمران کی جائز اطاعت سے نکلنا اور جماعت سے علیحدگی اختیار کرنا جاہلیت کی موت مرنے کے مترادف ہے۔",
+      "ریاست میں امن و امان برقرار رکھنے کے لیے باغی گروہ کی سرکوبی ضروری ہے، جیسا کہ حضرت عمار بن یاسرؓ کے متعلق پیشگوئی کی گئی تھی۔",
+      "باغیوں سے نمٹنے کے اسلامی ضوابط میں یہ شامل ہے کہ ان کے زخمیوں کو قتل نہ کیا جائے، قیدیوں کو جان سے نہ مارا جائے، اور بھاگنے والوں کا تعاقب نہ کیا جائے۔",
+      "باغیوں کا مال 'مالِ غنیمت' نہیں کہلائے گا، اس لیے اسے جنگی سپاہیوں میں تقسیم کرنا جائز نہیں۔",
+      "اگر امت کسی ایک حکمران پر متفق ہو اور کوئی نیا شخص آ کر تفرقہ پیدا کرنے یا ریاست کے ٹکڑے کرنے کی کوشش کرے، تو فتنہ روکنے کے لیے اس کے خلاف سخت ترین کارروائی (قتل) کا حکم دیا گیا ہے۔"
+    ],
+    "english": [
+      "Taking up arms against Muslims or rebelling against a legitimate Muslim state is a grave sin; those who do so distance themselves from the Prophetic way.",
+      "Defecting from the obedience of a rightful leader and separating from the unified Muslim community is equated to dying the death of the days of ignorance (Jahiliyyah).",
+      "Suppressing rebellion is necessary to maintain state stability, as indicated by the Prophetic warning regarding the rebellious group that would kill Ammar bin Yasir (RA).",
+      "Islamic rules of engagement with rebels (Ahl al-Baghy) stipulate that their wounded must not be finished off, their captives must not be executed, and those fleeing the battlefield should not be pursued.",
+      "The property of rebels is not considered war booty (Ghanimah); therefore, it cannot be distributed among the soldiers.",
+      "If the Ummah is united under one leader and someone emerges to sow discord or dismantle that unity, the state is authorized to take terminal action (execution) against them to prevent widespread fitnah."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب مسلمانوں کے خلاف بغاوت (خروج) کی ممانعت، باغیوں سے نمٹنے کے شرعی آداب اور وحدتِ امت کے تحفظ کے احکامات بیان کرتا ہے۔",
+    "english": "This chapter details the prohibition of rebellion against the state, the ethical rules of engagement with rebels, and the preservation of communal unity."
   },
   "hadithRange": {
     "from": 1022,

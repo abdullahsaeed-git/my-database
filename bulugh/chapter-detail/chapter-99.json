@@ -2,12 +2,28 @@
   "chapId": 99,
   "bookId": 14,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "اسلامی عدالت کا بنیادی اصول یہ ہے کہ ثبوت فراہم کرنا مدعی (دعویٰ کرنے والے) کی ذمہ داری ہے، جبکہ انکار کرنے والے (مدعا علیہ) پر قسم لازم ہے۔",
+      "محض دعویٰ کرنے کی بنیاد پر کسی کو دوسرے کا مال یا خون نہیں دیا جا سکتا، ورنہ لوگ دوسروں کے حقوق پر غاصبانہ قبضہ شروع کر دیں گے۔",
+      "جھوٹی قسم کے ذریعے کسی کا حق مارنا سنگین گناہ ہے؛ ایسا کرنے والا اللہ کے غضب کا مستحق ہوگا اور اس پر جنت حرام کر دی جائے گی۔",
+      "اگر کسی تنازعے میں فریقین کے پاس کوئی ثبوت نہ ہو، تو قاضی حالات کو دیکھ کر مال کو برابر حصوں میں تقسیم کر سکتا ہے یا موجودہ قابض کے حق میں فیصلہ دے سکتا ہے۔",
+      "تجارت میں جھوٹ بولنا اور قسمیں کھا کر مال بیچنا (خاص طور پر عصر کے بعد) اللہ کی سخت ناراضگی اور عذاب کا باعث ہے۔",
+      "ایسے حاکم کی بیعت کرنا جو صرف دنیاوی مفاد کے لیے ہو اور مطلب پورا نہ ہونے پر بیعت توڑ دی جائے، ایک بدترین عمل قرار دیا گیا ہے۔",
+      "نسب کے معاملات میں ماہرینِ قیافہ (ماہرِ آثار) کی رائے کو شہادت کے طور پر قبول کیا جا سکتا ہے، جیسا کہ نبی ﷺ نے اسامہ بن زیدؓ کے نسب کے بارے میں ماہر کی رائے پر خوشی کا اظہار فرمایا۔"
+    ],
+    "english": [
+      "The fundamental legal maxim in Islam is: 'The burden of proof lies upon the claimant, and the oath is upon the one who denies the claim.'",
+      "Ownership or legal rights cannot be granted based on mere claims alone; otherwise, the lives and properties of people would be subject to constant exploitation.",
+      "Usurping the rights of a Muslim through a false oath is a terminal sin that necessitates Hellfire and forbids Paradise for the perpetrator.",
+      "In disputes where neither party possesses evidence, a judge may distribute the property equally or rule in favor of the person currently in possession (if supported by witnesses).",
+      "Engaging in deceptive trade practices, such as taking false oaths to inflate prices or hide defects (especially after 'Asr), incurs severe divine wrath.",
+      "Pledging allegiance to a leader solely for worldly or financial gains—honoring it when paid and breaking it when not—is strictly condemned.",
+      "In matters of lineage and paternity, the observations of experts in physiognomy (Qiyafah) can be used as supplementary evidence, as shown by the Prophet's (ﷺ) joy at the confirmation of Zaid and Usama's biological link."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب دعویٰ کرنے کے ضوابط، بارِ ثبوت (Burden of Proof)، جھوٹی قسموں کے سنگین نتائج، اور نسب کی پہچان کے طریقوں کو بیان کرتا ہے۔",
+    "english": "This chapter details the regulations for making legal claims, the burden of proof, the grave consequences of false oaths, and methods for establishing lineage."
   },
   "hadithRange": {
     "from": 1210,

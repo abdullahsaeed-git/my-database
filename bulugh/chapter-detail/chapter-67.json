@@ -2,12 +2,28 @@
   "chapId": 67,
   "bookId": 8,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "مہر کی کوئی کم از کم مقدار مقرر نہیں؛ یہ لوہے کی انگوٹھی، جوتیوں کے جوڑے، یا کھجوروں جیسی معمولی اشیاء کی صورت میں بھی ہو سکتا ہے۔",
+      "نبی ﷺ نے ایک لونڈی (سیدہ صفیہ) کی آزادی کو ہی ان کا مہر قرار دیا، جو اس بات کی دلیل ہے کہ مہر غیر مادی صورت میں بھی ہو سکتا ہے۔",
+      "بہترین مہر وہ ہے جو شوہر کے لیے ادا کرنے میں آسان ہو اور بوجھ نہ بنے۔",
+      "اگر نکاح کے وقت مہر مقرر نہ ہو اور شوہر ہمبستری سے پہلے فوت ہو جائے، تو بیوی کو اس کے خاندان کی عورتوں کے برابر (مہرِ مثل) دیا جائے گا۔",
+      "نکاح سے پہلے مہر کے علاوہ جو رقم یا تحفہ دیا جائے وہ لڑکی کا حق ہے، جبکہ نکاح کے بعد ملنے والے تحائف اس کے ہیں جسے وہ دیے گئے ہوں۔",
+      "شوہر کی مالی حیثیت کے مطابق مہر مقرر کرنا سنت ہے؛ رسول اللہ ﷺ کی اکثر ازواج کا مہر 500 درہم تھا۔",
+      "رخصتی کے بعد اگر نباہ نہ ہو سکے اور طلاق ہو جائے، تو شوہر پر لازم ہے کہ وہ عورت کو کچھ کپڑے یا نقد رقم بطور 'متعہ' (الوداعی تحفہ) دے کر رخصت کرے۔"
+    ],
+    "english": [
+      "There is no strict minimum limit for dower (Mahr); it can be as simple as an iron ring, a pair of sandals, or even a few dates.",
+      "The Prophet (ﷺ) set Safiyyah's manumission as her dower, demonstrating that Mahr can be non-monetary or an act of benefit.",
+      "The most blessed and ideal dower is that which is easiest for the husband to provide without financial hardship.",
+      "If a husband dies before consummation without a fixed dower, the widow is entitled to 'Mahr al-Mithl' (a dower equivalent to her female relatives), inheritance, and observing Iddah.",
+      "Any amount or gift agreed upon as dower before the marriage contract belongs exclusively to the bride.",
+      "It is Sunnah to fix a reasonable dower based on financial means; the dower for most of the Prophet's (ﷺ) wives was approximately 500 Dirhams.",
+      "In cases where a marriage is dissolved shortly after the contract, it is recommended to provide the woman with an honorary gift (Mut'ah), such as garments, to facilitate her departure."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب حق مہر کی اقسام، اس کی کم از کم اور زیادہ سے زیادہ مقدار، اور مہر مقرر نہ ہونے کی صورت میں شرعی احکامات کی وضاحت کرتا ہے۔",
+    "english": "This chapter details the types of dower (Mahr), its minimum and maximum limits, and the legal rulings when a dower is not explicitly fixed in the marriage contract."
   },
   "hadithRange": {
     "from": 881,

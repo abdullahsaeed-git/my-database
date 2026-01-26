@@ -2,12 +2,30 @@
   "chapId": 86,
   "bookId": 10,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "چوری کی سزا (قطع ید) کے نفاذ کے لیے مسروقہ مال کی ایک خاص مالیت (نصاب) کا ہونا ضروری ہے، جو کہ چوتھائی دینار (تقریباً 3 درہم) یا اس سے زائد ہے۔",
+      "قانون کی نظر میں سب برابر ہیں؛ اگر کوئی معزز یا بااثر شخص چوری کرے تو اسے سزا سے معاف کرنا پہلی قوموں کی ہلاکت کا باعث بنا۔",
+      "ہاتھ کاٹنے کی حد صرف اس صورت میں ہے جب مال کسی محفوظ جگہ (مثلاً گھر یا سٹور) سے چرایا جائے؛ کھلے درخت سے پھل توڑ کر کھانے یا اچک کر بھاگنے پر یہ حد نہیں ہے۔",
+      "خیانت کرنے والے، سرِ عام چھیننے والے (ڈاکو) یا جیب کترے کے لیے ہاتھ کاٹنے کی سزا نہیں، بلکہ دیگر تعزیری سزائیں دی جائیں گی۔",
+      "اگر چور جرم کا اعتراف کر لے تو حد نافذ ہوگی، لیکن اسے سچی توبہ اور استغفار کی تلقین کی جانی چاہیے کیونکہ اللہ توبہ قبول کرنے والا ہے۔",
+      "ایک بار چوری کا مقدمہ حاکم یا عدالت تک پہنچ جائے تو پھر اس میں سفارش یا معافی کی گنجائش نہیں رہتی، البتہ عدالت میں لانے سے پہلے مالک اسے معاف کر سکتا ہے۔",
+      "ایسی عورت جو لوگوں سے عاریتاً سامان لے کر اس کا انکار کر دے، اس پر بھی چوری کا حکم لاگو ہوتا ہے۔",
+      "ضرورت مند یا بھوکا شخص اگر درخت سے گرا ہوا پھل کھا لے تو اس پر کوئی گناہ نہیں، بشرطیکہ وہ اسے ذخیرہ کر کے ساتھ نہ لے جائے۔"
+    ],
+    "english": [
+      "The legal penalty for theft (cutting off the hand) is only applied if the stolen property meets a specific minimum value (Nisab), which is a quarter of a Dinar (approx. 3 Dirhams) or more.",
+      "Justice is impartial; excusing the noble or influential for theft while punishing the weak was the cause of destruction for past nations.",
+      "The penalty of amputation is specific to theft from a secure place (Hirz); stealing fruit from an open tree or snatching items in public does not incur this specific 'Hadd' penalty.",
+      "Legal penalties for embezzlement, plundering, or pickpocketing do not include hand amputation; these are subject to other discretionary punishments (Ta'zir).",
+      "If a thief confesses to the crime, the penalty is executed, but they must be encouraged to seek Allah's forgiveness as sincere repentance is spiritually valued.",
+      "Once a case of theft reaches the ruler or the court, intercession (Sifarish) is forbidden; however, the victim may forgive the offender before formal legal reporting.",
+      "A person who habitually borrows items and then denies having them is treated as a thief under certain legal circumstances.",
+      "A hungry or needy person may eat fruit directly from a tree without sin, provided they do not carry any away or store it in their garments."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب چوری کے نصاب، سزا کے نفاذ کے شرائط، معاشرتی برابری اور ان صورتوں کو بیان کرتا ہے جن میں ہاتھ کاٹنے کی سزا لاگو نہیں ہوتی۔",
+    "english": "This chapter details the minimum value for theft (Nisab), conditions for executing the penalty, judicial equality, and exceptions where amputation is not applicable."
   },
   "hadithRange": {
     "from": 1053,

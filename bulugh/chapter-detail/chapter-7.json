@@ -2,12 +2,48 @@
   "chapId": 7,
   "bookId": 1,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "قضائے حاجت کے وقت اللہ کا نام لکھی انگوٹھی وغیرہ اتار دینا مستحب ہے (ضعیف روایت)۔",
+      "بیت الخلاء میں داخل ہوتے وقت شیطانوں سے اللہ کی پناہ مانگنا سنت ہے۔",
+      "استنجاء کے لیے پانی کا استعمال اور برتن لے جانے کا اہتمام کرنا چاہیے۔",
+      "رفع حاجت کے وقت لوگوں کی نظروں سے دور اوجھل ہو جانا ضروری ہے۔",
+      "عام راستوں اور لوگوں کے بیٹھنے کی سایہ دار جگہوں پر گندگی پھیلانا لعنت کا باعث ہے۔",
+      "قضائے حاجت کے دوران دو افراد کا آپس میں بات کرنا اللہ کی ناراضگی کا سبب ہے۔",
+      "دائیں ہاتھ سے شرمگاہ چھونا یا اس سے استنجاء کرنا منع ہے۔",
+      "قبلہ کی طرف رخ یا پیٹھ کر کے قضائے حاجت کرنا ممنوع قرار دیا گیا ہے۔",
+      "قبلہ کے احترام میں مشرق یا مغرب کی طرف رخ کرنے کا حکم دیا گیا ہے۔",
+      "رفع حاجت کے وقت پردے اور ستر کا مکمل خیال رکھنا واجب ہے۔",
+      "بیت الخلاء سے نکلتے وقت اللہ سے مغفرت طلب کرنا سنت نبوی ہے۔",
+      "استنجاء کے لیے خشک گوبر یا ناپاک چیزوں کا استعمال ممنوع ہے۔",
+      "ہڈی اور گوبر طہارت کے لیے ناکافی اور ممنوع اشیاء ہیں۔",
+      "پیشاب کی ناپاکی سے بچنا لازم ہے کیونکہ یہ عذابِ قبر کا بڑا سبب ہے۔",
+      "بیٹھنے کا مسنون طریقہ بائیں پاؤں پر وزن ڈالنا ہے (ضعیف روایت)۔",
+      "پیشاب کے بعد عضو کو جھاڑ کر مکمل طہارت کا اطمینان کرنا چاہیے (ضعیف روایت)۔",
+      "پتھروں کے استعمال کے بعد پانی سے طہارت کرنا اہل قباء کا پسندیدہ عمل تھا۔"
+    ],
+    "english": [
+      "Removing rings with sacred inscriptions before entering the lavatory is recommended.",
+      "Seeking refuge in Allah from evil spirits before entering the toilet is sunnah.",
+      "Using water for ritual cleansing (Istinja) and carrying a vessel is encouraged.",
+      "Seeking complete privacy and being hidden from others while relieving oneself is essential.",
+      "Relieving oneself in public pathways or shaded resting areas is strictly forbidden.",
+      "Conversing while relieving oneself is disliked and incurs the displeasure of Allah.",
+      "Using the right hand to hold the private part or perform cleansing is prohibited.",
+      "Facing or turning one's back to the Qiblah during defecation is forbidden.",
+      "Orienting oneself toward the East or West is commanded to respect the Qiblah.",
+      "Concealing oneself and maintaining modesty while relieving oneself is a duty.",
+      "Supplicating for Allah's forgiveness upon exiting the lavatory is an established practice.",
+      "Using filth or dung for cleansing is prohibited as it is inherently impure.",
+      "Bones and dung are specifically forbidden for Istinja as they do not purify.",
+      "Meticulous cleaning from urine is vital to avoid the punishment of the grave.",
+      "Sitting with weight on the left foot while relieving oneself is mentioned (weak chain).",
+      "Ensuring all urine is expelled by shaking the organ is suggested in weak reports.",
+      "Combining the use of stones and water for purification is a praised practice."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب بیت الخلاء کے آداب، استنجاء کے طریقے، اور قبلہ کے احترام سمیت طہارت کے ضروری احکامات پر مشتمل ہے۔",
+    "english": "This chapter outlines the etiquette of the lavatory, methods of ritual cleansing, and prohibitions regarding the Qiblah and public spaces."
   },
   "hadithRange": {
     "from": 77,

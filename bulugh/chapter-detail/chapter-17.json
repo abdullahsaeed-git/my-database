@@ -2,12 +2,48 @@
   "chapId": 17,
   "bookId": 2,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "نماز کی قبولیت کے لیے مکمل وضو، قبلہ رخ ہونا اور تمام ارکان کو اطمینان (طمانینت) سے ادا کرنا لازمی ہے۔",
+      "تکبیر تحریمہ، رکوع، اور رکوع سے اٹھتے وقت رفع یدین کرنا اور اعضاء کو ان کی جگہ پر ساکن کرنا سنت ہے۔",
+      "نماز کے آغاز میں دعائے استفتاح، تعوذ، اور بسم اللہ پڑھنا مسنون عمل ہے۔",
+      "نماز میں ہاتھوں کو سینے پر باندھنا اور نگاہوں کو سجدہ گاہ کی طرف رکھنا آدابِ نماز میں شامل ہے۔",
+      "سورہ فاتحہ کی تلاوت ہر نماز اور ہر رکعت میں فرض ہے، خواہ اکیلے ہوں یا امام کے پیچھے (مخصوص آراء کے مطابق)۔",
+      "سورہ فاتحہ کے بعد 'آمین' کہنا سنت ہے، جسے جہری نمازوں میں بلند آواز سے کہنا ثابت ہے۔",
+      "نمازِ فجر میں لمبی سورتیں، ظہر و عشاء میں درمیانی اور مغرب میں چھوٹی سورتیں پڑھنا مسنون ہے۔",
+      "رکوع میں سبحان ربی العظیم اور سجدہ میں سبحان ربی الاعلیٰ کے ساتھ دعاؤں کا اہتمام کرنا چاہیے۔",
+      "سجدہ سات اعضاء (پیشانی مع ناک، دونوں ہاتھ، دونوں گھٹنے اور دونوں پاؤں) پر کرنا واجب ہے۔",
+      "سجدے کے دوران بازوؤں کو پہلو سے الگ رکھنا اور کہنیوں کو زمین پر نہ بچھانا سنت ہے۔",
+      "دو سجدوں کے درمیان اطمینان سے بیٹھنا اور بخشش و ہدایت کی دعا کرنا مسنون ہے۔",
+      "پہلی اور تیسری رکعت کے بعد دوسری اور چوتھی کے لیے اٹھنے سے پہلے 'جلسہ استراحت' (مختصر بیٹھنا) ثابت ہے۔",
+      "تشہد میں بیٹھنے کا مسنون طریقہ (افتراش اور تورک) اور انگشتِ شہادت سے اشارہ کرنا سنت ہے۔",
+      "نماز کے آخری تشہد میں درود شریف اور چار فتنوں (جہنم، قبر، زندگی و موت، دجال) سے پناہ مانگنا ضروری ہے۔",
+      "سلام کے ذریعے نماز کا اختتام دائیں اور بائیں جانب چہرہ پھیر کر کیا جاتا ہے۔",
+      "نماز کے بعد استغفار، تسبیحِ فاطمی اور آیت الکرسی کی تلاوت جنت میں داخلے کا ذریعہ ہے۔",
+      "بیماری کی صورت میں کھڑے ہونے کی طاقت نہ ہو تو بیٹھ کر، ورنہ پہلو کے بل لیٹ کر اشاروں سے نماز پڑھنے کی اجازت ہے۔"
+    ],
+    "english": [
+      "Complete Wudu, facing the Qiblah, and performing every pillar with peaceful composure (Tuma'ninah) are essential for prayer.",
+      "Raising hands (Raf-al-Yadain) during the opening Takbir, before bowing, and after rising from bowing is an established Sunnah.",
+      "Starting the prayer with opening supplications (Istiftah), seeking refuge (Ta'awwudh), and Bismillah is recommended.",
+      "Placing the right hand over the left on the chest and keeping focus on the place of prostration are core etiquettes.",
+      "Recitation of Surah Al-Fatihah is obligatory in every unit of prayer, whether praying individually or behind an Imam.",
+      "Saying 'Amin' aloud after Al-Fatihah in audible prayers is a confirmed practice of the Prophet (ﷺ).",
+      "It is Sunnah to recite long Surahs in Fajr, medium-length ones in Dhuhr and Isha, and shorter ones in Maghrib.",
+      "Glorifying Allah in Ruku and Sujud with prescribed phrases and engaging in sincere supplication is highly encouraged.",
+      "Prostration must be performed on seven bones: the forehead including the nose, both hands, both knees, and both feet.",
+      "During Sujud, arms should be kept away from the sides and forearms should not be spread on the ground like a beast.",
+      "Sitting calmly between the two prostrations and asking for forgiveness and guidance is a Prophetic practice.",
+      "A brief 'sitting of rest' (Jalsah al-Istirahat) is observed before standing up for the second and fourth units.",
+      "The specific sitting postures (Iftirash and Tawarruk) and pointing with the index finger during Tashahhud are Sunnah.",
+      "Invoking blessings upon the Prophet (ﷺ) and seeking refuge from four major trials is required in the final sitting.",
+      "Prayer concludes with the Taslim, turning the face to the right and left while greeting with peace.",
+      "Post-prayer dhikr, including Istighfar, Tasbih Fatimi, and Ayat al-Kursi, serves as a bridge to Paradise.",
+      "Flexibility is provided for the sick to pray sitting or lying on their side with gestures if they cannot stand."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب نماز کے مکمل طریقہ کار، قیام سے سلام تک کے ارکان، مسنون دعاؤں اور معذوروں کے لیے رعایتوں کی تفصیل بیان کرتا ہے۔",
+    "english": "This chapter provides a comprehensive guide on the method of prayer, detailing pillars from start to finish, prescribed supplications, and concessions for the ill."
   },
   "hadithRange": {
     "from": 210,

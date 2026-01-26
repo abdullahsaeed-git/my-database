@@ -2,12 +2,40 @@
   "chapId": 21,
   "bookId": 2,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "ابتداء میں نمازیں دو رکعت فرض تھیں، بعد ازاں سفر میں دو برقرار رہیں اور قیام میں چار کر دی گئیں۔",
+      "سفر کے دوران نماز کو پورا پڑھنا یا قصر کرنا دونوں ثابت ہیں، البتہ قصر سنتِ مؤکدہ ہے۔",
+      "اللہ تعالیٰ کو یہ بے حد پسند ہے کہ بندے اس کی دی ہوئی رخصتوں اور سہولتوں سے فائدہ اٹھائیں۔",
+      "مختصر مسافت (تقریباً تین میل) کا سفر شروع ہوتے ہی نماز میں قصر کرنا جائز ہو جاتا ہے۔",
+      "دورانِ سفر جب تک واپسی نہ ہو، چار رکعت والی نماز کو دو رکعت پڑھنا مسنون عمل ہے۔",
+      "فتح مکہ یا تبوک جیسے طویل قیام کے دوران بھی نبی ﷺ نے بیس دن تک قصر فرمایا۔",
+      "سفر میں ضرورت کے تحت ظہر کو عصر کے ساتھ اور مغرب کو عشاء کے ساتھ جمع کرنا جائز ہے۔",
+      "دو نمازوں کو جمع کرتے وقت وقتِ اول یا وقتِ ثانی، دونوں میں سے کسی ایک کا انتخاب کیا جا سکتا ہے۔",
+      "نماز قصر کرنے کے لیے مخصوص مسافت (تقریباً 80 کلومیٹر) کا اعتبار کیا جاتا ہے (موقوف قول)۔",
+      "سفر میں نماز قصر کرنا اور نفلی روزوں میں نرمی برتنا امت کے بہترین لوگوں کا شیوہ ہے۔",
+      "بیمار شخص کے لیے کھڑے ہونے، بیٹھنے یا لیٹ کر اشارے سے نماز پڑھنے کی مکمل رعایت ہے۔",
+      "سجدے کے لیے تکیہ یا اونچی چیز رکھنا منع ہے، اس کے بجائے سر کے اشارے سے سجدہ پست کیا جائے۔",
+      "بیماری یا عذر کی حالت میں چار زانو (پالتی مار کر) بیٹھ کر نماز پڑھنا سنت سے ثابت ہے۔"
+    ],
+    "english": [
+      "Prayer was originally two units; after migration, resident prayers increased to four while travel prayers remained two.",
+      "While traveling, shortening prayers is the primary Sunnah, though praying in full is also recorded.",
+      "Allah loves for His servants to accept the concessions He has granted, just as He dislikes disobedience.",
+      "Shortening the prayer (Qasr) begins once a person leaves their city for a short journey of a few miles.",
+      "A traveler should continue to shorten their four-unit prayers until they return to their home city.",
+      "Prophetic practice shows that Qasr is permitted even during temporary stays of up to twenty days.",
+      "Combining Dhuhr with 'Asr and Maghrib with 'Isha is a valid concession during the rigors of travel.",
+      "One may choose to bring a later prayer forward or delay an earlier one when combining prayers.",
+      "Specific distances (approximately 80km) are cited by companions as the threshold for shortening prayer.",
+      "Seeking forgiveness and utilizing travel concessions like Qasr are marks of the best of the Ummah.",
+      "The sick are permitted to pray standing, sitting, or lying on their side based on their physical ability.",
+      "Using a physical object like a pillow to prostrate upon is discouraged; head gestures are sufficient.",
+      "Sitting cross-legged while praying is a valid and recorded posture for those unable to use standard positions."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب مسافر کی نماز (قصر و جمع)، اللہ کی دی ہوئی رخصتوں کی اہمیت اور مریضوں کے لیے نماز کے آسان طریقوں کی وضاحت کرتا ہے۔",
+    "english": "This chapter explains the rulings for a traveler's prayer (shortening and combining), the value of divine concessions, and ease for the sick."
   },
   "hadithRange": {
     "from": 341,

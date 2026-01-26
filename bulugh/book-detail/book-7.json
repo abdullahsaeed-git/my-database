@@ -1,217 +1,221 @@
 {
-    "bookId": 7,
-    "summary": {
-        "english": [], 
-        "urdu": []
-    },
-    "description": {
-        "urdu": " ",
-        "english" : " "
-    }, 
-    "hadithRange": {
-"from": 648,
-"to": 823
-    },
-    "chapters": [
-        {
-            "id": 42,
-            "chapNo": 1,
-            "name": {
-                "arabic": "باب شروطه وما نهي عنه منه ",
-                "english": " ",
-                "urdu": "بیع کی شرائط اور بیع ممنوعہ کی اقسام "
-            }
-        },
-        
-        {
-            "id": 43,
-            "chapNo": 2,
-            "name": {
-                "arabic": "باب الخيار",
-                "english": " ",
-                "urdu": "بیع میں اختیار کا بیان "
-            }
-        },
-        {
-            "id": 44,
-            "chapNo": 3,
-            "name": {
-                "arabic": " باب الربا",
-                "english": " ",
-                "urdu": " سود کا بیان"
-            }
-        },
-        {
-            "id": 45,
-            "chapNo": 4,
-            "name": {
-                "arabic": " باب الرخصة في العرايا وبيع الأصول والثمار",
-                "english": " ",
-                "urdu": " بیع عرایا، درختوں اور (ان کے) پھلوں کی بیع میں رخصت"
-            }
-        },
-        {
-            "id": 46,
-            "chapNo": 5,
-            "name": {
-                "arabic": " باب السلم والقرض، والرهن.",
-                "english": " ",
-                "urdu": "پیشگی ادائیگی، قرض اور رھن کا بیان "
-            }
-        },
-        {
-            "id": 47,
-            "chapNo": 6,
-            "name": {
-                "arabic": " باب التفليس والحجر",
-                "english": " ",
-                "urdu": "مفلس قرار دینے اور تصرف روکنے کا بیان "
-            }
-        },
-        {
-            "id": 48,
-            "chapNo": 7,
-            "name": {
-                "arabic": "باب الصلح ",
-                "english": " ",
-                "urdu": "صلح کا بیان "
-            }
-        },
-        {
-            "id": 49,
-            "chapNo": 8,
-            "name": {
-                "arabic": " باب الحوالة والضمان",
-                "english": " ",
-                "urdu": "ضمانت اور کفالت کا بیان "
-            }
-        },
-        {
-            "id": 50,
-            "chapNo": 9,
-            "name": {
-                "arabic": " باب الشركة والوكالة",
-                "english": " ",
-                "urdu": " شراکت اور وکالت کا بیان"
-            }
-        },
-        {
-            "id": 51,
-            "chapNo": 10,
-            "name": {
-                "arabic": " باب الإقرار",
-                "english": " ",
-                "urdu": "اقرار کا بیان "
-            }
-        },
-        {
-            "id": 52,
-            "chapNo": 11,
-            "name": {
-                "arabic": " باب العارية",
-                "english": " ",
-                "urdu": "ادھار لی ہوئی چیز کا بیان "
-            }
-        },
-        {
-            "id": 53,
-            "chapNo": 12,
-            "name": {
-                "arabic": "باب الغصب ",
-                "english": " ",
-                "urdu": " غصب کا بیان"
-            }
-        },
-        {
-            "id": 54,
-            "chapNo": 13,
-            "name": {
-                "arabic": "باب الشفعة ",
-                "english": " ",
-                "urdu": " شفعہ کا بیان"
-            }
-        },
-        {
-            "id": 55,
-            "chapNo": 14,
-            "name": {
-                "arabic": "باب القراض ",
-                "english": " ",
-                "urdu": "مضاربت کا بیان "
-            }
-        },
-        {
-            "id": 56,
-            "chapNo": 15,
-            "name": {
-                "arabic": " باب المساقاة والإجارة",
-                "english": " ",
-                "urdu": "آبپاشی اور زمین کو ٹھیکہ پر دینے کا بیان "
-            }
-        },
-        {
-            "id": 57,
-            "chapNo": 16,
-            "name": {
-                "arabic": "باب إحياء الموات ",
-                "english": " ",
-                "urdu": "بے آباد و بنجر زمین کو آباد کرنے کا بیان "
-            }
-        },
-        {
-            "id": 58,
-            "chapNo": 17,
-            "name": {
-                "arabic": " باب الوقف",
-                "english": " ",
-                "urdu": "وقف کا بیان "
-            }
-        },
-        {
-            "id": 59,
-            "chapNo": 18,
-            "name": {
-                "arabic": " باب الهبة والعمری والرقبی",
-                "english": " ",
-                "urdu": "ھبہ عمری اور رقبی کا بیان "
-            }
-        },
-        {
-            "id": 60,
-            "chapNo": 19,
-            "name": {
-                "arabic": " باب اللقطة",
-                "english": " ",
-                "urdu": " لقطہٰ (گری پڑی چیز) کا بیان"
-            }
-        },
-        {
-            "id": 61,
-            "chapNo": 20,
-            "name": {
-                "arabic": " باب الفرائض",
-                "english": " ",
-                "urdu": " فرائض (وراثت) کا بیان"
-            }
-        },
-        {
-            "id": 62,
-            "chapNo": 21,
-            "name": {
-                "arabic": " باب الوصايا",
-                "english": " ",
-                "urdu": " وصیتوں کا بیان"
-            }
-        },
-        {
-            "id": 63,
-            "chapNo": 22,
-            "name": {
-                "arabic": "باب الوديعة ",
-                "english": " ",
-                "urdu": " ودیعت (امانت) کا بیان"
-            }
-        }
-
+  "bookId": 7,
+  "summary": {
+    "english": [
+      "This comprehensive book, Kitab al-Buyu, covers Islamic commercial law and financial transactions.",
+      "It details the ethics of trade, prohibited forms of interest (Riba), and various contracts like leasing, partnership, and inheritance."
+    ],
+    "urdu": [
+      "یہ جامع کتاب 'کتاب البیوع' اسلامی تجارتی قوانین اور مالیاتی معاملات پر مشتمل ہے۔",
+      "اس میں تجارت کے اخلاقیات، سود (ربا) کی ممانعت، اور مختلف معاہدات جیسے اجارہ، شراکت داری اور وراثت کے احکام بیان کیے گئے ہیں۔"
     ]
+  },
+  "description": {
+    "urdu": "کتاب البیوع میں خرید و فروخت کی شرائط، ممنوعہ سودے، قرض، رہن، شراکت داری، وراثت اور وصیت جیسے روزمرہ زندگی کے اہم معاملات کو احادیث کی روشنی میں واضح کیا گیا ہے۔",
+    "english": "Kitab al-Buyu details the conditions of trade, prohibited transactions, interest, debt, mortgages, partnerships, inheritance, and wills according to the Prophetic Sunnah."
+  },
+  "hadithRange": {
+    "from": 648,
+    "to": 823
+  },
+  "chapters": [
+    {
+      "id": 42,
+      "chapNo": 1,
+      "name": {
+        "arabic": "باب شروطه وما نهي عنه منه ",
+        "english": "Chapter of Conditions of Trade and Prohibited Sales",
+        "urdu": "بیع کی شرائط اور بیع ممنوعہ کی اقسام "
+      }
+    },
+    {
+      "id": 43,
+      "chapNo": 2,
+      "name": {
+        "arabic": "باب الخيار",
+        "english": "Chapter of Option (Al-Khiyar)",
+        "urdu": "بیع میں اختیار کا بیان "
+      }
+    },
+    {
+      "id": 44,
+      "chapNo": 3,
+      "name": {
+        "arabic": " باب الربا",
+        "english": "Chapter of Usury (Riba)",
+        "urdu": " سود کا بیان"
+      }
+    },
+    {
+      "id": 45,
+      "chapNo": 4,
+      "name": {
+        "arabic": " باب الرخصة في العرايا وبيع الأصول والثمار",
+        "english": "Chapter of Licenses in 'Araya and Sale of Fruits",
+        "urdu": " بیع عرایا، درختوں اور (ان کے) پھلوں کی بیع میں رخصت"
+      }
+    },
+    {
+      "id": 46,
+      "chapNo": 5,
+      "name": {
+        "arabic": " باب السلم والقرض، والرهن.",
+        "english": "Chapter of Pre-payment, Loan and Mortgage",
+        "urdu": "پیشگی ادائیگی، قرض اور رھن کا بیان "
+      }
+    },
+    {
+      "id": 47,
+      "chapNo": 6,
+      "name": {
+        "arabic": " باب التفليس والحجر",
+        "english": "Chapter of Insolvency and Restriction",
+        "urdu": "مفلس قرار دینے اور تصرف روکنے کا بیان "
+      }
+    },
+    {
+      "id": 48,
+      "chapNo": 7,
+      "name": {
+        "arabic": "باب الصلح ",
+        "english": "Chapter of Reconciliation (As-Sulh)",
+        "urdu": "صلح کا بیان "
+      }
+    },
+    {
+      "id": 49,
+      "chapNo": 8,
+      "name": {
+        "arabic": " باب الحوالة والضمان",
+        "english": "Chapter of Transfer of Debt and Guarantee",
+        "urdu": "ضمانت اور کفالت کا بیان "
+      }
+    },
+    {
+      "id": 50,
+      "chapNo": 9,
+      "name": {
+        "arabic": " باب الشركة والوكالة",
+        "english": "Chapter of Partnership and Agency",
+        "urdu": " شراکت اور وکالت کا بیان"
+      }
+    },
+    {
+      "id": 51,
+      "chapNo": 10,
+      "name": {
+        "arabic": " باب الإقرار",
+        "english": "Chapter of Admission (Al-Iqrar)",
+        "urdu": "اقرار کا بیان "
+      }
+    },
+    {
+      "id": 52,
+      "chapNo": 11,
+      "name": {
+        "arabic": " باب العارية",
+        "english": "Chapter of Lending (Al-'Ariya)",
+        "urdu": "ادھار لی ہوئی چیز کا بیان "
+      }
+    },
+    {
+      "id": 53,
+      "chapNo": 12,
+      "name": {
+        "arabic": "باب الغصب ",
+        "english": "Chapter of Wrongful Appropriation (Ghasb)",
+        "urdu": " غصب کا بیان"
+      }
+    },
+    {
+      "id": 54,
+      "chapNo": 13,
+      "name": {
+        "arabic": "باب الشفعة ",
+        "english": "Chapter of Pre-emption (Shufa')",
+        "urdu": " شفعہ کا بیان"
+      }
+    },
+    {
+      "id": 55,
+      "chapNo": 14,
+      "name": {
+        "arabic": "باب القراض ",
+        "english": "Chapter of Profit Sharing (Al-Qiradh)",
+        "urdu": "مضاربت کا بیان "
+      }
+    },
+    {
+      "id": 56,
+      "chapNo": 15,
+      "name": {
+        "arabic": " باب المساقاة والإجارة",
+        "english": "Chapter of Irrigation and Leasing",
+        "urdu": "آبپاشی اور زمین کو ٹھیکہ پر دینے کا بیان "
+      }
+    },
+    {
+      "id": 57,
+      "chapNo": 16,
+      "name": {
+        "arabic": "باب إحياء الموات ",
+        "english": "Chapter of Cultivation of Waste Lands",
+        "urdu": "بے آباد و بنجر زمین کو آباد کرنے کا بیان "
+      }
+    },
+    {
+      "id": 58,
+      "chapNo": 17,
+      "name": {
+        "arabic": " باب الوقف",
+        "english": "Chapter of Endowment (Waqf)",
+        "urdu": "وقف کا بیان "
+      }
+    },
+    {
+      "id": 59,
+      "chapNo": 18,
+      "name": {
+        "arabic": " باب الهبة والعمری والرقبی",
+        "english": "Chapter of Gift and Life-tenure",
+        "urdu": "ھبہ عمری اور رقبی کا بیان "
+      }
+    },
+    {
+      "id": 60,
+      "chapNo": 19,
+      "name": {
+        "arabic": " باب اللقطة",
+        "english": "Chapter of Found Property (Luqata)",
+        "urdu": " لقطہٰ (گری پڑی چیز) کا بیان"
+      }
+    },
+    {
+      "id": 61,
+      "chapNo": 20,
+      "name": {
+        "arabic": " باب الفرائض",
+        "english": "Chapter of Inheritance (Al-Fara'id)",
+        "urdu": " فرائض (وراثت) کا بیان"
+      }
+    },
+    {
+      "id": 62,
+      "chapNo": 21,
+      "name": {
+        "arabic": " باب الوصايا",
+        "english": "Chapter of Wills (Al-Wasaya)",
+        "urdu": " وصیتوں کا بیان"
+      }
+    },
+    {
+      "id": 63,
+      "chapNo": 22,
+      "name": {
+        "arabic": "باب الوديعة ",
+        "english": "Chapter of Deposits (Al-Wadi'a)",
+        "urdu": " ودیعت (امانت) کا بیان"
+      }
+    }
+  ]
 }

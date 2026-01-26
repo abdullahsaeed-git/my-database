@@ -2,12 +2,50 @@
   "chapId": 18,
   "bookId": 2,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "اگر نماز میں پہلا تشہد بھول جائے تو سلام سے پہلے دو سجدہ سہو کرنا سنت ہے۔",
+      "نماز میں رکعتیں بھول جانے یا وقت سے پہلے سلام پھیرنے پر بقیہ نماز پوری کر کے سجدہ سہو کیا جائے۔",
+      "بھول کر کچھ زیادہ پڑھ لینے یا سلام پھیرنے کے بعد یاد آنے پر بھی سجدہ سہو کیا جاتا ہے۔",
+      "رکعتوں کی تعداد میں شک ہو تو کم والی تعداد پر یقین کر کے نماز پوری کریں اور سجدہ سہو کریں۔",
+      "انسانی بھول چوک فطری ہے، ایسی صورت میں حق تلاش کر کے نماز مکمل کرنا اور سجدہ کرنا چاہیے۔",
+      "اگر دوسری رکعت کے بعد کھڑے ہوتے وقت شک ہو تو سیدھا کھڑا ہونے پر واپسی نہیں بلکہ سجدہ سہو ہو گا۔",
+      "مقتدی پر اپنی ذاتی بھول پر سجدہ سہو نہیں، لیکن امام کی بھول پر مقتدی کو بھی سجدہ کرنا ہوگا۔",
+      "نماز میں ہر سہو (بھول) کے بدلے میں سلام کے بعد دو سجدے کیے جاتے ہیں (ضعیف روایت)۔",
+      "سورہ انشقاق اور سورہ علق جیسی مخصوص سورتوں کی تلاوت پر سجدہ تلاوت کرنا مسنون ہے۔",
+      "سورہ ص کا سجدہ اگرچہ تاکیدی نہیں ہے، لیکن نبی ﷺ کے فعل سے ثابت ہے۔",
+      "سورہ نجم کی تلاوت پر بھی نبی ﷺ سے سجدہ تلاوت کرنا ثابت ہے۔",
+      "تلاوت کے دوران سجدہ کرنا یا نہ کرنا بندے کی مرضی پر ہے، نہ کرنے پر گناہ نہیں۔",
+      "سورہ حج میں دو مقامات پر سجدہ تلاوت کی فضیلت بیان کی گئی ہے (ضعیف روایت)۔",
+      "سجدہ تلاوت فرض نہیں ہے بلکہ یہ اللہ کی رضا اور اپنی خواہش پر مبنی مسنون عمل ہے۔",
+      "امام کے ساتھ قرآن سنتے وقت جب آیتِ سجدہ آئے تو سب کو مل کر سجدہ کرنا چاہیے۔",
+      "کوئی خوشی کی خبر یا اللہ کی نعمت ملنے پر فوراً سجدہ شکر میں گرنا سنتِ نبوی ہے۔",
+      "بشارت یا اچھی خبر ملنے پر طویل سجدہ شکر ادا کرنا اللہ کی بندگی کا اظہار ہے۔",
+      "اسلام کی فتح یا لوگوں کے جوق درجوق مسلمان ہونے کی خبر پر سجدہ کرنا ثابت ہے۔"
+    ],
+    "english": [
+      "Missing the first Tashahhud due to forgetfulness requires two prostrations before the final Taslim.",
+      "If the prayer is ended prematurely by mistake, complete the remaining units and perform Sahw prostrations.",
+      "Adding to the prayer or remembering a mistake after Taslim necessitates prostrating twice after speaking.",
+      "When in doubt about the number of units prayed, build upon the minimum and prostrate before Taslim.",
+      "Forgetfulness is a human trait; one should seek the correct status and complete the prayer with Sahw.",
+      "If one stands up instead of sitting for Tashahhud, they should not return if fully upright but prostrate later.",
+      "A follower does not prostrate for personal mistakes but must follow the Imam if the Imam forgets.",
+      "General rule states two prostrations are required for every instance of forgetfulness in prayer (weak report).",
+      "Prostration of recitation (Sujud al-Tilawah) is performed upon reading specific verses in Surahs like Al-Alaq.",
+      "The prostration in Surah Sad is a prostration of gratitude performed by the Prophet (ﷺ) though not mandatory.",
+      "Reciting Surah An-Najm is another instance where the Prophet (ﷺ) performed the prostration of recitation.",
+      "One has the choice to prostrate when hearing a verse; it is not a sin to omit it.",
+      "Surah Al-Hajj is distinguished by containing two specific points for prostration (weak report).",
+      "Allah has not made the prostration of recitation obligatory; it remains a voluntary act of worship.",
+      "It is recommended to say Takbir and prostrate together with the Imam when a prostration verse is recited.",
+      "Falling into prostration out of gratitude (Sujud al-Shukr) upon receiving glad tidings is a Sunnah.",
+      "Prolonging the prostration of gratitude is an appropriate response to divine blessings or good news.",
+      "Performing Sujud upon hearing reports of mass conversion to Islam is a recorded practice of the Prophet (ﷺ)."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب نماز میں بھول چوک کی تلافی (سجدہ سہو)، تلاوت کے دوران سجدوں اور نعمتوں پر سجدہ شکر کے احکامات بیان کرتا ہے۔",
+    "english": "This chapter details the rulings on prostrations of forgetfulness (Sahw), recitation (Tilawah), and gratitude (Shukr) to rectify errors and show thankfulness."
   },
   "hadithRange": {
     "from": 262,

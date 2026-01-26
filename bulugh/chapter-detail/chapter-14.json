@@ -2,12 +2,28 @@
   "chapId": 14,
   "bookId": 2,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "نمازی کے سامنے سے گزرنا سنگین گناہ ہے، یہاں تک کہ چالیس سال کھڑے رہنا گزرنے سے بہتر ہے۔",
+      "سترہ کی اونچائی کم از کم اونٹ کے پالان کی پچھلی لکڑی (تقریباً ایک ہاتھ) کے برابر ہونی چاہیے۔",
+      "نمازی کو چاہیے کہ اپنے سامنے کوئی رکاوٹ (سترہ) ضرور رکھے، خواہ وہ ایک تیر ہی کیوں نہ ہو۔",
+      "سترہ نہ ہونے کی صورت میں بالغ عورت، گدھے اور کالے کتے کے سامنے سے گزرنے سے نماز میں خلل پڑتا ہے۔",
+      "اگر کوئی سترہ اور نمازی کے درمیان سے گزرنے کی کوشش کرے تو اسے ہاتھ کے اشارے سے سختی سے روکنا چاہیے۔",
+      "سترہ کے لیے اگر کوئی چیز میسر نہ ہو تو لاٹھی گاڑ لینا یا زمین پر لکیر کھینچ لینا بھی کافی ہے۔",
+      "نماز کی حفاظت کے لیے سامنے سے گزرنے والے کو ہر ممکن حد تک روکنا ضروری ہے (ضعیف روایت)۔"
+    ],
+    "english": [
+      "Passing in front of a praying person is a grave sin; standing for forty years is better than passing.",
+      "The minimum height of a Sutrah (prayer barrier) should be equal to the back of a camel's saddle.",
+      "It is essential for a praying person to place a barrier in front of them, even if it is just an arrow.",
+      "Without a Sutrah, the passage of a woman, a donkey, or a black dog is said to interrupt the prayer.",
+      "A praying person should firmly repel anyone attempting to pass between them and their Sutrah.",
+      "If no object is available for a Sutrah, setting up a staff or drawing a line on the ground is sufficient.",
+      "One must strive to prevent anyone from passing in front of them as much as possible (weak report)."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب نمازی کے سامنے رکاوٹ (سترہ) رکھنے کی اہمیت، اس کی مقدار اور سامنے سے گزرنے والے کے گناہ کی وضاحت کرتا ہے۔",
+    "english": "This chapter explains the importance of the prayer barrier (Sutrah), its required dimensions, and the gravity of passing in front of a worshiper."
   },
   "hadithRange": {
     "from": 180,

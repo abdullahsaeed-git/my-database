@@ -1,49 +1,50 @@
 {
-    "bookId": 11,
-    "summary": {
-        "english": [], 
-        "urdu": []
-    },
-    "description": {
-        "urdu": " ",
-        "english" : " "
-    }, 
-    "hadithRange": {
-"from": 1080,
-"to": 1134
-    },
-    "chapters": [
-        {
-            "id": 89,
-            "chapNo": 1,
-            "name": {
-                "arabic": " (أحاديث في الجهاد)",
-                "english": " ",
-                "urdu": " (جہاد کے متعلق احادیث)"
-            }
-        },
-
-        
-        {
-            "id": 90,
-            "chapNo": 2,
-            "name": {
-                "arabic": " باب الجزية والهدنة",
-                "english": " ",
-                "urdu": " جزیہ اور صلح کا بیان"
-            }
-        },
-
-        {
-            "id": 91,
-            "chapNo": 3,
-            "name": {
-                "arabic": "باب السبق والرمي ",
-                "english": " ",
-                "urdu": "گھڑ دوڑ اور تیراندازی کا بیان "
-            }
-        }
-
-
+  "bookId": 11,
+  "summary": {
+    "english": [
+      "Kitab al-Jihad covers the rulings of struggling in the way of Allah, military ethics, and international relations in Islam.",
+      "It details the regulations of warfare, treaties, and the importance of physical preparedness."
+    ],
+    "urdu": [
+      "کتاب الجہاد میں اللہ کی راہ میں جدوجہد، جنگی اخلاقیات اور اسلام میں بین الاقوامی تعلقات کے احکام بیان کیے گئے ہیں۔",
+      "اس میں جنگ کے ضوابط، معاہدوں اور جسمانی تیاری کی اہمیت کی تفصیل شامل ہے۔"
     ]
+  },
+  "description": {
+    "urdu": "کتاب الجہاد میں جہاد کی فضیلت، دشمن کے ساتھ معاہدات، جزیہ کے قوانین، اور جنگی مہارتوں جیسے تیر اندازی اور گھڑ دوڑ سے متعلق احادیث کو یکجا کیا گیا ہے۔",
+    "english": "Kitab al-Jihad explains the virtues of Jihad, the rulings of Jizya and peace treaties, and the encouragement of military skills like archery and horse racing based on Prophetic guidance."
+  },
+  "hadithRange": {
+    "from": 1080,
+    "to": 1134
+  },
+  "chapters": [
+    {
+      "id": 89,
+      "chapNo": 1,
+      "name": {
+        "arabic": " (أحاديث في الجهاد)",
+        "english": "Hadiths Regarding Jihad",
+        "urdu": " (جہاد کے متعلق احادیث)"
+      }
+    },
+    {
+      "id": 90,
+      "chapNo": 2,
+      "name": {
+        "arabic": " باب الجزية والهدنة",
+        "english": "Chapter of Jizya and Truce",
+        "urdu": " جزیہ اور صلح کا بیان"
+      }
+    },
+    {
+      "id": 91,
+      "chapNo": 3,
+      "name": {
+        "arabic": "باب السبق والرمي ",
+        "english": "Chapter of Racing and Archery",
+        "urdu": "گھڑ دوڑ اور تیراندازی کا بیان "
+      }
+    }
+  ]
 }

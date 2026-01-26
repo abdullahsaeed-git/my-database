@@ -2,12 +2,30 @@
   "chapId": 59,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "والدین پر لازم ہے کہ وہ اپنی اولاد کو عطیات اور تحائف دینے میں مکمل عدل و انصاف سے کام لیں؛ کسی ایک کو نوازنا اور دوسروں کو محروم رکھنا تقویٰ کے خلاف ہے۔",
+      "دیے ہوئے تحفے کو واپس لینا اخلاقی طور پر انتہائی ناپسندیدہ ہے اور اسے کتے کی قے چاٹنے جیسی قبیح مثال سے تشبیہ دی گئی ہے۔",
+      "صرف والد کو یہ حق حاصل ہے کہ وہ اپنی اولاد کو دیا ہوا عطیہ (ضرورت یا اصلاح کی بنا پر) واپس لے سکے، اس کے علاوہ کسی کے لیے ہبہ واپس لینا حلال نہیں۔",
+      "ہدیہ قبول کرنا اور اس کے بدلے میں خود بھی کچھ دینا سنتِ نبوی ہے، اس سے دینے والے کی حوصلہ افزائی اور خوشنودی حاصل ہوتی ہے۔",
+      "تحفے تحائف بانٹنے سے آپس میں محبت بڑھتی ہے اور دلوں سے کینہ، دشمنی اور بغض ختم ہوتا ہے۔",
+      "ہمسائیوں کو ایک دوسرے کے لیے تحفہ بھیجتے وقت اسے حقیر نہیں سمجھنا چاہیے، چاہے وہ بکری کے پائے جیسی معمولی چیز ہی کیوں نہ ہو؛ اصل اہمیت خلوص کی ہے۔",
+      "اگر کوئی چیز اللہ کی راہ میں (صدقہ یا ہدیہ) دے دی جائے، تو اسے دوبارہ خریدنا بھی ناپسندیدہ ہے تاکہ دینے والے کے اجر میں کمی نہ آئے۔",
+      "عمریٰ (زندگی بھر کے لیے دیا گیا گھر یا جائیداد) اب مستقل ملکیت بن جاتی ہے اور پانے والے کے بعد اس کے ورثاء کو منتقل ہوتی ہے۔"
+    ],
+    "english": [
+      "Parents must maintain absolute justice and equality when giving gifts to their children; favoring one over others contradicts the principles of piety (Taqwa).",
+      "Taking back a gift is morally reprehensible and is described using the graphic and 'evil' simile of a dog returning to its own vomit.",
+      "A father is the only individual permitted to retract a gift given to his child; for all others, reclaiming a gift is strictly unlawful in Islam.",
+      "Accepting gifts and reciprocating with a reward or return-gift is a Prophetic Sunnah that fosters mutual appreciation and satisfaction.",
+      "Exchanging gifts is a powerful social tool that nurtures love and effectively removes malice, rancor, and grudges from the hearts.",
+      "Neighbors should never belittle the gifts they send to one another, even if the item is as simple as a sheep's trotter; the sincerity behind the gesture is what matters.",
+      "Once an item (like a horse) is given for the sake of Allah, the donor should not seek to buy it back, even at a low price, to preserve the integrity of the charity.",
+      "Umra (a life-long gift of property) constitutes a permanent transfer of ownership that remains with the recipient and their descendants after death."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب تحائف (ہبہ) کے اخلاقی و قانونی ضوابط، اولاد میں برابری، ہدیہ کی واپسی کی ممانعت اور باہمی محبت کے فروغ میں تحفے کی اہمیت بیان کرتا ہے۔",
+    "english": "This chapter details the ethical and legal regulations of gift-giving (Hiba), the necessity of equality among children, the prohibition of reclaiming gifts, and the role of gifts in fostering communal love."
   },
   "hadithRange": {
     "from": 788,

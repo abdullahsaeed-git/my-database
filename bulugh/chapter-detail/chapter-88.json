@@ -2,12 +2,24 @@
   "chapId": 88,
   "bookId": 10,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "تعزیر (وہ سزا جس کی مقدار شریعت نے مقرر نہیں کی) میں دس کوڑوں سے زیادہ مارنا جائز نہیں، سوائے ان جرائم کے جن کی حد اللہ کی طرف سے مقرر ہے۔",
+      "ایسے معزز لوگ جو عموماً جرائم نہیں کرتے، اگر ان سے کوئی چھوٹی لغزش ہو جائے تو ان سے درگزر کرنا چاہیے، بشرطیکہ وہ لغزش حدودِ الٰہی کے زمرے میں نہ آتی ہو۔",
+      "شرعی حد نافذ کرتے وقت اگر مجرم کی موت واقع ہو جائے تو حاکم پر کوئی ذمہ داری نہیں، تاہم سیدنا علیؓ شراب نوشی کی سزا (جس کی مقدار اجتہادی ہے) میں ہلاکت پر دیت دینے کے قائل تھے۔",
+      "اپنے مال و متاع کی حفاظت کرتے ہوئے جان دینے والے کو اسلام میں شہید کا رتبہ دیا گیا ہے۔",
+      "فتنوں اور خانہ جنگی کے دور میں مسلمانوں کو نصیحت کی گئی ہے کہ وہ خون ریزی سے بچیں اور کسی کا ناحق خون بہانے سے مقتول بن جانا بہتر ہے۔"
+    ],
+    "english": [
+      "In discretionary punishments (Ta'zir), it is not permissible to exceed ten lashes, except for crimes where a specific limit (Hadd) has been ordained by Allah.",
+      "Leniency and pardon should be shown toward the occasional slips of people with good reputations and character, provided the offense does not involve the mandatory legal penalties (Hudud).",
+      "If an offender dies while a prescribed legal penalty is being carried out, the authority is not held liable; however, Ali (RA) considered paying blood money if a person died specifically during the punishment for wine consumption.",
+      "A person who loses their life while defending their property against theft or robbery is granted the honorable status of a martyr (Shaheed).",
+      "During times of widespread civil strife (Fitna), Muslims are urged to avoid participating in bloodshed, emphasizing that being the victim is better than being the killer."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب تعزیری سزاؤں کی حدود، معززین سے درگزر، دفاعِ مال میں جان دینے کی فضیلت اور فتنوں کے دور میں خون ریزی سے بچنے کے احکامات بیان کرتا ہے۔",
+    "english": "This chapter details the limits of discretionary punishment (Ta'zir), pardoning reputable individuals, the virtue of defending property, and the prohibition of killing during civil strife."
   },
   "hadithRange": {
     "from": 1075,

@@ -2,12 +2,34 @@
   "chapId": 61,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "وراثت کی تقسیم کا بنیادی اصول یہ ہے کہ پہلے قرآنی حصوں کے مطابق حقداروں کو مال دیا جائے، پھر جو باقی بچے وہ قریبی مرد رشتہ دار (عصبہ) کا حق ہے۔",
+      "مسلمان اور غیر مسلم کے درمیان وراثت جاری نہیں ہوتی؛ کافر مسلمان کا اور مسلمان کافر کا وارث نہیں بن سکتا۔",
+      "بیٹی کو وراثت میں نصف (1/2) اور پوتی کو دو تہائی (2/3) کی تکمیل کے لیے چھٹا حصہ (1/6) دیا جائے گا، جبکہ باقی بہن کو ملے گا۔",
+      "دادا کے لیے پوتے کی وراثت میں چھٹا حصہ (1/6) مقرر ہے، اور بعض صورتوں میں اسے اضافی حصہ بطور عطیہ مل سکتا ہے۔",
+      "دادی کا حصہ چھٹا (1/6) ہے، بشرطیکہ میت کی ماں زندہ نہ ہو، کیونکہ ماں کی موجودگی میں دادی محروم ہوتی ہے۔",
+      "اگر کسی کا کوئی قریبی وارث نہ ہو تو ماموں اس کی میراث کا حقدار قرار پاتا ہے۔",
+      "نومولود بچہ تبھی وارث بنتا ہے جب وہ پیدائش کے وقت روئے یا آواز نکالے، جو اس کے زندہ پیدا ہونے کی علامت ہے۔",
+      "قاتل کو اس کے مقتول کی وراثت سے کچھ نہیں ملتا؛ قتل حقِ وراثت کو ختم کر دیتا ہے۔",
+      "آزاد کردہ غلام کی وراثت کا حق (ولاء) نسب کے تعلق کی طرح اٹوٹ ہے، اسے نہ بیچا جا سکتا ہے اور نہ ہبہ کیا جا سکتا ہے۔",
+      "صحابہ کرام میں سیدنا زید بن ثابت رضی اللہ عنہ کو علمِ فرائض (وراثت) کا سب سے بڑا ماہر قرار دیا گیا ہے۔"
+    ],
+    "english": [
+      "The primary rule of inheritance is to distribute specified shares (Fara'id) to those entitled first, leaving the remainder for the closest male relative ('Asabah).",
+      "Differences in religion act as a legal barrier to inheritance; a Muslim cannot inherit from a non-believer, nor can a non-believer inherit from a Muslim.",
+      "In specific family cases, a daughter receives half (1/2) and a granddaughter receives a sixth (1/6) to complete the two-thirds quota for females.",
+      "A grandfather is entitled to a sixth (1/6) of his grandson's estate, with potential for additional provisions depending on the case.",
+      "A grandmother is assigned a sixth (1/6) share provided the deceased's mother is not alive to exclude her.",
+      "In the absence of primary heirs, the maternal uncle is recognized as a legitimate heir to the estate.",
+      "A newborn qualifies for inheritance only if it shows signs of life, such as crying or raising its voice, immediately upon birth.",
+      "Homicide is a disqualifier for inheritance; a murderer is strictly prohibited from inheriting anything from their victim.",
+      "The right of Wala' (inheritance from a freed slave) is considered a permanent bond similar to lineage and cannot be sold or gifted.",
+      "Zaid bin Thabit (RA) was specially commended by the Prophet (ﷺ) as the most knowledgeable expert in the laws of inheritance among the Companions."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب اسلامی وراثت کے بنیادی اصولوں، حصہ داروں کے تعین، وراثت کی راہ میں حائل رکاوٹوں (کفر، قتل) اور ماہرینِ فرائض کی اہمیت کو بیان کرتا ہے۔",
+    "english": "This chapter outlines the fundamental principles of Islamic inheritance law, the determination of shares, legal barriers such as disbelief and homicide, and the expertise required for its implementation."
   },
   "hadithRange": {
     "from": 805,

@@ -2,12 +2,46 @@
   "chapId": 12,
   "bookId": 2,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "اذان کی ابتدا خوابِ حق سے ہوئی جس میں کلمات کو دو دو بار اور اقامت کو ایک ایک بار کہنے کی تعلیم دی گئی۔",
+      "اذان میں کلمات کی تکرار (ترجیع) اور تکبیر کی تعداد کے حوالے سے مختلف سنتیں موجود ہیں۔",
+      "اذان کے کلمات کو دوہرا (جفت) اور اقامت کے کلمات کو اکہرا (طاق) کہنا مسنون ہے، سوائے 'قد قامت الصلاۃ' کے۔",
+      "مؤذن کے لیے مستحب ہے کہ اذان کے دوران انگلیاں کانوں میں رکھے اور رخ دائیں بائیں موڑے۔",
+      "اذان کے لیے خوش الحان آواز کو پسند کیا گیا ہے جیسا کہ نبی ﷺ نے ابومحذورہ کی آواز کو پسند فرمایا۔",
+      "عیدین کی نمازوں کے لیے نہ اذان ہے اور نہ ہی اقامت، یہ صرف پنجگانہ نمازوں کے لیے ہے۔",
+      "سفر میں یا نمازیں جمع کرنے کی صورت میں اذان اور اقامت کے مخصوص ضوابط ہیں۔",
+      "فجر کی پہلی اذان سحری کے اختتام کی اطلاع کے لیے ہے، جبکہ دوسری اذان نماز کے وقت کے آغاز کی علامت ہے۔",
+      "اگر مؤذن وقت سے پہلے اذان دے دے تو اس پر اس کی وضاحت کرنا لازم ہے (ضعیف روایت)۔",
+      "اذان سننے والے پر مستحب ہے کہ وہ مؤذن کے کلمات کو دوہرائے، سوائے 'حیعلتین' کے جس کے جواب میں 'لاحول' پڑھنا چاہیے۔",
+      "امام کو مقتدیوں میں سب سے کمزور شخص کی رعایت کرنی چاہیے اور مؤذن کو بلا اجرت کام کرنا چاہیے۔",
+      "جماعت کے لیے اذان دینا ایک اجتماعی ذمہ داری ہے تاکہ وقتِ نماز کا اعلان ہو سکے۔",
+      "اذان ٹھہر ٹھہر کر اور اقامت جلدی جلدی کہنی چاہیے، اور دونوں کے درمیان مناسب وقفہ ہونا ضروری ہے۔",
+      "اذان دینا مؤذن کا حق ہے اور اقامت کا اشارہ کرنا امام کا منصب ہے (ضعیف روایت)۔",
+      "اذان اور اقامت کے درمیانی وقت میں کی جانے والی دعا اللہ کے ہاں رد نہیں ہوتی۔",
+      "اذان کے بعد مسنون دعا پڑھنے والے کے لیے قیامت کے دن نبی ﷺ کی شفاعت واجب ہو جاتی ہے۔"
+    ],
+    "english": [
+      "The Adhan originated from a true dream, teaching the doubling of Adhan phrases and singling of Iqamah phrases.",
+      "Variations exist in the Sunnah regarding the repetition of the Shahadah (Tarji) and the initial Takbir counts.",
+      "It is Sunnah to pair Adhan phrases and single out Iqamah phrases, except for the announcement of prayer commencement.",
+      "The Mu'adhdhin should place fingers in the ears and turn the neck right and left during the call to prayer.",
+      "A beautiful and strong voice is favored for the Mu'adhdhin, as the Prophet (ﷺ) admired the voice of Abu Mahdhurah.",
+      "The two Eid prayers are performed without any Adhan or Iqamah, as these are specific to daily prayers.",
+      "Rulings for Adhan and Iqamah vary during travel or when combining prayers like at Muzdalifah.",
+      "The early Fajr Adhan serves as a notice for the end of Suhoor, while the second marks the start of prayer.",
+      "If the Adhan is mistakenly called before the correct time, the Mu'adhdhin should clarify the error (weak report).",
+      "Listeners should repeat the phrases of the Adhan, replacing the calls to success with 'La hawla wa la quwwata illa billah'.",
+      "Imams must consider the weakest followers, and Mu'adhdhins are encouraged to serve without seeking wages.",
+      "Calling the Adhan is a communal obligation once the time for prayer has been established.",
+      "The Adhan should be recited slowly and the Iqamah rapidly, with a sufficient gap for people to prepare.",
+      "The Mu'adhdhin has the primary right over the Adhan, while the Imam leads the decision for Iqamah (weak report).",
+      "The interval between the Adhan and Iqamah is a blessed time when supplications are not rejected.",
+      "Reciting the prescribed dua after the Adhan guarantees the intercession of the Prophet (ﷺ) on Judgment Day."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب اذان اور اقامت کی ابتدا، ان کے مسنون کلمات، مؤذن کے آداب اور اذان کے بعد کی دعاؤں کی فضیلت پر مشتمل ہے۔",
+    "english": "This chapter covers the origins of the Adhan and Iqamah, their prescribed wordings, the etiquette for callers, and the merits of supplications after the call."
   },
   "hadithRange": {
     "from": 144,

@@ -2,12 +2,26 @@
   "chapId": 83,
   "bookId": 9,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "اپنے مال کی حفاظت کے لیے لڑتے ہوئے جان دینے والا شہید کا درجہ پاتا ہے۔",
+      "دفاعِ خود اختیاری کے دوران اگر حملہ آور کو کوئی نقصان پہنچے (مثلاً کاٹنے والے کے منہ سے ہاتھ کھینچنے پر اس کا دانت ٹوٹ جائے)، تو اس کا کوئی قصاص یا دیت لازم نہیں آتی۔",
+      "گھر کی رازداری اور پردے کی سخت اہمیت ہے؛ اگر کوئی بغیر اجازت کسی کے گھر میں جھانکے اور گھر والا اسے مار کر زخمی کر دے، تو اس پر کوئی شرعی مواخذہ نہیں ہے۔",
+      "مویشیوں کے ذریعے ہونے والے نقصان کا ضابطہ یہ ہے کہ اگر جانور رات کے وقت کسی کی کھیتی یا باغ کو نقصان پہنچائیں، تو مالکِ مویشی اس کا تاوان بھرنے کا ذمہ دار ہوگا۔",
+      "مرتد (اسلام چھوڑنے والے) کی سزا قتل ہے، تاہم اسے قتل سے پہلے توبہ کی دعوت دی جانی چاہیے۔",
+      "نبی کریم ﷺ کی شان میں گستاخی کرنے والے کا خون مباح ہے، جیسا کہ ایک نابینا صحابی نے اپنی لونڈی کو گالی دینے پر قتل کر دیا اور آپ ﷺ نے اس کے خون کو رائیگاں قرار دیا۔"
+    ],
+    "english": [
+      "A person who is killed while defending their property is granted the status of a martyr (Shaheed).",
+      "In cases of self-defense, if an aggressor is injured (e.g., losing a tooth while biting someone who pulls their hand away), no blood-money or retaliation is due.",
+      "The sanctity of the home and privacy is paramount; if someone peeks into a house without permission and is injured by the inhabitant, there is no legal blame or compensation required.",
+      "Owners of livestock are held financially liable for any damage their animals cause to others' property during the night.",
+      "Apostasy from Islam carries the death penalty according to prophetic decree, though the individual is typically offered an opportunity to repent first.",
+      "Insulting or disparaging the Prophet (ﷺ) is a terminal offense; the Prophet (ﷺ) declared the blood of those who insult him as being shed in vain (no retaliation required)."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب دفاعِ خود اختیاری (مال و جان کی حفاظت)، رازداری کے حقوق، مویشیوں کے نقصانات کا تاوان، اور ارتداد و گستاخیِ رسول کی سزا بیان کرتا ہے۔",
+    "english": "This chapter details the rulings on self-defense (protecting life and property), the right to privacy, liability for livestock damage, and the punishments for apostasy and blasphemy."
   },
   "hadithRange": {
     "from": 1027,

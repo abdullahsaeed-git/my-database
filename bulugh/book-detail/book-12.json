@@ -1,59 +1,59 @@
 {
-    "bookId": 12,
-    "summary": {
-        "english": [], 
-        "urdu": []
-    },
-    "description": {
-        "urdu": " ",
-        "english" : " "
-    }, 
-    "hadithRange": {
-"from": 1135,
-"to": 1170
-    },
-    "chapters": [
-        {
-            "id": 92,
-            "chapNo": 1,
-            "name": {
-                "arabic": " (أحاديث في الأطعمة)",
-                "english": " ",
-                "urdu": " (کھانے کے متعلق احادیث)"
-            }
-        },
-
-        
-        {
-            "id": 93,
-            "chapNo": 2,
-            "name": {
-                "arabic": "باب الصيد والذبائح ",
-                "english": " ",
-                "urdu": " شکار اور ذبائح کا بیان"
-            }
-        },
-
-        {
-            "id": 94,
-            "chapNo": 3,
-            "name": {
-                "arabic": " باب الأضاحي",
-                "english": " ",
-                "urdu": "(احکام) قربانی کا بیان "
-            }
-        },
-
-        {
-            "id": 95,
-            "chapNo": 4,
-            "name": {
-                "arabic": "باب العقيقة",
-                "english": " ",
-                "urdu": "عقیقہ کا بیان "
-            }
-        }
-
-
+  "bookId": 12,
+  "summary": {
+    "english": [
+      "Kitab al-At'imah provides guidance on Islamic dietary laws, including what is permissible (Halal) and forbidden (Haram).",
+      "It also covers the rulings for hunting, slaughtering animals, and the religious acts of Udhiyah (Sacrifice) and Aqiqah."
+    ],
+    "urdu": [
+      "کتاب الاطعمہ میں اسلامی غذائی قوانین کی رہنمائی فراہم کی گئی ہے، بشمول حلال و حرام کے احکام۔",
+      "اس میں شکار، ذبح کرنے کے طریقے، اور قربانی و عقیقہ جیسے مذہبی امور کے احکام بھی شامل ہیں۔"
     ]
+  },
+  "description": {
+    "urdu": "کتاب الاطعمہ میں کھانے پینے کے آداب، حلال و حرام جانوروں کی تمیز، ذبح کرنے کے شرعی طریقے، قربانی کے مسائل اور عقیقہ کی سنت سے متعلق احادیث کو جمع کیا گیا ہے۔",
+    "english": "Kitab al-At'imah details the etiquettes of eating, distinctions between Halal and Haram food, methods of slaughtering, the rulings of sacrifice (Udhiyah), and the Sunnah of Aqiqah based on Hadiths."
+  },
+  "hadithRange": {
+    "from": 1135,
+    "to": 1170
+  },
+  "chapters": [
+    {
+      "id": 92,
+      "chapNo": 1,
+      "name": {
+        "arabic": " (أحاديث في الأطعمة)",
+        "english": "Hadiths Regarding Foods",
+        "urdu": " (کھانے کے متعلق احادیث)"
+      }
+    },
+    {
+      "id": 93,
+      "chapNo": 2,
+      "name": {
+        "arabic": "باب الصيد والذبائح ",
+        "english": "Chapter of Hunting and Slaughtering",
+        "urdu": " شکار اور ذبائح کا بیان"
+      }
+    },
+    {
+      "id": 94,
+      "chapNo": 3,
+      "name": {
+        "arabic": " باب الأضاحي",
+        "english": "Chapter of Sacrifice (Udhiyah)",
+        "urdu": "(احکام) قربانی کا بیان "
+      }
+    },
+    {
+      "id": 95,
+      "chapNo": 4,
+      "name": {
+        "arabic": "باب العقيقة",
+        "english": "Chapter of Aqiqah",
+        "urdu": "عقیقہ کا بیان "
+      }
+    }
+  ]
 }

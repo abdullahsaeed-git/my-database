@@ -2,12 +2,20 @@
   "chapId": 41,
   "bookId": 6,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "اگر کوئی دشمن یا کسی رکاوٹ کی وجہ سے بیت اللہ تک نہ پہنچ سکے تو اسے چاہیے کہ وہیں قربانی کرے، سر منڈوائے اور احرام کھول دے۔",
+      "بیمار یا معذور شخص احرام باندھتے وقت یہ شرط لگا سکتا ہے کہ جہاں وہ رک جائے گا وہی اس کے احرام کھولنے کی جگہ ہوگی، اس صورت میں اسے دم (قربانی) نہیں دینا پڑتا۔",
+      "حالتِ احرام میں اگر کسی کا عضو ٹوٹ جائے یا وہ شدید زخمی ہو جائے تو وہ احرام کھول سکتا ہے، تاہم اسے اگلے سال اس کی قضا کرنی ہوگی۔"
+    ],
+    "english": [
+      "If a pilgrim is prevented from reaching the Ka'bah due to an enemy or any obstruction, they should sacrifice their animal, shave their head, and exit Ihram where they are.",
+      "A person who is ill or fears an impediment can make a condition at the time of entering Ihram, stating that their place of exiting shall be wherever they are hindered.",
+      "A Muhrim who suffers a fracture or becomes disabled by injury is permitted to exit the state of Ihram, but they must perform the pilgrimage again the following year."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب حج یا عمرہ کے دوران کسی دشمن، بیماری یا حادثے کی وجہ سے رک جانے (احصار) کے احکامات اور ایسی صورت میں احرام کھولنے کے طریقے بیان کرتا ہے۔",
+    "english": "This chapter details the rulings for being prevented (Ihsar) from completing Hajj or Umrah due to enemies, illness, or injury, and the method for exiting Ihram in such cases."
   },
   "hadithRange": {
     "from": 645,

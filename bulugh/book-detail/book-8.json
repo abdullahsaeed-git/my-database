@@ -1,168 +1,158 @@
 {
-    "bookId": 8,
-    "summary": {
-        "english": [], 
-        "urdu": []
-    },
-    "description": {
-        "urdu": " ",
-        "english" : " "
-    }, 
-    "hadithRange": {
-"from": 824,
-"to": 992
-    },
-    "chapters": [
-        
-        {
-            "id": 64,
-            "chapNo": 1,
-            "name": {
-                "arabic": " (أحاديث في النكاح)",
-                "english": " ",
-                "urdu": "(نکاح کے متعلق احادیث) "
-            }
-        },
-
-        {
-            "id": 65,
-            "chapNo": 2,
-            "name": {
-                "arabic": "باب الكفاءة والخيار ",
-                "english": " ",
-                "urdu": " کفو (مثل، نظیر اور ہمسری) اور اختیار کا بیان"
-            }
-        },
-
-        {
-            "id": 66,
-            "chapNo": 3,
-            "name": {
-                "arabic": "باب عشرة النساء ",
-                "english": " ",
-                "urdu": " عورتوں (بیویوں) کے ساتھ رہن سہن و میل جول کا بیان"
-            }
-        },
-
-        {
-            "id": 67,
-            "chapNo": 4,
-            "name": {
-                "arabic": " باب الصداق",
-                "english": " ",
-                "urdu": "حق مہر کا بیان "
-            }
-        },
-
-        {
-            "id": 68,
-            "chapNo": 5,
-            "name": {
-                "arabic": " باب القسم",
-                "english": " ",
-                "urdu": " ولیمہ کا بیان"
-            }
-        },
-
-        {
-            "id": 69,
-            "chapNo": 6,
-            "name": {
-                "arabic": " باب القسم",
-                "english": " ",
-                "urdu": "بیویوں میں باری کی تقسیم کا بیان "
-            }
-        },
-
-        {
-            "id": 70,
-            "chapNo": 7,
-            "name": {
-                "arabic": "خلع کا بیان ",
-                "english": " ",
-                "urdu": " خلع کا بیان"
-            }
-        },
-        
-        {
-            "id": 71,
-            "chapNo": 8,
-            "name": {
-                "arabic": " باب الطلاق",
-                "english": " ",
-                "urdu": "طلاق کا بیان "
-            }
-        },
-
-        {
-            "id": 72,
-            "chapNo": 9,
-            "name": {
-                "arabic": " باب الرجعة",
-                "english": " ",
-                "urdu": " (طلاق سے) رجوع کرنے کا بیان"
-            }
-        },
-
-        {
-            "id": 73,
-            "chapNo": 10,
-            "name": {
-                "arabic": " باب الإيلاء والظهار والكفارة",
-                "english": " ",
-                "urdu": "باب اللعان "
-            }
-        },
-
-        {
-            "id": 74,
-            "chapNo": 11,
-            "name": {
-                "arabic": "باب اللعان ",
-                "english": " ",
-                "urdu": "عدت، سوگ اور استبراء رحم کا بیان "
-            }
-        },
-
-        {
-            "id": 75,
-            "chapNo": 12,
-            "name": {
-                "arabic": " عدت، سوگ اور استبراء رحم کا بیان",
-                "english": " ",
-                "urdu": " عدت، سوگ اور استبراء رحم کا بیان"
-            }
-        },
-
-        {
-            "id": 76,
-            "chapNo": 13,
-            "name": {
-                "arabic": " دودھ پلانے کا بیان",
-                "english": " ",
-                "urdu": "دودھ پلانے کا بیان "
-            }
-        },
-
-        {
-            "id": 77,
-            "chapNo": 14,
-            "name": {
-                "arabic": " باب النفقات",
-                "english": " ",
-                "urdu": "نفقات کا بیان "
-            }
-        },
-
-        {
-            "id": 78,
-            "chapNo": 15,
-            "name": {
-                "arabic": " پرورش و تربیت کا بیان",
-                "english": " ",
-                "urdu": "پرورش و تربیت کا بیان "
-            }
-        }
-
+  "bookId": 8,
+  "summary": {
+    "english": [
+      "Kitab al-Nikah covers the essential rulings of marriage, divorce, and family life in Islam.",
+      "It details the rights of spouses, the legality of marriage contracts, and the procedures for dissolution of marriage."
+    ],
+    "urdu": [
+      "کتاب النکاح میں شادی، طلاق اور خاندانی زندگی کے ضروری احکام بیان کیے گئے ہیں۔",
+      "اس میں میاں بیوی کے حقوق، نکاح کے معاہدے کی قانونی حیثیت اور علیحدگی کے طریقہ کار کی تفصیل شامل ہے۔"
     ]
+  },
+  "description": {
+    "urdu": "کتاب النکاح میں نکاح کی ترغیب، حق مہر، ولیمہ، طلاق، خلع، عدت اور بچوں کی پرورش جیسے اہم سماجی و عائلی مسائل کو احادیث کی روشنی میں بیان کیا گیا ہے۔",
+    "english": "Kitab al-Nikah provides a detailed collection of Hadiths regarding marriage proposals, dower (mahr), wedding feasts (walimah), divorce, waiting periods (iddah), and child custody."
+  },
+  "hadithRange": {
+    "from": 824,
+    "to": 992
+  },
+  "chapters": [
+    {
+      "id": 64,
+      "chapNo": 1,
+      "name": {
+        "arabic": "باب النكاح",
+        "english": "Chapter of Marriage",
+        "urdu": "(نکاح کے متعلق احادیث) "
+      }
+    },
+    {
+      "id": 65,
+      "chapNo": 2,
+      "name": {
+        "arabic": "باب الكفاءة والخيار ",
+        "english": "Chapter of Compatibility and Option",
+        "urdu": " کفو (مثل، نظیر اور ہمسری) اور اختیار کا بیان"
+      }
+    },
+    {
+      "id": 66,
+      "chapNo": 3,
+      "name": {
+        "arabic": "باب عشرة النساء ",
+        "english": "Chapter of Living with Women (Wives)",
+        "urdu": " عورتوں (بیویوں) کے ساتھ رہن سہن و میل جول کا بیان"
+      }
+    },
+    {
+      "id": 67,
+      "chapNo": 4,
+      "name": {
+        "arabic": " باب الصداق",
+        "english": "Chapter of Dower (Mahr)",
+        "urdu": "حق مہر کا بیان "
+      }
+    },
+    {
+      "id": 68,
+      "chapNo": 5,
+      "name": {
+        "arabic": " باب الوليمة",
+        "english": "Chapter of the Wedding Feast (Walimah)",
+        "urdu": " ولیمہ کا بیان"
+      }
+    },
+    {
+      "id": 69,
+      "chapNo": 6,
+      "name": {
+        "arabic": " باب القسم",
+        "english": "Chapter of the Distribution of Nights",
+        "urdu": "بیویوں میں باری کی تقسیم کا بیان "
+      }
+    },
+    {
+      "id": 70,
+      "chapNo": 7,
+      "name": {
+        "arabic": "باب الخلع",
+        "english": "Chapter of Khul' (Divorce by Wife)",
+        "urdu": " خلع کا بیان"
+      }
+    },
+    {
+      "id": 71,
+      "chapNo": 8,
+      "name": {
+        "arabic": " باب الطلاق",
+        "english": "Chapter of Divorce",
+        "urdu": "طلاق کا بیان "
+      }
+    },
+    {
+      "id": 72,
+      "chapNo": 9,
+      "name": {
+        "arabic": " باب الرجعة",
+        "english": "Chapter of Taking Back the Wife (Ruju')",
+        "urdu": " (طلاق سے) رجوع کرنے کا بیان"
+      }
+    },
+    {
+      "id": 73,
+      "chapNo": 10,
+      "name": {
+        "arabic": " باب الإيلاء والظهار والكفارة",
+        "english": "Chapter of Ila, Zihar, and Expiation",
+        "urdu": "ایلاء، ظہار اور کفارے کا بیان"
+      }
+    },
+    {
+      "id": 74,
+      "chapNo": 11,
+      "name": {
+        "arabic": "باب اللعان ",
+        "english": "Chapter of Li'an (Mutual Imprecation)",
+        "urdu": "لعان کا بیان"
+      }
+    },
+    {
+      "id": 75,
+      "chapNo": 12,
+      "name": {
+        "arabic": "باب العدة والاستبراء",
+        "english": "Chapter of Iddah and Istibra (Waiting Period)",
+        "urdu": " عدت، سوگ اور استبراء رحم کا بیان"
+      }
+    },
+    {
+      "id": 76,
+      "chapNo": 13,
+      "name": {
+        "arabic": "باب الرضاع",
+        "english": "Chapter of Breastfeeding (Rada'ah)",
+        "urdu": "دودھ پلانے کا بیان "
+      }
+    },
+    {
+      "id": 77,
+      "chapNo": 14,
+      "name": {
+        "arabic": " باب النفقات",
+        "english": "Chapter of Maintenance (Nafaqah)",
+        "urdu": "نفقات کا بیان "
+      }
+    },
+    {
+      "id": 78,
+      "chapNo": 15,
+      "name": {
+        "arabic": "باب الحضانة",
+        "english": "Chapter of Custody (Hadanah)",
+        "urdu": "پرورش و تربیت کا بیان "
+      }
+    }
+  ]
 }

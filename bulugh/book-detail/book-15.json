@@ -1,39 +1,50 @@
 {
-    "bookId": 15,
-    "summary": {
-        "english": [], 
-        "urdu": []
-    },
-    "description": {
-        "urdu": " ",
-        "english" : " "
-    }, 
-    "hadithRange": {
-"from": 1220,
-"to": 1235
-    },
-    "chapters": [
-        {
-            "id": 100,
-            "chapNo": 1,
-            "name": {
-                "arabic": "(أحاديث في العتق) ",
-                "english": " ",
-                "urdu": "(آزادی کے متعلق احادیث) "
-            }
-        },
-
-        
-        {
-            "id": 101,
-            "chapNo": 2,
-            "name": {
-                "arabic": "باب المدبر والمكاتب وأم الولد ",
-                "english": " ",
-                "urdu": "مدبر، مکاتب اور ام ولد کا بیان "
-            }
-        }
-
-
+  "bookId": 18,
+  "summary": {
+    "english": [
+      "Kitab al-Qada focuses on the Islamic judicial system, the ethics of judgeship, and the process of legal arbitration.",
+      "It outlines the requirements for witnesses, the presentation of evidence, and the methodology of reaching a just verdict."
+    ],
+    "urdu": [
+      "کتاب القضاء اسلامی عدالتی نظام، منصف کے آداب اور قانونی ثالثی کے عمل پر توجہ مرکوز کرتی ہے۔",
+      "اس میں گواہوں کی شرائط، ثبوتوں کی پیش کش اور منصفانہ فیصلے تک پہنچنے کے طریقہ کار کی وضاحت کی گئی ہے۔"
     ]
+  },
+  "description": {
+    "urdu": "کتاب القضاء میں عدل و انصاف کے اصول، قاضی کی ذمہ داریاں، گواہی کے نصاب اور مدعی و مدعی علیہ کے مابین فیصلوں سے متعلق احادیث کو جمع کیا گیا ہے۔",
+    "english": "Kitab al-Qada details Hadiths regarding the principles of justice, responsibilities of a judge, criteria for testimonies, and rulings on legal claims and evidence."
+  },
+  "hadithRange": {
+    "from": 1188,
+    "to": 1219
+  },
+  "chapters": [
+    {
+      "id": 97,
+      "chapNo": 1,
+      "name": {
+        "arabic": " (أحاديث في القضاء)",
+        "english": "Hadiths Regarding Judgeship and Justice",
+        "urdu": " (قضاء کے متعلق احادیث)"
+      }
+    },
+    {
+      "id": 98,
+      "chapNo": 2,
+      "name": {
+        "arabic": "باب الشهادات ",
+        "english": "Chapter of Testimonies (Witnesses)",
+        "urdu": " شہادتوں (گواہیوں) کا بیان"
+      }
+    },
+    {
+      "id": 99,
+      "chapNo": 3,
+      "name": {
+        "arabic": "باب الدعوى والبينات ",
+        "english": "Chapter of Legal Claims and Evidence",
+        "urdu": "دعویٰ اور دلائل کا بیان "
+      }
+    }
+  ]
 }

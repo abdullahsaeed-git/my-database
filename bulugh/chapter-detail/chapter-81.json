@@ -2,12 +2,24 @@
   "chapId": 81,
   "bookId": 9,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "قسامت کا مطلب یہ ہے کہ جب کسی بستی یا قبیلے کے قریب کوئی لاش ملے اور قاتل کا پتہ نہ ہو، تو پچاس قسموں کے ذریعے مقدمے کا فیصلہ کیا جاتا ہے۔",
+      "اسلام نے قسامت کے اس طریقے کو برقرار رکھا جو دورِ جاہلیت سے رائج تھا تاکہ انسانی جان کا خون رائیگاں نہ جائے اور انصاف کے تقاضے پورے ہوں۔",
+      "مجلس یا عدالت میں گفتگو کا حق پہلے عمر میں بڑے شخص کو دینا مسنون ہے، جیسا کہ نبی ﷺ نے 'کبِّر کبِّر' (بڑے کو بولنے دو) فرما کر رہنمائی فرمائی۔",
+      "اگر مدعی فریق (مقتول کے ورثاء) پچاس قسمیں کھانے سے انکار کر دے اور مدعا علیہ (جن پر شک ہے) کی قسم پر بھی مطمئن نہ ہو، تو ریاست فتنہ ختم کرنے کے لیے بیت المال سے دیت ادا کر سکتی ہے۔",
+      "نبی ﷺ نے خیبر کے معاملے میں ثبوت کی کمی اور فریقین کے قسم نہ اٹھانے پر خود سرکاری خزانے سے 100 اونٹ بطور دیت ادا فرمائے تاکہ امن برقرار رہے۔"
+    ],
+    "english": [
+      "Al-Qasamah is a legal procedure involving fifty oaths used to settle a murder case when a body is found in a locality but the specific killer is unknown.",
+      "Islam retained the system of Al-Qasamah from the pre-Islamic period to ensure that no life is lost without accountability and to uphold justice.",
+      "It is an established etiquette in legal or formal gatherings to allow the eldest person to speak first, as guided by the Prophet (ﷺ) with the phrase 'Let the eldest speak.'",
+      "If the plaintiffs (the victim's kin) refuse to take the fifty oaths and do not trust the oaths of the defendants, the state may intervene by paying the Diyat from the public treasury to prevent civil strife.",
+      "In the case of the slain Sahabi at Khaybar, the Prophet (ﷺ) paid 100 camels as Diyat from the state treasury (Bayt al-Mal) when the legal requirements for retaliation were not met, ensuring peace."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب قسامت (مقتول کے ورثاء کی پچاس قسموں) کے ذریعے قاتل کا تعین کرنے، مقدمات میں بڑوں کو ترجیح دینے اور ریاست کی طرف سے دیت کی ادائیگی کے احکامات بیان کرتا ہے۔",
+    "english": "This chapter outlines the legal process of Al-Qasamah (collective oath-taking), the etiquette of seniority in speech, and the role of the state in providing compensation when a killer cannot be identified."
   },
   "hadithRange": {
     "from": 1020,

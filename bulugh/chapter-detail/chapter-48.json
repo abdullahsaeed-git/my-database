@@ -2,12 +2,22 @@
   "chapId": 48,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "مسلمانوں کے درمیان تنازعات کا حل صلح کے ذریعے کرنا جائز ہے، بشرطیکہ وہ شرعی حدود کے اندر ہو اور کسی حلال کو حرام یا حرام کو حلال نہ کرے۔",
+      "معاہدات میں طے کردہ جائز شرائط کی پابندی ہر مسلمان پر لازم ہے۔",
+      "پڑوسیوں کو ایک دوسرے کے ساتھ حسنِ سلوک کرنا چاہیے، بشمول دیوار کا سہارا لینے جیسی چھوٹی ضرورتوں میں تعاون کرنا۔",
+      "کسی بھی مسلمان کا مال، خواہ وہ معمولی لاٹھی ہی کیوں نہ ہو، اس کی دلی رضامندی کے بغیر لینا شرعاً حرام ہے۔"
+    ],
+    "english": [
+      "Amicable settlements (Sulh) are encouraged in Islam to resolve disputes, provided they do not violate divine law by altering the status of Halal and Haram.",
+      "Muslims are legally and morally bound to uphold the valid conditions and terms of their mutual agreements.",
+      "Neighbors should maintain a cooperative relationship, such as allowing a neighbor to use one's wall for structural support when needed.",
+      "The sanctity of private property is absolute; it is unlawful to take even a trivial item, like a staff, without the owner's genuine consent."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب صلح کے شرعی ضوابط، پڑوسیوں کے حقوق اور دوسروں کی ملکیت کے احترام و تقدس کی وضاحت کرتا ہے۔",
+    "english": "This chapter details the legal framework for settlements (Sulh), the rights of neighbors, and the sanctity of individual property ownership."
   },
   "hadithRange": {
     "from": 735,

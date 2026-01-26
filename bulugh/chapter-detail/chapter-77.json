@@ -2,12 +2,28 @@
   "chapId": 77,
   "bookId": 8,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "بیوی اور بچوں کا نان و نفقہ (کھانا، لباس اور رہائش) شوہر کی ذمہ داری ہے؛ اگر شوہر کنجوسی کرے تو بیوی اس کے علم کے بغیر ضرورت کے مطابق مال لے سکتی ہے۔",
+      "خرچ کرنے کی ترجیحی ترتیب یہ ہے کہ انسان پہلے اپنی ذات پر، پھر اولاد، پھر بیوی، اور پھر خادم و دیگر رشتہ داروں پر خرچ کرے۔",
+      "حسنِ سلوک اور مالی مدد کے مستحقین میں سب سے مقدم ماں ہے، پھر والد، اور پھر قریبی رشتہ دار۔",
+      "کسی شخص کے گناہگار ہونے کے لیے یہ کافی ہے کہ وہ ان لوگوں کے نفقہ میں کوتاہی کرے جن کی کفالت اس کے ذمہ ہے۔",
+      "اگر شوہر نفقہ دینے کی بالکل استطاعت نہ رکھتا ہو، تو بیوی کو عدالتی طور پر علیحدگی (فسخِ نکاح) اختیار کرنے کا حق حاصل ہے۔",
+      "غلاموں اور ملازموں کے حقوق میں شامل ہے کہ انہیں کھانا اور لباس دیا جائے اور ان کی ہمت سے زیادہ کام کا بوجھ نہ ڈالا جائے۔",
+      "فوجی یا مسافر شوہر اگر طویل عرصے تک غائب ہو، تو اس پر لازم ہے کہ وہ گھر خرچ بھیجے، ورنہ اسے طلاق دینے پر مجبور کیا جائے گا۔"
+    ],
+    "english": [
+      "Maintenance (Nafaqah) of the wife and children is the husband's mandatory duty; if he is stingy, the wife is permitted to take what is reasonably sufficient from his wealth without his knowledge.",
+      "The priority in spending wealth starts with one's own self, followed by children, then the wife, and finally servants and other relatives.",
+      "In terms of kindness and financial support, the mother holds the highest priority, followed by the father and then the next closest relatives.",
+      "It is a sufficient sin for a person to neglect or withhold the necessary sustenance from those who are under their legal care and responsibility.",
+      "If a husband is completely unable to provide maintenance, the wife has the legal right to seek a separation (annulment) through the authorities.",
+      "Slaves and domestic workers are entitled to proper food and clothing, and they must not be burdened with labor beyond their physical capacity.",
+      "Husbands away on military service or long journeys are obligated to send maintenance to their families or face the requirement to pronounce divorce."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب خاندان کی کفالت، بیوی، بچوں، والدین اور ملازموں کے مالی حقوق اور نفقہ کی عدم ادائیگی کی صورت میں قانونی نتائج کو بیان کرتا ہے۔",
+    "english": "This chapter details the financial responsibilities toward one's family, the rights of wives, children, parents, and servants to maintenance, and the legal consequences of failing to provide it."
   },
   "hadithRange": {
     "from": 975,

@@ -2,12 +2,30 @@
   "chapId": 94,
   "bookId": 12,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "قربانی ایک اہم عبادت ہے؛ صاحبِ حیثیت ہونے کے باوجود قربانی نہ کرنے والوں کے لیے سخت وعید ہے کہ وہ عیدگاہ کے قریب نہ آئیں۔",
+      "قربانی کا وقت عید کی نماز کے بعد شروع ہوتا ہے؛ نماز سے پہلے ذبح کیا گیا جانور عام گوشت شمار ہوگا، قربانی نہیں۔",
+      "قربانی کے لیے بہترین جانور وہ ہے جو موٹا تازہ، سینگوں والا اور عیوب سے پاک ہو؛ نبی ﷺ نے سفید و سیاہ مینڈھوں کی قربانی کو پسند فرمایا۔",
+      "چار قسم کے جانور قربانی کے لیے جائز نہیں: اندھا یا کانا، واضح بیمار، لنگڑا، اور ایسا بوڑھا یا کمزور جانور جس کی ہڈیوں میں گودا نہ رہا ہو۔",
+      "جانور کی عمر کا لحاظ رکھنا ضروری ہے؛ بکری یا گائے وغیرہ 'دوندے' (مسنہ) ہونے چاہئیں، تاہم مجبوری میں 6 ماہ کا موٹا تازہ دنبہ (جذعہ) بھی ذبح کیا جا سکتا ہے۔",
+      "قربانی کے بڑے جانوروں (اونٹ اور گائے) میں سات افراد شریک ہو سکتے ہیں۔",
+      "قربانی کا گوشت، کھال اور جھول وغیرہ ضرورت مندوں میں تقسیم کرنا چاہیے؛ قصاب کی اجرت قربانی کے گوشت یا کھال سے دینا جائز نہیں بلکہ الگ سے دینی چاہیے۔",
+      "ذبح کرتے وقت 'بسم اللہ اللہ اکبر' پڑھنا اور جانور کو بائیں پہلو پر لٹا کر اس کی گردن پر پاؤں رکھ کر ذبح کرنا سنت ہے۔"
+    ],
+    "english": [
+      "Sacrifice (Udhiyah) is a vital act of worship; those who possess the financial means but neglect it are strictly warned to stay away from the Eid prayer ground.",
+      "The legal time for sacrifice begins only after the Eid prayer; any animal slaughtered before the prayer is considered ordinary meat and does not count as a religious sacrifice.",
+      "The ideal sacrificial animal is fat, horned, and free from defects; the Prophet (ﷺ) specifically chose healthy, white-and-black marked rams for his Udhiyah.",
+      "Four types of animals are prohibited for sacrifice: those that are obviously one-eyed or blind, visibly sick, clearly lame, or so emaciated that they lack bone marrow.",
+      "Age requirements are mandatory: animals should generally be 'Musinnah' (having permanent incisors), though a sturdy six-month-old lamb (Jadha'ah) is permitted if a mature animal is unavailable.",
+      "In larger animals like camels and cows, up to seven people can share a single sacrifice.",
+      "The meat, skins, and coverings of the sacrificial animal should be distributed to the needy; it is forbidden to pay the butcher's wages using the animal's meat or skin.",
+      "It is Sunnah to mention Allah's name (Bismillah, Allahu Akbar) and place one's foot on the animal's neck while it is laid on its side for slaughter."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب عید الاضحیٰ کی قربانی کی اہمیت، جانوروں کے انتخاب کے معیار (عمر اور صحت)، ذبح کے مسنون طریقے اور تقسیمِ گوشت کے ضوابط بیان کرتا ہے۔",
+    "english": "This chapter details the significance of the Eid-ul-Adha sacrifice, criteria for selecting animals (age and health), the Prophetic method of slaughtering, and regulations for distributing the meat."
   },
   "hadithRange": {
     "from": 1160,

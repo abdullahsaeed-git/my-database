@@ -2,12 +2,20 @@
   "chapId": 38,
   "bookId": 6,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "حج کی تین اقسام (تمتع، قران اور افراد) جائز ہیں، جیسا کہ صحابہ کرام نے حجۃ الوداع کے موقع پر اپنی نیت کے مطابق تلبیہ پکارا۔",
+      "صرف عمرہ کی نیت کرنے والے ارکانِ عمرہ کی ادائیگی کے بعد احرام کھول کر حلال ہو سکتے ہیں۔",
+      "حجِ افراد یا حجِ قران (حج اور عمرہ ایک ساتھ) کرنے والے قربانی کے دن (10 ذوالحجہ) تک احرام کی پابندیوں میں رہتے ہیں۔"
+    ],
+    "english": [
+      "The three types of Hajj (Tamattu', Qiran, and Ifrad) are permissible, as the Companions made their intentions and shouted 'Labbayk' accordingly during the Farewell Pilgrimage.",
+      "Those who intend only for 'Umrah can relieve themselves of the Ihram restrictions after completing the 'Umrah rites.",
+      "Pilgrims performing Hajj al-Ifrad or Hajj al-Qiran must remain in the state of Ihram until the Day of Sacrifice (10th of Dhul-Hijjah)."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب حج کی مختلف اقسام (افراد، قران اور تمتع) کی نیت اور ان کی ادائیگی کے بعد احرام سے حلال ہونے کے اوقات کی وضاحت کرتا ہے۔",
+    "english": "This chapter explains the different types of Hajj intentions and the specific timings for relieving oneself from the state of Ihram."
   },
   "hadithRange": {
     "from": 592,

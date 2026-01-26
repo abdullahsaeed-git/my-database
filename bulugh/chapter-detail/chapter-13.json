@@ -2,12 +2,54 @@
   "chapId": 13,
   "bookId": 2,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "دورانِ نماز وضو ٹوٹ جانے کی صورت میں نماز چھوڑ کر دوبارہ وضو اور اعادہ کرنا لازم ہے۔",
+      "بالغہ عورت کی نماز سر ڈھانپے (دوپٹے) کے بغیر اللہ کے ہاں قبول نہیں ہوتی۔",
+      "نماز میں لباس ایسا ہونا چاہیے جو جسم کو ڈھانپے اور کم از کم ایک حصہ کندھوں پر ہو۔",
+      "عورت کے لیے ایسا لمبا کرتا پہن کر نماز پڑھنا جائز ہے جو اس کے قدموں کی پشت کو چھپا لے۔",
+      "قبلہ معلوم نہ ہونے کی صورت میں اجتہاد کر کے پڑھی گئی نماز درست ہے، خواہ سمت غلط نکلے۔",
+      "مشرق اور مغرب کے درمیان کا تمام رخ قبلہ کی وسیع سمت میں شامل ہے (اہلِ مدینہ کے لیے)۔",
+      "نفل نماز سواری پر کسی بھی سمت رخ کر کے پڑھی جا سکتی ہے، البتہ آغاز قبلہ رخ ہونا بہتر ہے۔",
+      "قبرستان اور غسل خانے (حمام) کے علاوہ پوری زمین کو نماز کے لیے پاک قرار دیا گیا ہے۔",
+      "نجاست کے مقامات، ذبح خانوں اور اونٹوں کے باڑوں میں نماز ادا کرنا ممنوع ہے (ضعیف روایت)۔",
+      "قبروں کی طرف رخ کر کے نماز پڑھنے اور ان پر بیٹھنے سے سختی سے منع کیا گیا ہے۔",
+      "اگر جوتوں میں نجاست نہ ہو تو ان کو پہن کر نماز پڑھنا جائز اور سنت سے ثابت ہے۔",
+      "مٹی اور پاک زمین موزوں یا جوتوں پر لگی نجاست کو دور کرنے کے لیے قدرتی پاک کنندہ ہے۔",
+      "نماز میں دنیوی یا عام انسانی گفتگو کرنا حرام ہے، یہ وقت صرف ذکر و تلاوت کا ہے۔",
+      "نماز کے دوران خاموشی اختیار کرنا واجب ہے اور ضرورت کے تحت بات کرنا اب منسوخ ہے۔",
+      "امام کو متنبہ کرنے کے لیے مردوں کو 'سبحان اللہ' کہنا چاہیے اور عورتوں کو تالی بجانی چاہیے۔",
+      "اللہ کے خوف اور خشوع سے نماز میں رونا یا سینے سے آواز آنا سنتِ نبوی سے ثابت ہے۔",
+      "نماز کے دوران ضرورت پڑنے پر کھنکار کر یا کسی اشارے سے اپنی موجودگی ظاہر کرنا جائز ہے۔",
+      "نماز پڑھتے ہوئے سلام کا جواب زبانی دینے کے بجائے ہاتھ کے اشارے سے دینا مسنون ہے۔",
+      "نماز کے دوران چھوٹے بچوں کو اٹھانے یا گود میں لینے سے نماز کی صحت پر اثر نہیں پڑتا۔",
+      "نماز کی حالت میں موذی جانوروں جیسے سانپ اور بچھو کو مارنا جائز بلکہ حکم ہے۔"
+    ],
+    "english": [
+      "Invalidation of Wudu during prayer requires leaving to re-purify and repeating the entire prayer.",
+      "The prayer of a post-pubescent woman is not valid unless her head is properly covered with a Khimar.",
+      "A single garment used for prayer must be wrapped sufficiently to cover at least one shoulder.",
+      "Women may pray in a long gown and head covering if the gown is long enough to hide the feet.",
+      "Prayers performed after an honest effort to find the Qiblah are valid even if the direction was wrong.",
+      "The general direction between East and West is considered the Qiblah for specific geographical regions.",
+      "Voluntary prayers can be offered on a mount facing any direction, though starting toward the Qiblah is ideal.",
+      "The entire earth serves as a mosque, with the specific exceptions of graveyards and bathhouses.",
+      "Praying in filthy areas, slaughterhouses, or camel pens is prohibited to maintain ritual sanctity.",
+      "Facing graves during prayer or sitting upon them is strictly forbidden in Islamic etiquette.",
+      "It is permissible and according to the Sunnah to pray in sandals provided they are free from filth.",
+      "Earth and dust act as natural purifiers for shoes or leather socks that have trodden on impurity.",
+      "Ordinary human speech is incompatible with prayer, which is reserved for glorifying Allah and Quranic recitation.",
+      "Silence is mandatory during prayer, as the earlier practice of talking during Salah was abrogated.",
+      "To alert the Imam, men should say 'SubhanAllah' while women should clap their hands.",
+      "Crying out of the fear of Allah during prayer is a sign of devotion observed in the Prophet's (ﷺ) practice.",
+      "Clearing the throat (Tanahnuḥ) is a permissible way to signal one's state while engaged in prayer.",
+      "Responding to a greeting while praying should be done through a hand gesture rather than verbal speech.",
+      "Carrying a small child during obligatory or voluntary prayer does not invalidate the act of worship.",
+      "Eliminating harmful creatures like snakes and scorpions during prayer is permitted for safety."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب نماز کی شرائط، لباس، قبلہ کے تعین، جگہ کی پاکیزگی اور دورانِ نماز جائز و ناجائز افعال کی وضاحت کرتا ہے۔",
+    "english": "This chapter details the prerequisites of prayer, clothing, Qiblah direction, purity of location, and permissible actions during Salah."
   },
   "hadithRange": {
     "from": 160,

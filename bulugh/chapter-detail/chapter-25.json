@@ -2,12 +2,24 @@
   "chapId": 25,
   "bookId": 2,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "سورج اور چاند گرہن اللہ کی نشانیاں ہیں، ان کا کسی کی موت یا زندگی سے کوئی تعلق نہیں ہوتا۔",
+      "نمازِ کسوف (گرہن کی نماز) میں قرآت بلند آواز سے کرنا اور دو رکعتوں میں چار رکوع کرنا مسنون ہے۔",
+      "گرہن کی نماز میں طویل قیام اور طویل رکوع کرنا چاہیے یہاں تک کہ گرہن ختم ہو جائے۔",
+      "تیز آندھی اور طوفان کے وقت گھٹنوں کے بل بیٹھ کر اللہ سے رحمت کی دعا مانگنی چاہیے۔",
+      "زلزلے جیسی قدرتی آفات (آیاتِ الٰہی) کے موقع پر مخصوص طریقے سے نماز ادا کرنا ثابت ہے۔"
+    ],
+    "english": [
+      "Solar and lunar eclipses are signs of Allah and are unrelated to the birth or death of any person.",
+      "The eclipse prayer involves loud recitation and a unique format of four bowings within two units.",
+      "It is sunnah to prolong the standing and bowing in the eclipse prayer until the celestial event concludes.",
+      "During heavy winds, one should humble themselves and supplicate to Allah for mercy and protection from punishment.",
+      "Prayers for natural signs, such as earthquakes, follow a specific multi-bowing structure as practiced by the Sahaba."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب سورج اور چاند گرہن کی نماز (کسوف و خسوف) کے طریقے، اور دیگر قدرتی آفات کے وقت مسنون دعاؤں کی وضاحت کرتا ہے۔",
+    "english": "This chapter details the method for eclipse prayers (Kusuf and Khusuf) and the recommended supplications during natural phenomena like storms and earthquakes."
   },
   "hadithRange": {
     "from": 401,

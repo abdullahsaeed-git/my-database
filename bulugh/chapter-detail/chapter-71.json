@@ -2,12 +2,30 @@
   "chapId": 71,
   "bookId": 8,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "طلاق اگرچہ ایک جائز عمل ہے، لیکن اللہ تعالیٰ کے نزدیک تمام حلال کاموں میں سب سے زیادہ ناپسندیدہ ہے۔",
+      "حیض کی حالت میں طلاق دینا منع ہے؛ اگر کوئی ایسا کرے تو اسے رجوع کرنے اور پاکیزگی کے ایام کا انتظار کرنے کا حکم دیا جائے گا، کیونکہ یہ سنت کے خلاف ہے۔",
+      "ایک ہی وقت میں یا ایک ہی مجلس میں تین طلاقیں دینا گناہ اور کتاب اللہ کے ساتھ مذاق کے مترادف ہے؛ عہدِ نبوی میں ایسی طلاق کو ایک ہی شمار کیا جاتا تھا۔",
+      "نکاح، طلاق اور رجوع ایسے سنگین معاملات ہیں کہ ان میں کیا گیا مذاق بھی حقیقت میں نافذ ہو جاتا ہے۔",
+      "جب تک زبان سے طلاق کے الفاظ ادا نہ کیے جائیں، محض دل کے وسوسوں یا خیالات سے طلاق واقع نہیں ہوتی۔",
+      "بیوی کو خود پر 'حرام' قرار دینا طلاق نہیں بلکہ ایک قسم ہے، جس سے رجوع کرنے کے لیے کفارہ ادا کرنا لازم ہے۔",
+      "طلاق صرف اس عورت کو دی جا سکتی ہے جو نکاح میں ہو؛ نکاح سے پہلے دی گئی طلاق کی کوئی شرعی حیثیت نہیں۔",
+      "ایسے افراد جو اپنے حواس میں نہ ہوں، جیسے سویا ہوا شخص، نابالغ بچہ، یا دیوانہ، ان کے الفاظ یا افعال پر شرعی گرفت نہیں ہوتی۔"
+    ],
+    "english": [
+      "Divorce, while legally permissible, is described as the most detested of all lawful actions in the sight of Allah.",
+      "Issuing a divorce during menstruation is prohibited; if done, the husband is commanded to revoke it and wait for a period of purity, as this aligns with the prescribed Sunnah method.",
+      "Pronouncing three divorces simultaneously is a grave sin and considered playing with the Book of Allah; historically, during the Prophet's (ﷺ) time, such an act was treated as a single divorce.",
+      "Marriage, divorce, and taking back a wife are matters so serious that they are legally binding even if uttered in jest or as a joke.",
+      "Divorce does not occur through mere thoughts or whispers of the heart; it only takes effect once the words are spoken aloud or acted upon.",
+      "Declaring one's wife as 'forbidden' (Haram) does not constitute a divorce; rather, it is treated as an oath that requires expiation (Kaffarah) to break.",
+      "A divorce can only be issued to a woman who is already under a valid marriage contract; a 'divorce' pronounced before marriage is null and void.",
+      "Legal and religious accountability is suspended for three types of people: the sleeper until they wake, the minor until they reach puberty, and the insane until they regain sanity."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب طلاق کی ناپسندیدگی، طلاقِ سنت (حیض میں ممانعت)، ایک وقت میں تین طلاقوں کا حکم، اور ان حالات کا بیان کرتا ہے جن میں طلاق واقع نہیں ہوتی۔",
+    "english": "This chapter details the detestability of divorce, the Sunnah method of divorce (prohibition during menses), the ruling on triple divorce in one sitting, and conditions under which divorce remains invalid."
   },
   "hadithRange": {
     "from": 915,

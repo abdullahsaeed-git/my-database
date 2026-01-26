@@ -2,12 +2,30 @@
   "chapId": 46,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "بیعِ سلم (پیشگی ادائیگی) میں ناپ، وزن اور وقتِ ادائیگی کا واضح تعین ہونا لازمی شرط ہے۔",
+      "تجارت میں مال کی دستیابی کا یقین ضروری ہے، اگرچہ بیچنے والے کی اپنی ملکیت میں وہ کھیت ہونا ضروری نہیں، بشرطیکہ وہ بروقت فراہم کر سکے۔",
+      "قرض لیتے وقت نیت صاف ہونی چاہیے؛ جو ادائیگی کی نیت رکھتا ہے اللہ اس کی مدد فرماتا ہے، اور جو دبانے کی نیت رکھتا ہے اللہ اسے برباد کر دیتا ہے۔",
+      "ضرورت کے وقت اشیاء کو ادھار پر خریدنا جائز ہے، جیسا کہ نبی ﷺ نے کپڑے کی خریداری کے لیے کوشش فرمائی۔",
+      "رہن (گروی) رکھے ہوئے جانور کے اخراجات (چارہ وغیرہ) اٹھانے والا اس سے سواری اور دودھ کا فائدہ حاصل کرنے کا حقدار ہے۔",
+      "گروی رکھی ہوئی چیز کا اصل مالک وہی رہتا ہے جس نے اسے رہن رکھا ہو؛ اس کا نفع اور نقصان اسی کے ذمہ ہے۔",
+      "قرض کی واپسی میں اصل سے بہتر چیز دینا جائز اور اخلاقِ حسنہ کا حصہ ہے، بشرطیکہ یہ پہلے سے طے شدہ شرط نہ ہو۔",
+      "ہر وہ قرض جو (مشروط طور پر) کسی قسم کا اضافی نفع کھینچ لائے، وہ سود (ربا) کے زمرے میں آتا ہے۔"
+    ],
+    "english": [
+      "In Salam transactions (advance payment), specifying the exact measure, weight, and delivery date is a mandatory legal requirement.",
+      "Reliability in trade is key; it is permissible to pay in advance for commodities even if the seller does not currently possess the specific crop, provided delivery is guaranteed.",
+      "The intention behind borrowing is critical: Allah assists those who intend to repay, while those who intend to default face divine ruin.",
+      "Purchasing essential goods on credit is a permissible practice in Islamic law, as shown by the Prophet's (ﷺ) own actions.",
+      "The person bearing the maintenance costs of a pledged (mortgaged) animal has the right to utilize its milk and transportation services.",
+      "A pledged item (Rahn) remains the legal property of its owner; they are entitled to its gains and responsible for its liabilities.",
+      "Repaying a debt with a commodity of superior quality than what was borrowed is a noble act, provided it was not a pre-stipulated condition.",
+      "Any loan agreement that draws a specific financial or material benefit for the lender is categorized as prohibited usury (Riba)."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب پیشگی ادائیگی کے سودوں (بیع سلم)، گروی رکھنے کے ضوابط (رہن) اور قرض کی ادائیگی کے اخلاقی و شرعی احکامات کی وضاحت کرتا ہے۔",
+    "english": "This chapter details the regulations for advance payment sales (Salam), the rules of pledging assets (Rahn), and the legal and ethical framework for debt repayment."
   },
   "hadithRange": {
     "from": 719,

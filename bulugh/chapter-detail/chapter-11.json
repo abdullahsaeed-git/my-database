@@ -2,12 +2,44 @@
   "chapId": 11,
   "bookId": 2,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "پانچوں نمازوں کے اوقات سورج کی حرکت اور سائے کی لمبائی سے متعین ہوتے ہیں۔",
+      "عصر کی نماز سورج کے روشن اور بلند رہنے کے دوران جلدی ادا کرنا مسنون ہے، جبکہ عشاء کے بعد باتیں کرنا ناپسندیدہ ہے۔",
+      "مغرب کی نماز سورج غروب ہوتے ہی اول وقت میں پڑھنی چاہیے جب ابھی اتنی روشنی ہو کہ تیر گرنے کی جگہ نظر آ سکے۔",
+      "عشاء کی نماز میں تاخیر کرنا افضل ہے بشرطیکہ امت کے لیے باعثِ مشقت نہ ہو۔",
+      "شدید گرمی کے موسم میں ظہر کی نماز کو تھوڑا ٹھنڈا کر کے (تاخیر سے) پڑھنا مسنون ہے۔",
+      "فجر کی نماز اجالے (صبحِ صادق کے خوب واضح ہونے) میں پڑھنا زیادہ باعثِ اجر ہے۔",
+      "طلوعِ آفتاب یا غروبِ آفتاب سے پہلے ایک رکعت پا لینے سے نماز کا وقت پا لیا جاتا ہے۔",
+      "نمازِ فجر اور عصر کے بعد نفل نماز ادا کرنا شرعاً ممنوع ہے۔",
+      "مکہ مکرمہ میں بیت اللہ کے طواف اور اس کے بعد کی نماز کے لیے کوئی وقت ممنوع نہیں ہے۔",
+      "شفق سے مراد وہ سرخی ہے جو غروبِ آفتاب کے بعد آسمان پر نمودار ہوتی ہے (موقوف روایت)۔",
+      "فجر کی دو قسمیں ہیں: فجرِ کاذب (جس میں کھانا جائز ہے) اور فجرِ صادق (جس میں نماز جائز اور روزہ شروع ہوتا ہے)۔",
+      "تمام نیک اعمال میں سب سے بہترین عمل نماز کو اس کے اول وقت میں ادا کرنا ہے۔",
+      "نماز کی اول وقت میں ادائیگی اللہ کی رضا، درمیانی وقت میں رحمت اور آخری وقت میں معافی کا سبب ہے (ضعیف روایت)۔",
+      "صبحِ صادق کے طلوع ہونے کے بعد فجر کی دو سنتوں کے علاوہ کوئی نفل نماز نہیں ہے۔",
+      "رسول اللہ ﷺ نے ظہر کی چھوٹی ہوئی سنتیں عصر کے بعد ادا کیں، لیکن یہ صرف آپ ﷺ کی خصوصیت تھی، امت کے لیے نہیں۔"
+    ],
+    "english": [
+      "The specific timings for the five daily prayers are determined by the sun's position and shadow length.",
+      "Offering 'Asr while the sun is still bright and avoiding late-night talk after 'Isha are emphasized practices.",
+      "Maghrib should be prayed immediately after sunset while there is still enough light to see clearly.",
+      "Delaying the 'Isha prayer is preferred, provided it does not cause undue hardship for the community.",
+      "In extreme summer heat, it is sunnah to delay the Dhuhr prayer until the temperature cools down.",
+      "Performing the Fajr prayer when the light of dawn has clearly spread increases the spiritual reward.",
+      "Catching at least one rak'ah before sunrise or sunset means the prayer has been caught within its time.",
+      "Engaging in voluntary (nafl) prayers is prohibited after the obligatory Fajr and 'Asr prayers.",
+      "Tawaf and its subsequent prayers in the Masjid al-Haram are permitted at any time, day or night.",
+      "Twilight (Shafaq) refers to the redness in the sky after sunset according to the companions' understanding.",
+      "True dawn (Fajr Sadiq) spreads horizontally and starts the prayer time, unlike the vertical false dawn.",
+      "Performing prayers at the earliest possible time is recognized as the most virtuous of all deeds.",
+      "Prayer timings are categorized into stages of Allah's pleasure, mercy, and pardon (weak narration).",
+      "No voluntary prayers are allowed after the onset of dawn except for the two sunnah rak'ahs of Fajr.",
+      "The Prophet (ﷺ) made up missed sunnahs after 'Asr, but this was a unique exception not applicable to the Ummah."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب پانچوں نمازوں کے اوقاتِ فضیلت، ممنوعہ اوقات اور وقت کے اندر نماز پانے کے شرعی ضابطوں کی وضاحت کرتا ہے۔",
+    "english": "This chapter details the prescribed times for the five daily prayers, prohibited intervals, and rulings on catching a prayer in time."
   },
   "hadithRange": {
     "from": 129,

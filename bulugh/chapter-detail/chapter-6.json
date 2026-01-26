@@ -2,12 +2,44 @@
   "chapId": 6,
   "bookId": 1,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "غلبہ نیند کی وہ حالت جس میں انسان اپنے آپ پر قابو رکھے وضو نہیں توڑتی۔",
+      "استخاضہ (بیماری کا خون) میں ہر نماز کے لیے نیا وضو کرنا ضروری ہے۔",
+      "مذی کے خارج ہونے سے صرف وضو لازم آتا ہے، غسل نہیں۔",
+      "محض چھونے یا بوسہ لینے سے وضو نہیں ٹوٹتا (ضعیف روایت کے مطابق)۔",
+      "شک کی بنیاد پر وضو نہیں ٹوٹتا جب تک آواز یا بو سے یقین نہ ہو جائے۔",
+      "شرمگاہ کو ہاتھ لگنے سے وضو نہیں ٹوٹتا اگر وہ عام جسمانی حصے کی طرح ہو۔",
+      "شرمگاہ کو براہ راست چھونا وضو کو واجب کر دیتا ہے (راجح قول)۔",
+      "قے، نکسیر یا خون نکلنے سے وضو ٹوٹنے کی روایت ضعیف قرار دی گئی ہے۔",
+      "اونٹ کا گوشت کھانے سے وضو کرنا واجب ہے، جبکہ بکری کے گوشت پر اختیاری ہے۔",
+      "میت کو غسل دینے سے غسل اور اٹھانے سے وضو کی ترغیب دی گئی ہے۔",
+      "قرآن مجید کو صرف باوضو حالت میں ہی چھونا جائز ہے۔",
+      "ذکر الہٰی ہر حال میں (باوضو یا بے وضو) کیا جا سکتا ہے۔",
+      "پچھنے لگوانے (حجامہ) سے وضو نہیں ٹوٹتا (کمزور روایت)۔",
+      "گہری نیند جس میں حواس قائم نہ رہیں وضو توڑ دیتی ہے۔",
+      "نماز میں شیطانی وسوسوں پر توجہ نہ دیں جب تک ناقضِ وضو کا یقین نہ ہو۔"
+    ],
+    "english": [
+      "Light sleep while sitting does not nullify Wudu if the person remains upright.",
+      "Vaginal bleeding outside menses (Istihadah) requires fresh Wudu for every prayer.",
+      "The discharge of pre-seminal fluid (Madhi) necessitates Wudu but not Ghusl.",
+      "Physical contact like kissing a spouse does not inherently break Wudu.",
+      "Doubt in the stomach does not break Wudu without sensory certainty of gas.",
+      "Touching the private part is like touching any other limb according to one view.",
+      "Directly touching the private part necessitates performing a new Wudu.",
+      "Vomiting or nosebleeds requiring Wudu is mentioned in a weak narration.",
+      "Eating camel meat mandates Wudu, unlike sheep meat which is optional.",
+      "Washing or carrying a deceased person may require ritual purification.",
+      "Touching the physical Mushaf (Quran) is only permitted for those in a state of purity.",
+      "Remembering and mentioning Allah is permissible in all states of ritual purity.",
+      "Cupping (Hijama) and bloodletting do not necessarily invalidate the state of Wudu.",
+      "Deep sleep where one loses consciousness of their surroundings nullifies Wudu.",
+      "Satanic whispers regarding ritual impurity should be ignored unless confirmed by sound or smell."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب ان امور کی وضاحت کرتا ہے جن سے وضو ٹوٹ جاتا ہے یا نہیں ٹوٹتا، بشمول نیند، جسمانی رطوبتیں، اور شک و یقین کے مسائل۔",
+    "english": "This chapter details the specific actions and conditions that nullify or maintain ritual purity, covering sleep, bodily discharges, and handling doubts during prayer."
   },
   "hadithRange": {
     "from": 62,

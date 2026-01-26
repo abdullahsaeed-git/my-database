@@ -2,12 +2,26 @@
   "chapId": 54,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "شفعہ (خریداری کا پہلا حق) ہر اس مشترکہ جائیداد میں ثابت ہے جو ابھی تقسیم نہ ہوئی ہو، جیسے زمین، مکان یا باغ۔",
+      "جب زمین کی حدود متعین کر دی جائیں اور راستے الگ ہو جائیں، تو شریک کا حقِ شفعہ ختم ہو جاتا ہے۔",
+      "کسی بھی شریک کے لیے جائز نہیں کہ وہ اپنے حصہ دار کو پیش کش کیے بغیر اپنا حصہ کسی تیسرے شخص کو فروخت کرے۔",
+      "قریبی ہمسایہ اپنے پڑوسی کی جائیداد کی خریداری کا زیادہ حقدار ہے، بالخصوص جب ان کا راستہ یا دیوار سانجھی ہو۔",
+      "اگر ہمسایہ موجود نہ ہو تو اس کا انتظار کیا جائے گا، بشرطیکہ وہ حقِ شفعہ کا دعویدار ہو۔",
+      "حقِ شفعہ ایک ایسا حق ہے جسے فوری استعمال کرنا چاہیے، تاخیر کی صورت میں یہ حق ختم ہو سکتا ہے (جیسے اونٹ کی رسی کھلنا)۔"
+    ],
+    "english": [
+      "The right of pre-emption (Shuf'a) is established in all joint properties that have not yet been divided, such as land, houses, or orchards.",
+      "Once boundaries are fixed and separate roads are laid out, the automatic right of pre-emption for a former partner ceases.",
+      "It is unlawful for a partner to sell their share to a stranger without first offering it to their existing business or property partner.",
+      "A neighbor has a primary right to purchase adjacent property due to proximity, especially if they share a common path or infrastructure.",
+      "If a neighbor with the right of pre-emption is absent, they should be waited for before the property is sold to an outsider.",
+      "The right of pre-emption is time-sensitive; it must be claimed promptly, or it may be forfeited (analogous to the quick loosening of a camel's tether)."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب مشترکہ جائیداد اور ہمسائیگی میں خریداری کے پہلے حق (شفعہ) کے شرعی ضوابط، حدود اور اس حق کے ختم ہونے کی صورتوں کو بیان کرتا ہے۔",
+    "english": "This chapter details the legal regulations, boundaries, and conditions for the right of pre-emption (Shuf'a) in joint properties and neighboring estates."
   },
   "hadithRange": {
     "from": 760,

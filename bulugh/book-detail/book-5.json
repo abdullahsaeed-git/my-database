@@ -1,47 +1,50 @@
 {
-    "bookId": 5,
-    "summary": {
-        "english": [], 
-        "urdu": []
-    },
-    "description": {
-        "urdu": " ",
-        "english" : " "
-    }, 
-    "hadithRange": {
-"from": 527,
-"to": 578
-    },
-    "chapters": [
-        
-        {
-            "id": 33,
-            "chapNo": 1,
-            "name": {
-                "arabic": " (أحاديث في الصيام)",
-                "english": " ",
-                "urdu": " (روزے کے متعلق احادیث)"
-            }
-        },
-
-        {
-            "id": 34,
-            "chapNo": 2,
-            "name": {
-                "arabic": "باب صوم التطوع وما نهي عن صومه ",
-                "english": " ",
-                "urdu": " نفلی روزے اور جن دنوں میں روزہ رکھنا منع ہے"
-            }
-        },
-
-        {
-            "id": 35,
-            "chapNo": 3,
-            "name": {
-                "arabic": "باب الاعتكاف وقيام رمضان ",
-                "english": " ",
-                "urdu": "اعتکاف اور قیام رمضان کا بیان "
-            }
-        }
+  "bookId": 5,
+  "summary": {
+    "english": [
+      "This book, Kitab al-Siyam, focuses on the rulings of Fasting during the month of Ramadan and beyond.",
+      "It includes guidance on the beginning of the month, the etiquette of fasting, and special acts of worship like Itikaf."
+    ],
+    "urdu": [
+      "یہ 'کتاب الصیام' (روزوں کا بیان) ہے، جس میں ماہ رمضان اور دیگر روزوں کے احکام بیان کیے گئے ہیں۔",
+      "اس میں چاند دیکھنے، روزے کے آداب، اور اعتکاف جیسی خصوصی عبادات کی رہنمائی شامل ہے۔"
     ]
+  },
+  "description": {
+    "urdu": "کتاب الصیام میں روزے کی فرضیت، سحری و افطاری کے مسائل، قضا روزوں کے احکام، نفلی روزے اور اعتکاف سے متعلق احادیث کو یکجا کیا گیا ہے۔",
+    "english": "Kitab al-Siyam covers the legal rulings of fasting in Ramadan, the virtues of voluntary fasts, prohibited days for fasting, and the practices of Itikaf and Qiyam Ramadan."
+  },
+  "hadithRange": {
+    "from": 527,
+    "to": 578
+  },
+  "chapters": [
+    {
+      "id": 33,
+      "chapNo": 1,
+      "name": {
+        "arabic": " (أحاديث في الصيام)",
+        "english": "Hadiths Regarding Fasting",
+        "urdu": " (روزے کے متعلق احادیث)"
+      }
+    },
+    {
+      "id": 34,
+      "chapNo": 2,
+      "name": {
+        "arabic": "باب صوم التطوع وما نهي عن صومه ",
+        "english": "Chapter of Voluntary Fasting and Prohibited Days",
+        "urdu": " نفلی روزے اور جن دنوں میں روزہ رکھنا منع ہے"
+      }
+    },
+    {
+      "id": 35,
+      "chapNo": 3,
+      "name": {
+        "arabic": "باب الاعتكاف وقيام رمضان ",
+        "english": "Chapter of Itikaf and Night Prayers in Ramadan",
+        "urdu": "اعتکاف اور قیام رمضان کا بیان "
+      }
+    }
+  ]
 }

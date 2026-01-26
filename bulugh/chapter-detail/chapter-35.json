@@ -2,12 +2,36 @@
   "chapId": 35,
   "bookId": 5,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "رمضان کی راتوں میں ایمان اور ثواب کی نیت سے قیام کرنا پچھلے گناہوں کی معافی کا ذریعہ ہے۔",
+      "رمضان کے آخری عشرے میں نبی ﷺ پوری رات عبادت کرتے اور اپنے گھر والوں کو بھی جگاتے تھے۔",
+      "رسول اللہ ﷺ وفات تک آخری عشرے کا اعتکاف فرماتے رہے، پھر آپ ﷺ کی ازواج نے اس سنت کو جاری رکھا۔",
+      "اعتکاف کے لیے فجر کی نماز کے بعد مخصوص جگہ (معتکف) میں داخل ہونا مسنون طریقہ ہے۔",
+      "معتکف کے لیے بغیر ضرورت کے گھر جانا منع ہے، البتہ مسجد سے باہر موجود اہل خانہ سے کنگھی کروانا جیسے کام جائز ہیں۔",
+      "اعتکاف کے دوران مریض کی عیادت، جنازہ میں شرکت اور بیوی سے جسمانی قربت ممنوع ہے۔",
+      "اعتکاف کے لیے روزہ رکھنا ضروری ہے یا نہیں، اس بارے میں صحابہ کی مختلف آراء منقول ہیں۔",
+      "شبِ قدر کو رمضان کی آخری سات راتوں میں تلاش کرنے کی خاص تاکید کی گئی ہے۔",
+      "ایک روایت کے مطابق ستائیسویں رات کو شبِ قدر ہونے کا قوی امکان ظاہر کیا گیا ہے۔",
+      "شبِ قدر پانے کی صورت میں 'اللہم إنک عفو تحب العفو فاعف عنی' پڑھنا سب سے بہترین دعا ہے۔",
+      "ثواب کی نیت سے خصوصی سفر صرف تین مسجدوں (حرام، نبوی اور اقصیٰ) کی طرف کرنا جائز ہے۔"
+    ],
+    "english": [
+      "Observing night prayers (Qiyam) in Ramadan with faith and sincerity leads to the forgiveness of past sins.",
+      "During the last ten days of Ramadan, the Prophet (ﷺ) would exert maximum effort in worship and wake his family.",
+      "The Prophet (ﷺ) consistently observed I'tikaf in the last ten nights, a tradition followed by his wives after him.",
+      "The sunnah for entering the place of I'tikaf is to do so after performing the Fajr prayer.",
+      "A person in I'tikaf should not enter their home except for absolute necessity, though basic grooming assistance is allowed.",
+      "Visiting the sick, attending funerals, and physical intimacy with one's spouse are prohibited during I'tikaf.",
+      "There are differing scholarly views, based on companion reports, regarding whether fasting is a prerequisite for I'tikaf.",
+      "Laylat al-Qadr should be sought with conviction during the final seven nights of Ramadan.",
+      "Specific narrations highlight the twenty-seventh night as a prime candidate for Laylat al-Qadr.",
+      "The recommended supplication for the Night of Decree is asking Allah for His expansive pardon and forgiveness.",
+      "Special journeys for the purpose of seeking reward through prayer are restricted to the three sacred mosques."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب رمضان کے قیام، آخری عشرے کی عبادات، اعتکاف کے ضوابط، شبِ قدر کی فضیلت اور مساجدِ ثلاثہ کی اہمیت بیان کرتا ہے۔",
+    "english": "This chapter details the merit of Ramadan night prayers, the rules of I'tikaf, seeking Laylat al-Qadr, and the sanctity of the three holy mosques."
   },
   "hadithRange": {
     "from": 568,

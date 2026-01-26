@@ -2,12 +2,24 @@
   "chapId": 49,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "قرض ادا کرنے کی استطاعت رکھنے کے باوجود ادائیگی میں تاخیر کرنا ظلم ہے، اور اگر قرض کی وصولی کے لیے کسی دوسرے مالدار کا حوالہ دیا جائے تو اسے قبول کر لینا چاہیے۔",
+      "قرض کی سنگینی اس قدر زیادہ ہے کہ ابتدا میں رسول اللہ ﷺ نے ایسے مقروض کا جنازہ پڑھانے سے انکار کر دیا تھا جس نے ترکہ نہ چھوڑا ہو، جب تک کہ کوئی دوسرا اس کی ذمہ داری نہ لے لے۔",
+      "کسی دوسرے کے قرض کی ادائیگی کا وعدہ (کفالت) کر لینے سے قرض خواہ کا حق ضامن پر منتقل ہو جاتا ہے اور میت بری الذمہ ہو جاتی ہے۔",
+      "ریاست کے وسائل میں اضافے کے بعد، رسول اللہ ﷺ نے بے سہارا فوت ہونے والے مسلمانوں کے قرضوں کی ادائیگی کی ذمہ داری خود قبول فرمائی۔",
+      "شرعی حدود اور سزاؤں (حدود اللہ) کے معاملے میں کسی کی ضمانت یا کفالت قبول نہیں کی جا سکتی تاکہ قانون کی بالادستی قائم رہے۔"
+    ],
+    "english": [
+      "Procrastination in repaying a debt by someone who has the means is an injustice; if a creditor is referred to a solvent third party (Hawalah), the referral should be accepted.",
+      "The gravity of debt is such that the Prophet (ﷺ) initially declined to lead the funeral prayer for a debtor who left no assets until someone else undertook the liability.",
+      "Once a person guarantees the debt of another (Kafalah), the creditor's legal right is established against the guarantor, and the deceased is cleared of the burden.",
+      "With the expansion of the Islamic state's treasury, the Prophet (ﷺ) took personal responsibility for settling the debts of believers who died in poverty.",
+      "Islamic legal punishments (Hudud) do not admit bail or personal guarantees (Kafalah), ensuring that divine laws are strictly enforced without interference."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب قرض کی منتقلی (حوالہ)، کسی کی مالی ذمہ داری اٹھانے (کفالت) اور میت کے قرض سے متعلق شرعی احکامات کی وضاحت کرتا ہے۔",
+    "english": "This chapter details the legal rulings regarding the transfer of debt (Hawalah), providing guarantees for others (Kafalah), and the handling of a deceased person's outstanding debts."
   },
   "hadithRange": {
     "from": 738,

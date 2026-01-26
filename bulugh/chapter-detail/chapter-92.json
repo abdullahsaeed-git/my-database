@@ -2,12 +2,26 @@
   "chapId": 92,
   "bookId": 12,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "تمام کچلی والے درندے (شیر، چیتا وغیرہ) اور پنجوں سے شکار کرنے والے پرندے (شاہین، عقاب وغیرہ) کھانا حرام ہیں۔",
+      "گھریلو گدھوں کا گوشت حرام ہے، جبکہ گھوڑے اور جنگلی گدھے کا گوشت کھانا جائز اور حلال ہے۔",
+      "خرگوش، ٹڈی اور سانڈا (ضب) حلال جانوروں میں شامل ہیں؛ نبی ﷺ کے سامنے یا دسترخوان پر یہ اشیاء تناول کی گئی ہیں۔",
+      "ایسا جانور جو صرف گندگی کھاتا ہو (جلالہ)، اس کا گوشت اور دودھ اس وقت تک ممنوع ہے جب تک اسے کچھ دن پاک غذا دے کر صاف نہ کر لیا جائے۔",
+      "چیونٹی، شہد کی مکھی، ہدہد اور صرد (ممولا) کو بلا وجہ قتل کرنا منع ہے؛ اسی طرح مینڈک کو دوا کے لیے بھی مارنے سے روک دیا گیا ہے۔",
+      "حلال و حرام کا بنیادی قاعدہ یہ ہے کہ طیبات (پاکیزہ چیزیں) حلال ہیں اور خبائث (گندی و ناپاک چیزیں) حرام ہیں۔"
+    ],
+    "english": [
+      "All fanged beasts of prey (like lions, tigers) and birds with talons (like hawks, eagles) are strictly prohibited (Haram) for consumption.",
+      "Domestic donkeys are forbidden, whereas horse meat and wild donkeys (onagers) are permissible (Halal) to eat.",
+      "Consuming rabbits, locusts, and the desert lizard (Dabb) is allowed, as evidenced by the Prophet's (ﷺ) approval and presence when they were eaten.",
+      "The meat and milk of 'Al-Jallalah' (animals that feed primarily on filth or dung) are prohibited until the animal is kept away from filth and fed clean food for a period.",
+      "Killing ants, bees, hoopoes, and shrikes without a valid cause is forbidden; similarly, the Prophet (ﷺ) prohibited killing frogs even for medicinal use.",
+      "The fundamental rule for food in Islam is that all pure and wholesome things (Tayyibat) are lawful, while all loathsome or harmful things (Khaba'ith) are forbidden."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب حلال و حرام جانوروں اور پرندوں کی پہچان، مخصوص جانوروں کی ممانعت، اور طیبات و خبائث کے شرعی اصولوں کو بیان کرتا ہے۔",
+    "english": "This chapter details the identification of Halal and Haram animals and birds, specific prohibitions, and the Sharia principles of wholesome versus loathsome food."
   },
   "hadithRange": {
     "from": 1135,

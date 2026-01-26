@@ -2,12 +2,24 @@
   "chapId": 73,
   "bookId": 8,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "ایلاء کا مطلب یہ ہے کہ شوہر بیوی کے پاس نہ جانے کی قسم کھا لے؛ اسلام نے اس کی زیادہ سے زیادہ مدت چار ماہ مقرر کی ہے۔",
+      "اگر کوئی شخص ایلاء کرے اور رجوع کر لے تو اسے اپنی قسم کا کفارہ ادا کرنا ہوگا۔",
+      "چار ماہ کی مدت گزرنے پر طلاق خود بخود واقع نہیں ہوتی، بلکہ حاکمِ وقت شوہر کو مجبور کرے گا کہ یا تو وہ رجوع کرے یا پھر باقاعدہ طلاق دے۔",
+      "ظہار (بیوی کو ماں یا بہن سے تشبیہ دینا) ایک قبیح فعل ہے جس سے بیوی حرام ہو جاتی ہے اور رجوع کے لیے بھاری کفارہ لازم ہوتا ہے۔",
+      "ظہار کا کفارہ ادا کرنے سے پہلے بیوی کے قریب جانا شرعاً ممنوع ہے؛ کفارہ کی ترتیب غلام آزاد کرنا، مسلسل دو ماہ کے روزے یا ساٹھ مسکینوں کو کھانا کھلانا ہے۔"
+    ],
+    "english": [
+      "Ila' is a husband's vow of abstinence from his wife; Islam limits this period to a maximum of four months to protect the wife's rights.",
+      "If a husband breaks his vow of Ila' and reconciles, he must provide expiation (Kaffarah) for his oath.",
+      "Divorce does not occur automatically after the four-month period of Ila'; rather, the authority requires the husband to either reconcile or formally pronounce divorce.",
+      "Zihar (likening one's wife to a prohibited relative) makes the wife forbidden to the husband, necessitating a heavy expiation for reconciliation.",
+      "It is prohibited to have intimacy after Zihar until the expiation is completed; the hierarchy of Kaffarah includes freeing a slave, fasting for two consecutive months, or feeding sixty poor people."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب ایلاء (بیوی سے الگ رہنے کی قسم) اور ظہار (بیوی کو حرام قرار دینے) کے شرعی ضوابط، ان کی مدت اور کفارے کے احکامات بیان کرتا ہے۔",
+    "english": "This chapter details the legal regulations for Ila' (vows of abstinence) and Zihar (prohibitive comparisons to relatives), including their time limits and the required expiations."
   },
   "hadithRange": {
     "from": 930,

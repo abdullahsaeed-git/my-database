@@ -2,12 +2,44 @@
   "chapId": 16,
   "bookId": 2,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "محلوں میں مسجدیں تعمیر کرنے، انہیں صاف ستھرا رکھنے اور خوشبو لگانے کا حکم دیا گیا ہے۔",
+      "قبروں پر مسجدیں بنانا یا انہیں سجدہ گاہ بنانا ممنوع اور بدترین مخلوق کا فعل ہے۔",
+      "مسجد میں قیدیوں یا ضرورت مندوں کو ستونوں سے باندھنا یا ٹھہرانا جائز ہے۔",
+      "مسجد میں حق پر مبنی اشعار پڑھنا جائز ہے، جیسا کہ حضرت حسان بن ثابت پڑھتے تھے۔",
+      "مسجد میں گمشدہ چیز کا اعلان کرنا منع ہے اور ایسا کرنے والے کے لیے ناپسندیدگی کا اظہار مسنون ہے۔",
+      "مسجد کے اندر خرید و فروخت اور تجارتی سرگرمیاں کرنا شرعاً ممنوع ہیں۔",
+      "مساجد میں شرعی حدود (سزائیں) نافذ کرنا یا قصاص لینا جائز نہیں (ضعیف روایت)۔",
+      "بیماروں کی تیمارداری کے لیے مسجد میں عارضی خیمہ لگانا سنتِ نبوی سے ثابت ہے۔",
+      "مسجد میں نیزہ بازی یا جنگی مشقیں دیکھنا اور ان کا انعقاد کرنا درست ہے۔",
+      "مسجد میں غریبوں یا مسافروں کے لیے رہائشی خیمہ یا جگہ فراہم کرنا جائز ہے۔",
+      "مسجد میں تھوکنا گناہ ہے، اور اس کا کفارہ اسے صاف کرنا یا مٹی میں دفن کرنا ہے۔",
+      "مساجد کی تزئین و آرائش پر فخر کرنا قیامت کی نشانیوں میں سے ایک ہے۔",
+      "مساجد کو بلا ضرورت بہت زیادہ اونچا، پختہ اور عالی شان بنانے سے روکا گیا ہے۔",
+      "مسجد سے ایک چھوٹے سے تنکے یا کچرے کو صاف کرنا بھی اللہ کے ہاں بڑے اجر کا باعث ہے۔",
+      "مسجد میں داخل ہونے والے کے لیے بیٹھنے سے پہلے دو رکعت تحیۃ المسجد پڑھنا مسنون ہے۔"
+    ],
+    "english": [
+      "It is commanded to build mosques in local districts and keep them clean and fragrant.",
+      "Constructing places of worship over graves is strictly forbidden and condemned as a major sin.",
+      "It is permissible to temporarily detain prisoners or guests within the pillars of the mosque.",
+      "Reciting purposeful or truthful poetry in the mosque is allowed, as practiced by the Sahaba.",
+      "Announcing lost items in the mosque is prohibited, as it deviates from its primary purpose.",
+      "Engaging in trade, buying, or selling within the sacred premises of the mosque is forbidden.",
+      "Carrying out legal punishments or retaliation inside the mosque is discouraged (weak report).",
+      "Setting up a temporary tent in the mosque for the care of the wounded is a Prophetic precedent.",
+      "Organizing or watching disciplined military sports or weapon play in the mosque is permissible.",
+      "Providing temporary shelter or tents for the needy or travelers in the mosque is allowed.",
+      "Spitting in the mosque is a sin, requiring immediate cleaning or covering as expiation.",
+      "Boasting about the elaborate decoration of mosques is cited as a sign of the approaching Hour.",
+      "The Prophet (ﷺ) advised against building overly lofty or excessively ornate structures for mosques.",
+      "Even the small act of removing a piece of straw from the mosque carries a spiritual reward.",
+      "One should not sit down upon entering the mosque without first praying two units of Tahiyyat al-Masjid."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب مساجد کی تعمیر، صفائی، آداب اور ان جائز و ناجائز کاموں کی وضاحت کرتا ہے جو مسجد کی حدود میں کیے جا سکتے ہیں۔",
+    "english": "This chapter outlines the etiquette of mosques, covering their construction, maintenance, and the permissible versus prohibited activities within them."
   },
   "hadithRange": {
     "from": 195,

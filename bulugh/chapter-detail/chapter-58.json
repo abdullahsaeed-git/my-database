@@ -2,12 +2,24 @@
   "chapId": 58,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "انسان کے انتقال کے بعد اس کے اعمال کا سلسلہ ختم ہو جاتا ہے، سوائے تین چیزوں کے: صدقہ جاریہ (وقف)، نفع بخش علم اور نیک اولاد کی دعا۔",
+      "وقف (Sadaqah Jariyah) کا اصل تصور یہ ہے کہ کسی قیمتی اثاثے کی اصل (Corpus) کو محفوظ کر دیا جائے تاکہ اسے نہ بیچا جا سکے، نہ وراثت میں دیا جائے اور نہ ہبہ کیا جائے، جبکہ اس کا نفع اللہ کی راہ میں خرچ ہو۔",
+      "وقف شدہ جائیداد کا فائدہ فقراء، مسافروں، رشتہ داروں اور فی سبیل اللہ جیسے نیک کاموں کے لیے مخصوص کیا جا سکتا ہے۔",
+      "وقف کے منتظم (متولی) کے لیے جائز ہے کہ وہ اس جائیداد سے اپنی ضرورت کے مطابق معروف طریقے سے فائدہ اٹھائے، بشرطیکہ وہ اسے مال جمع کرنے کا ذریعہ نہ بنائے۔",
+      "غیر منقولہ جائیداد (زمین) کے ساتھ ساتھ منقولہ اشیاء جیسے جنگی ساز و سامان اور اسلحہ کو بھی اللہ کی راہ میں وقف کیا جا سکتا ہے۔"
+    ],
+    "english": [
+      "Upon death, a person's deeds cease except for three ongoing sources: continuous charity (Waqf), beneficial knowledge, and the supplications of righteous children.",
+      "The legal essence of Waqf involves freezing the original asset (corpus) so that it cannot be sold, inherited, or gifted, while its produce or benefits are dedicated to charitable causes.",
+      "Endowments can be designated for various beneficiaries, including the poor, kinsmen, travelers, guests, and general causes in the path of Allah.",
+      "An administrator (Mutawalli) of a Waqf is permitted to consume from it in a reasonable and customary manner, provided they do not exploit it for personal wealth accumulation.",
+      "In addition to real estate, movable property such as armor, weapons, and equipment can be legally dedicated as a permanent endowment for communal or religious benefit."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب وقف (صدقہ جاریہ) کی فضیلت، اس کے شرعی ضوابط، اور منقولہ و غیر منقولہ جائیداد کو اللہ کی راہ میں مخصوص کرنے کے احکامات بیان کرتا ہے۔",
+    "english": "This chapter details the virtues and legal framework of Waqf (religious endowments), the rules for preserving the corpus of assets, and the administration of charitable trusts."
   },
   "hadithRange": {
     "from": 785,

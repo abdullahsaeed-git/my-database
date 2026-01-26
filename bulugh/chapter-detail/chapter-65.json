@@ -2,12 +2,30 @@
   "chapId": 65,
   "bookId": 8,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "نکاح میں کفو (برابری) کا تصور موجود ہے، تاہم تقویٰ اور اسلام پیشہ ورانہ حیثیت سے زیادہ اہمیت رکھتے ہیں۔",
+      "اسلام قبول کرنے کے بعد اگر کوئی مرد دو بہنوں کے نکاح میں ہو، تو اسے ایک کو منتخب کر کے دوسری کو الگ کرنا لازم ہے۔",
+      "اگر کوئی غیر مسلم دس بیویوں کے ساتھ اسلام لائے، تو اسے شرعی حد کے مطابق صرف چار بیویاں رکھنے کی اجازت ہوگی۔",
+      "میاں بیوی میں سے کوئی ایک اسلام قبول کر لے اور عدت کے دوران دوسرا بھی مسلمان ہو جائے، تو پہلے نکاح کو برقرار رکھا جا سکتا ہے۔",
+      "اگر نکاح کے بعد عورت میں کوئی ایسا بڑا عیب (جیسے برص، دیوانگی یا کوڑھ) پایا جائے جو چھپایا گیا تھا، تو مرد کو نکاح ختم کرنے کا اختیار ہے، لیکن ہمبستری کی صورت میں مہر ادا کرنا لازم ہوگا۔",
+      "دھوکہ دہی کی صورت میں شوہر مہر کی رقم اس شخص سے وصول کر سکتا ہے جس نے عیب چھپا کر اسے دھوکہ دیا۔",
+      "اگر شوہر جنسی معذوری (نامردی) کا شکار ہو، تو اسے علاج کے لیے ایک سال کی مہلت دی جائے گی، جس کے بعد بیوی کو علیحدگی کا حق حاصل ہوگا۔",
+      "لونڈی کو آزاد ہونے کے بعد یہ اختیار حاصل ہوتا ہے کہ وہ اپنے غلام شوہر کے ساتھ نکاح برقرار رکھے یا اسے ختم کر دے۔"
+    ],
+    "english": [
+      "The concept of Kufu (compatibility) exists in marriage, though piety and faith hold more weight than professional or social status.",
+      "Upon embracing Islam, a man married to two sisters must choose one and separate from the other to comply with Sharia.",
+      "A man entering Islam with more than four wives is required to select only four and divorce the remainder.",
+      "If one spouse accepts Islam and the other follows suit before the completion of the waiting period (Iddah), the original marriage remains valid.",
+      "If a major undisclosed defect (such as leprosy, insanity, or vitiligo) is discovered after marriage, the husband has the right to annul the contract; however, Mahr is due if consummation occurred.",
+      "In cases of marital deception regarding health defects, the husband can reclaim the paid dower from the person who deceived him.",
+      "An impotent husband is legally granted a one-year grace period for treatment before the wife can exercise her right to seek annulment.",
+      "A female slave, upon gaining her freedom, is granted the legal option (Khayar al-Itq) to either remain with her slave husband or dissolve the marriage."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب نکاح میں کفو (برابری)، غیر مسلموں کے اسلام لانے کے بعد نکاح کے احکامات، اور جسمانی عیوب کی بنیاد پر نکاح فسخ کرنے کے اختیارات بیان کرتا ہے۔",
+    "english": "This chapter details compatibility in marriage (Kufu), rulings for non-Muslims who embrace Islam while married, and the legal grounds for annulling marriage due to physical or mental defects."
   },
   "hadithRange": {
     "from": 855,

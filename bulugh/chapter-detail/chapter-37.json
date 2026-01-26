@@ -2,12 +2,22 @@
   "chapId": 37,
   "bookId": 6,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "نبی ﷺ نے مختلف علاقوں کے لیے میقات (احرام باندھنے کی جگہیں) مقرر فرمائیں: مدینہ کے لیے ذوالحلیفہ، شام کے لیے جحفہ، نجد کے لیے قرن المنازل اور یمن کے لیے یلملم۔",
+      "یہ میقات ان علاقوں کے باشندوں اور وہاں سے گزرنے والے ہر اس شخص کے لیے ہیں جو حج یا عمرہ کا ارادہ رکھتا ہو۔",
+      "جو لوگ میقات کی حدود کے اندر رہتے ہوں، وہ اپنے گھر یا مقامِ قیام سے ہی احرام باندھ سکتے ہیں، یہاں تک کہ مکہ والے مکہ سے احرام باندھیں۔",
+      "اہلِ عراق اور مشرق کے لوگوں کے لیے ذاتِ عرق اور العقیق کو بطور میقات مقرر کیا گیا ہے۔"
+    ],
+    "english": [
+      "The Prophet (ﷺ) designated specific Miqats (boundary points for Ihram): Dhul-Hulaifah for Madinah, al-Juhfah for Ash-Sham, Qarn al-Manazil for Najd, and Yalamlam for Yemen.",
+      "These boundaries apply to the residents of these areas and anyone passing through them with the intention of performing Hajj or Umrah.",
+      "Those living within the Miqat boundaries may enter Ihram from their place of residence, and the people of Makkah may do so from Makkah itself.",
+      "Dhat Irq and al-Aqiq were established as the Miqats for the people of Iraq and the East."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب ان جغرافیائی حدود (میقات) کی وضاحت کرتا ہے جہاں سے حج اور عمرہ کے مسافروں پر احرام باندھنا واجب ہوتا ہے۔",
+    "english": "This chapter details the geographical boundaries (Miqats) where pilgrims must enter the state of Ihram for Hajj and Umrah."
   },
   "hadithRange": {
     "from": 590,

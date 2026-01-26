@@ -2,12 +2,30 @@
   "chapId": 79,
   "bookId": 9,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "اسلام میں انسانی جان کی حرمت سب سے مقدم ہے؛ کسی مسلمان کا خون بہانا جائز نہیں سوائے تین صورتوں کے: قصاص (جان کے بدلے جان)، شادی شدہ زانی کی سزا، اور دین سے پھر کر مسلمانوں کی جماعت چھوڑنے والا۔",
+      "قیامت کے دن اللہ تعالیٰ کی عدالت میں لوگوں کے درمیان سب سے پہلے خون (قتل و غارت) کے مقدمات کا فیصلہ کیا جائے گا۔",
+      "قصاص کا قانون برابری پر مبنی ہے؛ اگر کوئی مالک اپنے غلام کو قتل کرے یا اس کے اعضاء کاٹے تو اس سے بھی بدلہ لیا جائے گا۔",
+      "تمام مومنین کے خون کی قیمت برابر ہے؛ کسی مسلمان کو کسی کافر کے بدلے قتل نہیں کیا جائے گا، تاہم معاہد (غیر مسلم شہری) کی جان کی حفاظت بھی ریاست کی ذمہ داری ہے۔",
+      "قتلِ عمد (جان بوجھ کر قتل) کی صورت میں مقتول کے ورثاء کو دو اختیارات حاصل ہیں: یا تو وہ قاتل سے قصاص (جان کا بدلہ) لیں یا دیت (خون بہا) قبول کر کے معاف کر دیں۔",
+      "اگر قتل میں ایک سے زیادہ افراد شریک ہوں، تو سب سے قصاص لیا جا سکتا ہے؛ جیسا کہ سیدنا عمر رضی اللہ عنہ نے فرمایا کہ اگر پورا شہر بھی ایک قتل میں شریک ہو تو سب سے بدلہ لیا جائے گا۔",
+      "زخموں کا قصاص لینے کے لیے زخمی کے مکمل تندرست ہونے کا انتظار کرنا ضروری ہے تاکہ بدلہ لینے میں زیادتی نہ ہو۔",
+      "باپ سے بیٹے کے قتل کا قصاص نہیں لیا جائے گا (اگرچہ وہ گناہگار ہوگا اور دیگر سزائیں دی جا سکتی ہیں)۔"
+    ],
+    "english": [
+      "The sanctity of human life is paramount in Islam; the blood of a Muslim cannot be shed except in three legal cases: capital retaliation (Qisas), stoning for a married adulterer, and apostasy with rebellion against the community.",
+      "On the Day of Judgment, cases involving bloodshed and homicide will be the first to be adjudicated by Allah.",
+      "The law of Qisas (retaliation) promotes equality; a master who kills or mutilates their slave is subject to the same punishment in return.",
+      "The lives of all believers are equal in value. While a Muslim is generally not killed in retaliation for a non-believer, the lives of non-Muslim citizens under treaty (Mu'ahid) are strictly protected by the state.",
+      "In cases of intentional murder, the victim's legal heirs have two choices: demanding the death penalty for the murderer (Qisas) or accepting blood-money (Diyat) as compensation.",
+      "Collective responsibility applies in murder; if multiple people collaborate in a killing, all can be executed in retaliation, as established by the decree of 'Umar (RA).",
+      "Retaliation for non-fatal wounds must be delayed until the victim is fully healed to ensure the punishment exactly matches the injury without transgression.",
+      "A father is not subject to the death penalty (Qisas) for the killing of his son, though he remains legally and spiritually accountable for the crime."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب قصاص (برابری کے بدلے) کے قوانین، انسانی جان کی حرمت، قتل کی مختلف اقسام اور ورثاء کے اختیارات کو بیان کرتا ہے۔",
+    "english": "This chapter details the laws of Qisas (retaliation in kind), the sanctity of life, different types of homicide, and the legal options available to the victim's heirs."
   },
   "hadithRange": {
     "from": 993,

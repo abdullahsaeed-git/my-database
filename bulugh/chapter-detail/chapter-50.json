@@ -2,12 +2,28 @@
   "chapId": 50,
   "bookId": 7,
   "summary": {
-    "urdu": [""],
-    "english": [""]
+    "urdu": [
+      "تجارت اور کام میں شراکت داری (پارٹنرشپ) اللہ کے نزدیک پسندیدہ ہے جب تک فریقین ایک دوسرے کے ساتھ دیانت دار رہیں۔",
+      "نبی ﷺ بعثت سے پہلے بھی تجارت میں شراکت داری فرماتے تھے اور اپنے پارٹنر کے حقوق کا احترام کرتے تھے۔",
+      "دو یا دو سے زائد افراد مشترکہ طور پر کسی مہم یا کام کے منافع میں حصہ دار بن سکتے ہیں۔",
+      "وکالت (نمائندگی) کا اصول اسلام میں ثابت ہے؛ کسی دوسرے کو اپنا وکیل بنا کر رقم وصول کرنا یا خریداری کرنا جائز ہے۔",
+      "سرکاری امور جیسے زکوٰۃ کی وصولی کے لیے نمائندے (عاملین) مقرر کرنا سنتِ نبوی ہے۔",
+      "عبادات اور قربانی جیسے کاموں میں بھی دوسرے کو اپنا نائب یا وکیل بنانا درست ہے، جیسا کہ نبی ﷺ نے حضرت علی کو قربانی کے لیے مقرر کیا۔",
+      "حدود اور عدالتی معاملات کی تحقیقات کے لیے بھی کسی معتبر شخص کو وکیل یا نمائندہ بنا کر بھیجا جا سکتا ہے۔"
+    ],
+    "english": [
+      "Partnership (Shirkah) in business is divinely blessed as long as both parties remain honest and avoid betrayal.",
+      "The Prophet (ﷺ) engaged in business partnerships before his mission and maintained high ethical standards with his associates.",
+      "Multiple individuals can enter into a partnership regarding future gains or spoils of a joint effort.",
+      "The principle of agency (Wakalah) is established in Islam; authorizing someone to act on one's behalf for financial or trade matters is permissible.",
+      "Appointing official agents for state duties, such as Zakat collection, is a Prophetic Sunnah.",
+      "Representation is allowed in acts of worship involving physical tasks, such as appointing a proxy to complete a sacrifice.",
+      "Legal and investigative tasks can be delegated to reliable representatives by authority figures or individuals."
+    ]
   },
   "description": {
-    "urdu": " ",
-    "english": " "
+    "urdu": "یہ باب شراکت داری کے اخلاقی ضوابط، وکالت (نمائندگی) کے شرعی ثبوت اور مختلف معاملات میں کسی کو اپنا وکیل بنانے کے احکامات بیان کرتا ہے۔",
+    "english": "This chapter details the ethics of business partnerships (Shirkah) and the legal framework for agency (Wakalah) in various personal and official matters."
   },
   "hadithRange": {
     "from": 742,
